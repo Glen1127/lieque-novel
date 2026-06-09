@@ -1,0 +1,48 @@
+{
+  "chapter": 9,
+  "passed": true,
+  "checks": [
+    {
+      "name": "strand_balance",
+      "passed": true,
+      "severity": "blocking",
+      "detail": "",
+      "fix": ""
+    },
+    {
+      "name": "entity_freshness",
+      "passed": true,
+      "severity": "blocking",
+      "detail": "",
+      "fix": ""
+    },
+    {
+      "name": "memory_bloat",
+      "passed": true,
+      "severity": "warning",
+      "detail": "",
+      "fix": ""
+    },
+    {
+      "name": "debt_burden",
+      "passed": true,
+      "severity": "warning",
+      "detail": "",
+      "fix": ""
+    },
+    {
+      "name": "contract_coverage",
+      "passed": true,
+      "severity": "warning",
+      "detail": "",
+      "fix": "infrastructure issue, does not block writing"
+    },
+    {
+      "name": "entity_name_consistency",
+      "passed": true,
+      "severity": "warning",
+      "detail": "",
+      "fix": ""
+    }
+  ]
+}

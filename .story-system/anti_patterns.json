@@ -1,0 +1,112 @@
+[
+  {
+    "text": "谜底提前透光",
+    "source_table": "题材与调性推理",
+    "source_id": "GR-002"
+  },
+  {
+    "text": "规则写得像背景板",
+    "source_table": "题材与调性推理",
+    "source_id": "GR-002"
+  },
+  {
+    "text": "处罚没有代价",
+    "source_table": "题材与调性推理",
+    "source_id": "GR-002"
+  },
+  {
+    "text": "规则写得像氛围诗，读者不知道能不能照做，也无法参与推理。",
+    "source_table": "场景写法",
+    "source_id": "SP-061"
+  },
+  {
+    "text": "单纯作死",
+    "source_table": "人设与关系",
+    "source_id": "CH-070"
+  },
+  {
+    "text": "所有人都劝还硬送",
+    "source_table": "人设与关系",
+    "source_id": "CH-070"
+  },
+  {
+    "text": "死亡没有任何信息价值",
+    "source_table": "人设与关系",
+    "source_id": "CH-070"
+  },
+  {
+    "text": "公告过长像设定说明",
+    "source_table": "爽点与节奏",
+    "source_id": "PA-017"
+  },
+  {
+    "text": "宣告后无即时后果",
+    "source_table": "爽点与节奏",
+    "source_id": "PA-017"
+  },
+  {
+    "text": "主角和旁观者都反应过慢",
+    "source_table": "爽点与节奏",
+    "source_id": "PA-017"
+  },
+  {
+    "text": "直接给答案",
+    "source_table": "爽点与节奏",
+    "source_id": "PA-072"
+  },
+  {
+    "text": "试错重复无信息",
+    "source_table": "爽点与节奏",
+    "source_id": "PA-072"
+  },
+  {
+    "text": "破解后规则失去威胁",
+    "source_table": "爽点与节奏",
+    "source_id": "PA-072"
+  },
+  {
+    "text": "规则过于文学化无法执行",
+    "source_table": "写作技法",
+    "source_id": "WT-071"
+  },
+  {
+    "text": "每条都只会吓人",
+    "source_table": "写作技法",
+    "source_id": "WT-071"
+  },
+  {
+    "text": "没有条件和后果",
+    "source_table": "写作技法",
+    "source_id": "WT-071"
+  },
+  {
+    "text": "一上来就满篇怪力乱神",
+    "source_table": "写作技法",
+    "source_id": "WT-033"
+  },
+  {
+    "text": "格式松散像随笔",
+    "source_table": "写作技法",
+    "source_id": "WT-033"
+  },
+  {
+    "text": "异常内容多到没有对比基础",
+    "source_table": "写作技法",
+    "source_id": "WT-033"
+  },
+  {
+    "text": "线索不公平",
+    "source_table": "裁决规则",
+    "source_id": "RS-009"
+  },
+  {
+    "text": "侦探神启",
+    "source_table": "裁决规则",
+    "source_id": "RS-009"
+  },
+  {
+    "text": "规则没有惩罚",
+    "source_table": "裁决规则",
+    "source_id": "RS-009"
+  }
+]

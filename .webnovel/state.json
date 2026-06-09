@@ -5,10 +5,10 @@
     "created_at": "2026-06-09",
     "target_words": 2000000,
     "target_chapters": 600,
-    "golden_finger_name": "",
-    "golden_finger_type": "",
-    "golden_finger_style": "",
-    "core_selling_points": "",
+    "golden_finger_name": "无金手指",
+    "golden_finger_type": "无",
+    "golden_finger_style": "无",
+    "core_selling_points": "克苏鲁/规则怪谈/双世界叙事/创伤心理",
     "protagonist_structure": "单主角",
     "heroine_config": "无女主",
     "heroine_names": "",
@@ -32,9 +32,9 @@
     "cultivation_subtiers": ""
   },
   "progress": {
-    "current_chapter": 0,
-    "total_words": 0,
-    "last_updated": "2026-06-09 09:49:22",
+    "current_chapter": 9,
+    "total_words": 33667,
+    "last_updated": "2026-06-09 10:45:00",
     "volumes_completed": [],
     "current_volume": 1,
     "volumes_planned": []
@@ -42,13 +42,13 @@
   "protagonist_state": {
     "name": "沈念",
     "power": {
-      "realm": "",
+      "realm": "普通人",
       "layer": 1,
       "bottleneck": ""
     },
     "location": {
-      "current": "",
-      "last_chapter": 0
+      "current": "废弃大剧院仓库",
+      "last_chapter": 9
     },
     "golden_finger": {
       "name": "未命名金手指",
@@ -58,7 +58,56 @@
     },
     "attributes": {}
   },
-  "relationships": {},
+  "relationships": {
+    "沈念": {
+      "name": "沈念",
+      "role": "主角",
+      "status": "已被标记，已接收母亲的回声，但母亲已被重新分配离开",
+      "relation_type": "known"
+    },
+    "陈姐": {
+      "name": "陈姐",
+      "role": "会计",
+      "status": "知道全部真相，最终向沈念坦白了母亲的真实意图",
+      "relation_type": "known"
+    },
+    "母亲沈敏": {
+      "name": "母亲沈敏",
+      "role": "已故（真实）",
+      "status": "已被重新分配——她的回声离开了沈念，去了某个未知的载体",
+      "relation_type": "known"
+    },
+    "悼": {
+      "name": "悼",
+      "role": "断舌收集者",
+      "status": "消失在异界",
+      "relation_type": "known"
+    },
+    "老周": {
+      "name": "老周",
+      "role": "沈念的师傅/曾经的收集者",
+      "status": "第8章出场，揭露了舞台的秘密和重新分配的规律；他也曾被给予布片进入异界",
+      "relation_type": "known"
+    },
+    "小陶": {
+      "name": "小陶",
+      "role": "实习生",
+      "status": "身体里接收了母亲沈敏的回声，但本人不知情",
+      "relation_type": "known"
+    },
+    "灰衣人": {
+      "name": "灰衣人",
+      "role": "碾磨回声者",
+      "status": "身份未说明",
+      "relation_type": "known"
+    },
+    "聆听者": {
+      "name": "聆听者",
+      "role": "深渊本身/最终Boss",
+      "status": "在舞台上重新分配了母亲的回声",
+      "relation_type": "known"
+    }
+  },
   "disambiguation_warnings": [],
   "disambiguation_pending": [],
   "world_settings": {
@@ -67,11 +116,143 @@
     "locations": []
   },
   "plot_threads": {
-    "active_threads": [],
+    "active_threads": [
+      {
+        "thread_name": "母亲被重新分配——她去了哪里？被谁接收了？",
+        "chapter_created": 1,
+        "status": "active"
+      },
+      {
+        "thread_name": "小陶在第8章出场——她会成为母亲的新载体吗？",
+        "chapter_created": 1,
+        "status": "active"
+      },
+      {
+        "thread_name": "灰衣人身份——第8章没有填，第9章必须填",
+        "chapter_created": 1,
+        "status": "active"
+      },
+      {
+        "thread_name": "聆听者的终极目的——为什么要碾磨回声？回声最后去了哪里？",
+        "chapter_created": 1,
+        "status": "active"
+      },
+      {
+        "thread_name": "老周的真实身份——他被谁给了布片？他凝视过聆听者吗？",
+        "chapter_created": 1,
+        "status": "active"
+      },
+      {
+        "thread_name": "舞台的秘密——满月时聆听者会在舞台上重新分配回声，这个规律是谁建立的？",
+        "chapter_created": 1,
+        "status": "active"
+      },
+      {
+        "thread_name": "第2章重写：陈姐恐惧躲避",
+        "chapter_created": 1,
+        "status": "resolved"
+      },
+      {
+        "thread_name": "第3章新骨架：返回异界追问悼",
+        "chapter_created": 1,
+        "status": "resolved"
+      },
+      {
+        "thread_name": "第4章新骨架：逼问陈姐，打开地下室门",
+        "chapter_created": 1,
+        "status": "resolved"
+      },
+      {
+        "thread_name": "第5章新骨架：档案室发现母亲自愿转移的真相",
+        "chapter_created": 1,
+        "status": "resolved"
+      },
+      {
+        "thread_name": "第6章新骨架：沈念接收母亲回声，母亲消失",
+        "chapter_created": 1,
+        "status": "resolved"
+      },
+      {
+        "thread_name": "第7章新骨架：发现规则第八条，带回母亲回声",
+        "chapter_created": 1,
+        "status": "resolved"
+      },
+      {
+        "thread_name": "第8章新骨架：老周出场揭露舞台真相——舞台是聆听者重新分配回声的地方；沈念选择让母亲被重新分配；母亲离开了；小陶出场；沈念开始带小陶整理仓库",
+        "chapter_created": 1,
+        "status": "resolved"
+      },
+      {
+        "thread_name": "第9章骨架：小陶是母亲的新载体（已被聆听者确认）；沈念发现自己的整理能力是异界改造的代价；灰衣人=档案记录员；真相是沈念亲手把母亲送进了小陶身体",
+        "chapter_created": 9,
+        "status": "resolved"
+      },
+      {
+        "thread_name": "母亲通过小陶继续存在——小陶的整理行为会被母亲的回声引导",
+        "chapter_created": 9,
+        "status": "active"
+      },
+      {
+        "thread_name": "布片空了之后还能触发穿越吗？——第10章需要回答",
+        "chapter_created": 9,
+        "status": "active"
+      },
+      {
+        "thread_name": "聆听者为什么选择小陶？——是否有更深的计划？",
+        "chapter_created": 9,
+        "status": "active"
+      }
+    ],
     "foreshadowing": []
   },
   "review_checkpoints": [],
-  "chapter_meta": {},
+  "chapter_meta": {
+    "第1章": {
+      "title": "第1章",
+      "words": 2889,
+      "status": "written"
+    },
+    "第2章": {
+      "title": "第2章",
+      "words": 2486,
+      "status": "written"
+    },
+    "第3章": {
+      "title": "第3章",
+      "words": 3286,
+      "status": "written"
+    },
+    "第4章": {
+      "title": "第4章",
+      "words": 4182,
+      "status": "written"
+    },
+    "第5章": {
+      "title": "第5章",
+      "words": 2235,
+      "status": "written"
+    },
+    "第6章": {
+      "title": "第6章",
+      "words": 3231,
+      "status": "written"
+    },
+    "第7章": {
+      "title": "第7章",
+      "words": 4599,
+      "status": "written"
+    },
+    "第8章": {
+      "title": "第8章",
+      "words": 6959,
+      "status": "written"
+    },
+    "第9章": {
+      "title": "代价",
+      "words": 3800,
+      "status": "written"
+    }
+  },
   "strand_tracker": {
     "last_quest_chapter": 0,
     "last_fire_chapter": 0,
