@@ -1,0 +1,25 @@
+{
+  "title": "势力与组织",
+  "organizations": [
+    {
+      "name": "档案室",
+      "aka": "整理者系统",
+      "type": "系统",
+      "leader": "聆听者",
+      "description": "管理回声的机构，维持两界平衡"
+    },
+    {
+      "name": "深层",
+      "aka": "深层系统",
+      "type": "空间",
+      "leader": "聆听者",
+      "description": "碾磨回声的终点"
+    },
+    {
+      "name": "候备名单",
+      "aka": "第1032号候备",
+      "type": "名单",
+      "description": "等待成为传递者的候选名单"
+    }
+  ]
+}

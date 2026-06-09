@@ -1,0 +1,24 @@
+{
+  "name": "老周",
+  "aka": [
+    "老周",
+    "周"
+  ],
+  "identity": "沈念的师傅/前任整理员",
+  "first_ch": 1,
+  "status": "supporting",
+  "origin": "大剧院仓库",
+  "personality": [
+    "沉默寡言",
+    "细心",
+    "保护沈念"
+  ],
+  "core_desire": "保护沈念",
+  "key_relationships": [
+    {
+      "target": "沈念",
+      "relation": "师傅/保护者",
+      "status": "信任"
+    }
+  ]
+}

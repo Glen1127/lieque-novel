@@ -1,57 +1,49 @@
 {
-  "character_id": "li_huowang",
-  "name": "李火旺",
-  "chapters": "0-242",
-  "status_at_end": "被白穗蛇捕获，困在洞穴中",
+  "character_id": "shen_nian",
+  "name": "沈念",
+  "chapters": "1-30（进行中）",
+  "status_at_end": "出发寻找第1032号",
   "physical_state": [
-    "手指大部分缺失",
-    "曾死亡三天后复活",
-    "缺少五脏（献祭给《大千录》）",
-    "缺少五行"
+    "正常",
+    "手指有时会抖（携带回声的影响）"
   ],
   "mental_state": [
-    "接受两个世界都真实",
-    "有多个幻觉同伴（丹阳子、英子等）",
-    "能在黑暗中视物",
-    "掌握《火袄真经》",
-    "掌握身体意识分离能力"
+    "接受自己是传递者",
+    "理解母亲的选择",
+    "对小陶有保护欲"
   ],
-  "arc_completion": "5阶段身份弧线完成",
-  "cost_accumulated": "失去正常人资格/双手沾满鲜血/身体残缺",
+  "arc_completion": "第一阶段完成：身份确立",
+  "cost_accumulated": "携带了回声，越来越难分清自己和别人的记忆",
   "relationships_at_end": [
     {
-      "name": "白灵淼",
-      "status": "同行，脸上有蛇鳞"
+      "name": "小陶",
+      "status": "等待沈念归来"
     },
     {
-      "name": "高智坚",
-      "status": "已死亡（Ch210）"
+      "name": "陈姐",
+      "status": "继续守护档案室"
     },
     {
-      "name": "春小满",
-      "status": "同行"
+      "name": "老周",
+      "status": "在现实中等待"
     },
     {
-      "name": "吕状元一家",
-      "status": "同行"
+      "name": "沈敏",
+      "status": "在深层等待"
     },
     {
-      "name": "杨娜",
-      "status": "分离（现实世界）"
+      "name": "第1032号",
+      "status": "被找到，即将接受使命"
     }
   ],
   "key_items_at_end": [
     {
-      "name": "静心师太的剑",
-      "status": "持有"
+      "name": "母亲的罐子",
+      "status": "留在深层"
     },
     {
-      "name": "《火袄真经》",
-      "status": "掌握"
-    },
-    {
-      "name": "《大千录》",
-      "status": "嵌入皮肤"
+      "name": "第1032号的线索",
+      "status": "随身携带"
     }
   ]
 }

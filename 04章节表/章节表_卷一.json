@@ -2,584 +2,213 @@
   "volume": "卷一",
   "chapters": [
     {
-      "ch": 0,
-      "title": "师傅",
-      "synopsis": "建立溶洞场景，介绍清风观和丹阳子",
-      "type": "intro",
-      "tension": "normal"
-    },
-    {
       "ch": 1,
-      "title": "李火旺",
-      "synopsis": "现实世界，精神病院，杨娜探望",
+      "title": "整理",
+      "synopsis": "沈念把第七箱玻璃酒杯从架子上搬下来，一只一只地用绒布擦拭。杯子是上世纪七十年代的样式，杯壁上有烫金的剧院徽章，擦掉灰尘后依然透亮。他数了数，一共四十七只，全部完好。",
       "type": "intro",
       "tension": "normal"
     },
     {
       "ch": 2,
-      "title": "玉佩",
-      "synopsis": "玉佩跨世界携带发现，确认两边都真实",
-      "type": "discovery",
+      "title": "回声",
+      "synopsis": "沈念回到仓库的时候，手还在抖。",
+      "type": "intro",
       "tension": "normal"
     },
     {
       "ch": 3,
-      "title": "黑鼎",
-      "synopsis": "惩罚逃跑者，玄阳出场",
+      "title": "悼",
+      "synopsis": "那天晚上，沈念没有睡。",
       "type": "intro",
       "tension": "normal"
     },
     {
       "ch": 4,
-      "title": "丹药",
-      "synopsis": "丹阳子收李火旺为记名弟子，赐道号玄阳",
+      "title": "账本",
+      "synopsis": "沈念推开会计室的门时，陈姐正在烧什么东西。",
       "type": "intro",
       "tension": "normal"
     },
     {
       "ch": 5,
-      "title": "价值",
-      "synopsis": "玉佩给杨娜验证，李火旺决心利用幻觉获利",
-      "type": "discovery",
+      "title": "档案",
+      "synopsis": "铁门后面是一条向下的楼梯。",
+      "type": "intro",
       "tension": "normal"
     },
     {
       "ch": 6,
-      "title": "糖块",
-      "synopsis": "糖块也可以跨世界",
+      "title": "转移",
+      "synopsis": "沈念的手在发抖。",
       "type": "discovery",
       "tension": "normal"
     },
     {
       "ch": 7,
-      "title": "翻篇",
-      "synopsis": "白灵淼出场，被李火旺救下",
-      "type": "character_intro",
+      "title": "记忆",
+      "synopsis": "沈念坐在后台的折叠床上，盯着自己的手。",
+      "type": "discovery",
       "tension": "normal"
     },
     {
       "ch": 8,
-      "title": "黑太岁",
-      "synopsis": "黑太岁出现，压制幻觉",
-      "type": "element",
+      "title": "舞台",
+      "synopsis": "那天晚上，剧院没有演出。",
+      "type": "discovery",
       "tension": "normal"
     },
     {
       "ch": 9,
-      "title": "杨娜",
-      "synopsis": "杨娜消散，情感崩溃",
-      "type": "emotional",
-      "tension": "crisis"
+      "title": "代价",
+      "synopsis": "仓库深处，沈念他盯着地面。",
+      "type": "discovery",
+      "tension": "normal"
     },
     {
       "ch": 10,
-      "title": "玄元",
-      "synopsis": "早课，清风观日常，道号分配",
-      "type": "world",
+      "title": "整理",
+      "synopsis": "仓库里的灯是那种老式的日光灯，嗡嗡响，声音很轻，但沈念已经习惯了。",
+      "type": "discovery",
       "tension": "normal"
     },
     {
       "ch": 11,
-      "title": "天书",
-      "synopsis": "发现天书可能的价值，开始布局",
-      "type": "plotting",
-      "tension": "normal"
+      "title": "标记",
+      "synopsis": "手指还在抖。",
+      "type": "plot",
+      "tension": "high_tension"
     },
     {
       "ch": 12,
-      "title": "拜年",
-      "synopsis": "春节，李火旺决定复仇",
-      "type": "planning",
-      "tension": "normal"
+      "title": "共存",
+      "synopsis": "布片已经空了三天了。",
+      "type": "plot",
+      "tension": "high_tension"
     },
     {
       "ch": 13,
-      "title": "游老爷",
-      "synopsis": "游老爷提及，弱点：初一十五不在",
-      "type": "discovery",
-      "tension": "normal"
+      "title": "融合",
+      "synopsis": "第四天。",
+      "type": "plot",
+      "tension": "high_tension"
     },
     {
       "ch": 14,
-      "title": "拜神",
-      "synopsis": "拜神仪式，准备对付正坤",
-      "type": "planning",
-      "tension": "normal"
+      "title": "规则",
+      "synopsis": "第五天。",
+      "type": "plot",
+      "tension": "high_tension"
     },
     {
       "ch": 15,
-      "title": "脑袋",
-      "synopsis": "正坤偷天书失败，被威胁",
-      "type": "conflict",
-      "tension": "normal"
+      "title": "深层",
+      "synopsis": "第六天。",
+      "type": "plot",
+      "tension": "high_tension"
     },
     {
       "ch": 16,
-      "title": "纸条",
-      "synopsis": "李火旺设局，纸条引导正坤",
-      "type": "plotting",
-      "tension": "normal"
+      "title": "入口",
+      "synopsis": "第七天。",
+      "type": "plot",
+      "tension": "high_tension"
     },
     {
       "ch": 17,
-      "title": "正坤",
-      "synopsis": "正坤被游老爷杀死，复仇成功",
-      "type": "climax",
+      "title": "索引室",
+      "synopsis": "第八天。",
+      "type": "plot",
       "tension": "high_tension"
     },
     {
       "ch": 18,
-      "title": "道铃",
-      "synopsis": "道铃修复，游老爷重召",
-      "type": "resolution",
-      "tension": "normal"
+      "title": "钥匙",
+      "synopsis": "索引室的深处比外面更安静。沈念和小陶走了很久。走廊越来越窄，光线越来越暗。",
+      "type": "cognitive",
+      "tension": "high_tension"
     },
     {
       "ch": 19,
-      "title": "离去",
-      "synopsis": "离开清风观，与吕戏班同行",
-      "type": "transition",
-      "tension": "normal"
+      "title": "离开",
+      "synopsis": "沈念看着小陶的脸。",
+      "type": "cognitive",
+      "tension": "high_tension"
     },
     {
       "ch": 20,
-      "title": "故人",
-      "synopsis": "遇故人，了解更多世界观",
-      "type": "world",
-      "tension": "normal"
+      "title": "门",
+      "synopsis": "深层入口在档案室的最深处。",
+      "type": "cognitive",
+      "tension": "high_tension"
     },
     {
       "ch": 21,
-      "title": "得道成仙",
-      "synopsis": "李火旺诱导丹阳子吃假丹",
-      "type": "climax",
+      "title": "寻找",
+      "synopsis": "沈念回到档案室第三层的时候，小陶还在那里等着。",
+      "type": "cognitive",
       "tension": "high_tension"
     },
     {
       "ch": 22,
-      "title": "黑太岁死",
-      "synopsis": "黑太岁消亡",
-      "type": "element",
-      "tension": "normal"
+      "title": "陈",
+      "synopsis": "第二天早上，沈念醒来的时候，感觉到了什么。",
+      "type": "cognitive",
+      "tension": "high_tension"
     },
     {
       "ch": 23,
-      "title": "祠堂",
-      "synopsis": "祠堂唱戏任务",
-      "type": "plot",
-      "tension": "normal"
+      "title": "真相",
+      "synopsis": "沈念站在那里。",
+      "type": "cognitive",
+      "tension": "high_tension"
     },
     {
       "ch": 24,
-      "title": "吕状元",
-      "synopsis": "吕戏班详细出场",
-      "type": "character_intro",
-      "tension": "normal"
+      "title": "一百份",
+      "synopsis": "沈念站在那里。",
+      "type": "climax",
+      "tension": "max_tension"
     },
     {
       "ch": 25,
-      "title": "吓人",
-      "synopsis": "戏班遇到怪人",
-      "type": "conflict",
-      "tension": "normal"
+      "title": "答案",
+      "synopsis": "沈念在档案室里待了三天。",
+      "type": "climax",
+      "tension": "max_tension"
     },
     {
       "ch": 26,
-      "title": "继续吓人",
-      "synopsis": "戏班与怪人的交涉",
-      "type": "plot",
+      "title": "回来",
+      "synopsis": "沈念从深层走出来的时候，天亮了。",
+      "type": "resolution",
       "tension": "normal"
     },
     {
       "ch": 27,
-      "title": "戏班同行",
-      "synopsis": "戏班与李火旺结伴",
-      "type": "relationship",
+      "title": "日常",
+      "synopsis": "仓库里的生活没有变。",
+      "type": "resolution",
       "tension": "normal"
     },
     {
       "ch": 28,
-      "title": "分别",
-      "synopsis": "短暂分别",
-      "type": "plot",
+      "title": "传递",
+      "synopsis": "一个月后，陈姐来了。",
+      "type": "resolution",
       "tension": "normal"
     },
     {
       "ch": 29,
-      "title": "新的开始",
-      "synopsis": "进入新阶段",
-      "type": "transition",
+      "title": "等待",
+      "synopsis": "半年后。",
+      "type": "resolution",
       "tension": "normal"
     },
     {
       "ch": 30,
-      "title": "游老爷",
-      "synopsis": "游老爷再次出场，道铃修复",
-      "type": "element",
-      "tension": "normal"
-    },
-    {
-      "ch": 31,
-      "title": "寻找线索",
-      "synopsis": "继续调查",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 32,
-      "title": "小脚女人",
-      "synopsis": "讨封类邪祟出场",
-      "type": "element",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 33,
-      "title": "喜神",
-      "synopsis": "喜神降临",
-      "type": "element",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 34,
-      "title": "司天监",
-      "synopsis": "朝廷机构介入",
-      "type": "world",
-      "tension": "normal"
-    },
-    {
-      "ch": 35,
-      "title": "建邺",
-      "synopsis": "进入建邺城",
-      "type": "world",
-      "tension": "normal"
-    },
-    {
-      "ch": 36,
-      "title": "酒馆",
-      "synopsis": "酒馆打听消息",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 37,
-      "title": "情报",
-      "synopsis": "获取情报",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 38,
-      "title": "赵五父",
-      "synopsis": "赵五父的故事",
-      "type": "character",
-      "tension": "normal"
-    },
-    {
-      "ch": 39,
-      "title": "监天司",
-      "synopsis": "监天司监视",
-      "type": "conflict",
-      "tension": "normal"
-    },
-    {
-      "ch": 40,
-      "title": "跟踪",
-      "synopsis": "被跟踪",
-      "type": "tension",
-      "tension": "normal"
-    },
-    {
-      "ch": 41,
-      "title": "正德寺",
-      "synopsis": "进入正德寺",
-      "type": "world",
-      "tension": "normal"
-    },
-    {
-      "ch": 42,
-      "title": "正德寺秘密",
-      "synopsis": "正德寺内部秘密",
-      "type": "discovery",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 43,
-      "title": "丹阳子成佛",
-      "synopsis": "丹阳子'成佛'=无相",
-      "type": "climax",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 44,
-      "title": "真相碎片",
-      "synopsis": "拼凑真相",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 45,
-      "title": "信任崩塌",
-      "synopsis": "对丹阳子的信任崩塌",
-      "type": "emotional",
-      "tension": "crisis"
-    },
-    {
-      "ch": 46,
-      "title": "推理",
-      "synopsis": "继续推理",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 47,
-      "title": "不确定",
-      "synopsis": "无法确认幻觉还是真实",
-      "type": "cognitive",
-      "tension": "crisis"
-    },
-    {
-      "ch": 48,
-      "title": "心素",
-      "synopsis": "心素概念首次引入",
-      "type": "discovery",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 49,
-      "title": "深入",
-      "synopsis": "继续深入调查",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 50,
-      "title": "对峙",
-      "synopsis": "与相关人员对峙",
-      "type": "conflict",
-      "tension": "normal"
-    },
-    {
-      "ch": 51,
-      "title": "丹阳子保护",
-      "synopsis": "发现丹阳子在保护李火旺",
-      "type": "reversal",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 52,
-      "title": "撕裂七佛",
-      "synopsis": "丹阳子撕裂七佛",
-      "type": "climax",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 53,
-      "title": "被看吃佛陀",
-      "synopsis": "别人看李火旺吃佛陀",
-      "type": "emotional",
-      "tension": "crisis"
-    },
-    {
-      "ch": 54,
-      "title": "出马弟子",
-      "synopsis": "出马弟子出场",
-      "type": "world",
-      "tension": "normal"
-    },
-    {
-      "ch": 55,
-      "title": "冲突",
-      "synopsis": "与出马弟子冲突",
-      "type": "conflict",
-      "tension": "normal"
-    },
-    {
-      "ch": 56,
-      "title": "二神",
-      "synopsis": "二神出场",
-      "type": "element",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 57,
-      "title": "交易",
-      "synopsis": "与出马弟子交易",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 58,
-      "title": "出马代价",
-      "synopsis": "出马仙的代价",
-      "type": "discovery",
-      "tension": "normal"
-    },
-    {
-      "ch": 59,
-      "title": "出马弟子揭示",
-      "synopsis": "出马弟子更多信息",
-      "type": "element",
-      "tension": "normal"
-    },
-    {
-      "ch": 60,
-      "title": "继续旅程",
-      "synopsis": "继续旅程",
-      "type": "transition",
-      "tension": "normal"
-    },
-    {
-      "ch": 61,
-      "title": "心素揭示",
-      "synopsis": "心素=唐僧肉揭示",
-      "type": "reversal",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 62,
-      "title": "阳寿葫芦",
-      "synopsis": "阳寿葫芦出场",
-      "type": "element",
-      "tension": "normal"
-    },
-    {
-      "ch": 63,
-      "title": "二神警告",
-      "synopsis": "二神警告后突然袭击",
-      "type": "conflict",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 64,
-      "title": "激战",
-      "synopsis": "与出马弟子激战",
-      "type": "conflict",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 65,
-      "title": "战胜夺舍",
-      "synopsis": "战胜但触发丹阳子夺舍",
-      "type": "reversal",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 66,
-      "title": "李志之死",
-      "synopsis": "李志死前情报：心素价值",
-      "type": "emotional",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 67,
-      "title": "荒岛",
-      "synopsis": "流落荒岛",
-      "type": "transition",
-      "tension": "normal"
-    },
-    {
-      "ch": 68,
-      "title": "屠杀开始",
-      "synopsis": "荒岛屠杀开始",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 69,
-      "title": "阳寿",
-      "synopsis": "阳寿葫芦获取",
-      "type": "element",
-      "tension": "normal"
-    },
-    {
-      "ch": 70,
-      "title": "屠杀继续",
-      "synopsis": "荒岛屠杀继续",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 71,
-      "title": "屠杀继续2",
-      "synopsis": "荒岛屠杀继续",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 72,
-      "title": "屠杀继续3",
-      "synopsis": "荒岛屠杀继续",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 73,
-      "title": "屠杀继续4",
-      "synopsis": "荒岛屠杀继续",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 74,
-      "title": "屠杀继续5",
-      "synopsis": "荒岛屠杀继续",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 75,
-      "title": "屠杀继续6",
-      "synopsis": "荒岛屠杀继续",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 76,
-      "title": "巴虺",
-      "synopsis": "巴虺召唤",
-      "type": "element",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 77,
-      "title": "巴虺失败",
-      "synopsis": "巴虺召唤失败/李火旺=怪物",
-      "type": "reversal",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 78,
-      "title": "高智坚",
-      "synopsis": "高智坚出场",
-      "type": "character_intro",
-      "tension": "normal"
-    },
-    {
-      "ch": 79,
-      "title": "安慈庵建立",
-      "synopsis": "安慈庵建立",
-      "type": "world",
-      "tension": "normal"
-    },
-    {
-      "ch": 80,
-      "title": "疗伤",
-      "synopsis": "在安慈庵疗伤",
-      "type": "recovery",
-      "tension": "normal"
-    },
-    {
-      "ch": 81,
-      "title": "静心师太",
-      "synopsis": "静心师太出场",
-      "type": "character_intro",
-      "tension": "normal"
-    },
-    {
-      "ch": 82,
-      "title": "卷一终",
-      "synopsis": "第一卷收尾",
-      "type": "transition",
+      "title": "出发",
+      "synopsis": "沈念走的那天，下雨了。",
+      "type": "resolution",
       "tension": "normal"
     }
   ]

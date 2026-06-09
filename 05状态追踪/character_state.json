@@ -1,149 +1,64 @@
 {
-  "book_id": "daoguai-xiasui",
+  "book_id": "lieque",
   "characters": {
-    "李火旺": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
+    "沈念": {
+      "first_appeared": 1,
+      "key_scenes": [
+        "Ch1 仓库日常",
+        "Ch10 发现回声",
+        "Ch25 进入深层",
+        "Ch30 出发"
+      ],
+      "status_at_end": "出发寻找第1032号"
     },
-    "白灵淼": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
+    "小陶": {
+      "first_appeared": 1,
+      "key_scenes": [
+        "Ch1 出场",
+        "Ch18 容器身份揭示",
+        "Ch19 选择继续成人"
+      ],
+      "status_at_end": "留在仓库等待沈念"
     },
-    "丹阳子": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
+    "陈姐": {
+      "first_appeared": 5,
+      "key_scenes": [
+        "Ch5 档案室守护者",
+        "Ch18 揭示身份",
+        "Ch25 等待"
+      ],
+      "status_at_end": "继续守护档案室"
     },
-    "杨娜": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
+    "老周": {
+      "first_appeared": 1,
+      "key_scenes": [
+        "Ch1 提及师傅",
+        "Ch10 规则副本"
+      ],
+      "status_at_end": "在现实中等待"
     },
-    "正坤": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
+    "沈敏": {
+      "first_appeared": 25,
+      "key_scenes": [
+        "Ch25 深层相见",
+        "Ch26-34 传递使命"
+      ],
+      "status_at_end": "在深层等待"
     },
-    "游老爷": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
+    "聆听者": {
+      "first_appeared": 25,
+      "key_scenes": [
+        "Ch25 深层出现"
+      ],
+      "status_at_end": "在深层碾磨回声"
     },
-    "吕状元": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "静心师太": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "高智坚": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "腊月十八": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "坐忘道": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "巴虺": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "姜英子": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "春小满": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "王成兴": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "赵乐": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "吕秀才": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "金山找": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "彭龙腾": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "孙宝禄": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "韩符": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "司天监": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "王韦": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
-    },
-    "何信": {
-      "first_appeared": "?",
-      "key_scenes": [],
-      "status_at_end": "见各角色卡",
-      "arc_completion": "见角色卡"
+    "第1032号": {
+      "first_appeared": 29,
+      "key_scenes": [
+        "Ch29 找到线索",
+        "Ch30 即将被找到"
+      ],
+      "status_at_end": "即将接受使命"
     }
   }
 }

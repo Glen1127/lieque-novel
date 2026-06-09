@@ -1,27 +1,23 @@
 {
   "volume_id": "volume_002",
-  "book_id": "daoguai-xiasui",
-  "chapters": "83-162",
-  "title": "大梁与真相",
-  "ending_chapter": 162,
+  "book_id": "lieque",
+  "chapters": "31-60",
+  "title": "第二卷：深层",
+  "ending_chapter": 60,
   "world_state": {
-    "安慈庵": "仍在",
-    "后蜀国": "进入",
-    "镖局": "建立联系",
-    "吴家村": "被揭示为假"
+    "大剧院仓库": "小陶守护中",
+    "档案室": "正常",
+    "深层": "沈念已深入探索"
   },
   "key_changes_this_volume": [
-    "腊月十八身份替换危机",
-    "吴家村从未真实存在",
-    "白灵淼与李火旺结婚",
-    "驱邪失败/两个月期限",
-    "英子背叛",
-    "丹阳子肉体消灭（Ch129）",
-    "屠杀真相揭示"
+    "深层全面探索",
+    "传递真相揭示",
+    "找到第1032号",
+    "代价显现"
   ],
   "protagonist_state_at_end": {
-    "location": "镖局训练中",
-    "key_status": "身体恢复中",
-    "mental_state": "身份危机深重"
+    "location": "未知",
+    "key_status": "找到第1032号",
+    "mental_state": "理解代价"
   }
 }

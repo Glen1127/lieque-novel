@@ -1,0 +1,215 @@
+{
+  "volume": "卷四",
+  "chapters": [
+    {
+      "ch": 91,
+      "title": "深层终极秘密",
+      "synopsis": "深层终极秘密（Ch91）",
+      "type": "discovery",
+      "tension": "crisis"
+    },
+    {
+      "ch": 92,
+      "title": "聆听者的真实身份",
+      "synopsis": "聆听者的真实身份（Ch92）",
+      "type": "cognitive",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 93,
+      "title": "系统的目的",
+      "synopsis": "系统的目的（Ch93）",
+      "type": "cognitive",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 94,
+      "title": "裂隙的存在意义",
+      "synopsis": "裂隙的存在意义（Ch94）",
+      "type": "cognitive",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 95,
+      "title": "沈念的追问",
+      "synopsis": "沈念的追问（Ch95）",
+      "type": "cognitive",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 96,
+      "title": "答案的碎片",
+      "synopsis": "答案的碎片（Ch96）",
+      "type": "discovery",
+      "tension": "normal"
+    },
+    {
+      "ch": 97,
+      "title": "真相拼图",
+      "synopsis": "真相拼图（Ch97）",
+      "type": "cognitive",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 98,
+      "title": "终极真相",
+      "synopsis": "终极真相（Ch98）",
+      "type": "climax",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 99,
+      "title": "聆听者的选择",
+      "synopsis": "聆听者的选择（Ch99）",
+      "type": "emotional",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 100,
+      "title": "聆听者身份揭示",
+      "synopsis": "聆听者身份揭示（Ch100）",
+      "type": "climax",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 101,
+      "title": "沈念的最终选择",
+      "synopsis": "沈念的最终选择（Ch101）",
+      "type": "emotional",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 102,
+      "title": "选择的意义",
+      "synopsis": "选择的意义（Ch102）",
+      "type": "cognitive",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 103,
+      "title": "继续还是停止",
+      "synopsis": "继续还是停止（Ch103）",
+      "type": "cognitive",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 104,
+      "title": "沈念的回答",
+      "synopsis": "沈念的回答（Ch104）",
+      "type": "emotional",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 105,
+      "title": "新的道路",
+      "synopsis": "新的道路（Ch105）",
+      "type": "resolution",
+      "tension": "normal"
+    },
+    {
+      "ch": 106,
+      "title": "新一代传递者",
+      "synopsis": "新一代传递者（Ch106）",
+      "type": "discovery",
+      "tension": "normal"
+    },
+    {
+      "ch": 107,
+      "title": "传递的轮回",
+      "synopsis": "传递的轮回（Ch107）",
+      "type": "plot",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 108,
+      "title": "第1032号的成长",
+      "synopsis": "第1032号的成长（Ch108）",
+      "type": "emotional",
+      "tension": "normal"
+    },
+    {
+      "ch": 109,
+      "title": "回到现实",
+      "synopsis": "回到现实（Ch109）",
+      "type": "transition",
+      "tension": "normal"
+    },
+    {
+      "ch": 110,
+      "title": "小陶的等待",
+      "synopsis": "小陶的等待（Ch110）",
+      "type": "emotional",
+      "tension": "normal"
+    },
+    {
+      "ch": 111,
+      "title": "重逢",
+      "synopsis": "重逢（Ch111）",
+      "type": "emotional",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 112,
+      "title": "新的生活",
+      "synopsis": "新的生活（Ch112）",
+      "type": "emotional",
+      "tension": "normal"
+    },
+    {
+      "ch": 113,
+      "title": "传递者的日常",
+      "synopsis": "传递者的日常（Ch113）",
+      "type": "transition",
+      "tension": "normal"
+    },
+    {
+      "ch": 114,
+      "title": "裂隙的延续",
+      "synopsis": "裂隙的延续（Ch114）",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 115,
+      "title": "新一代开始",
+      "synopsis": "新一代开始（Ch115）",
+      "type": "emotional",
+      "tension": "normal"
+    },
+    {
+      "ch": 116,
+      "title": "传承",
+      "synopsis": "传承（Ch116）",
+      "type": "emotional",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 117,
+      "title": "告别的准备",
+      "synopsis": "告别的准备（Ch117）",
+      "type": "emotional",
+      "tension": "normal"
+    },
+    {
+      "ch": 118,
+      "title": "最后的传递",
+      "synopsis": "最后的传递（Ch118）",
+      "type": "climax",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 119,
+      "title": "开放式结局",
+      "synopsis": "开放式结局（Ch119）",
+      "type": "resolution",
+      "tension": "normal"
+    },
+    {
+      "ch": 120,
+      "title": "继续",
+      "synopsis": "继续（Ch120）",
+      "type": "resolution",
+      "tension": "normal"
+    }
+  ]
+}

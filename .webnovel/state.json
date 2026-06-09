@@ -1,8 +1,8 @@
 {
-  "book_id": "daoguai-xiasui",
-  "current_chapter": 242,
-  "total_words": "~800000",
-  "phase": "completed",
+  "book_id": "lieque",
+  "current_chapter": 30,
+  "total_words": "~360000",
+  "phase": "writing",
   "last_updated": "2026-06-09",
   "chapters": {
     "0": {
@@ -10,1701 +10,581 @@
       "type": "intro",
       "tension": "normal",
       "synopsis": "建立溶洞场景，介绍清风观和丹阳子",
-      "status": "completed"
+      "status": "written"
     },
     "1": {
       "title": "李火旺",
       "type": "intro",
       "tension": "normal",
       "synopsis": "现实世界，精神病院，杨娜探望",
-      "status": "completed"
+      "status": "written"
     },
     "2": {
       "title": "玉佩",
       "type": "discovery",
       "tension": "normal",
       "synopsis": "玉佩跨世界携带发现，确认两边都真实",
-      "status": "completed"
+      "status": "written"
     },
     "3": {
       "title": "黑鼎",
       "type": "intro",
       "tension": "normal",
       "synopsis": "惩罚逃跑者，玄阳出场",
-      "status": "completed"
+      "status": "written"
     },
     "4": {
       "title": "丹药",
       "type": "intro",
       "tension": "normal",
       "synopsis": "丹阳子收李火旺为记名弟子，赐道号玄阳",
-      "status": "completed"
+      "status": "written"
     },
     "5": {
       "title": "价值",
       "type": "discovery",
       "tension": "normal",
       "synopsis": "玉佩给杨娜验证，李火旺决心利用幻觉获利",
-      "status": "completed"
+      "status": "written"
     },
     "6": {
       "title": "糖块",
       "type": "discovery",
       "tension": "normal",
       "synopsis": "糖块也可以跨世界",
-      "status": "completed"
+      "status": "written"
     },
     "7": {
       "title": "翻篇",
       "type": "character_intro",
       "tension": "normal",
       "synopsis": "白灵淼出场，被李火旺救下",
-      "status": "completed"
+      "status": "written"
     },
     "8": {
       "title": "黑太岁",
       "type": "element",
       "tension": "normal",
       "synopsis": "黑太岁出现，压制幻觉",
-      "status": "completed"
+      "status": "written"
     },
     "9": {
       "title": "杨娜",
       "type": "emotional",
       "tension": "crisis",
       "synopsis": "杨娜消散，情感崩溃",
-      "status": "completed"
+      "status": "written"
     },
     "10": {
       "title": "玄元",
       "type": "world",
       "tension": "normal",
       "synopsis": "早课，清风观日常，道号分配",
-      "status": "completed"
+      "status": "written"
     },
     "11": {
       "title": "天书",
       "type": "plotting",
       "tension": "normal",
       "synopsis": "发现天书可能的价值，开始布局",
-      "status": "completed"
+      "status": "written"
     },
     "12": {
       "title": "拜年",
       "type": "planning",
       "tension": "normal",
       "synopsis": "春节，李火旺决定复仇",
-      "status": "completed"
+      "status": "written"
     },
     "13": {
       "title": "游老爷",
       "type": "discovery",
       "tension": "normal",
       "synopsis": "游老爷提及，弱点：初一十五不在",
-      "status": "completed"
+      "status": "written"
     },
     "14": {
       "title": "拜神",
       "type": "planning",
       "tension": "normal",
       "synopsis": "拜神仪式，准备对付正坤",
-      "status": "completed"
+      "status": "written"
     },
     "15": {
       "title": "脑袋",
       "type": "conflict",
       "tension": "normal",
       "synopsis": "正坤偷天书失败，被威胁",
-      "status": "completed"
+      "status": "written"
     },
     "16": {
       "title": "纸条",
       "type": "plotting",
       "tension": "normal",
       "synopsis": "李火旺设局，纸条引导正坤",
-      "status": "completed"
+      "status": "written"
     },
     "17": {
       "title": "正坤",
       "type": "climax",
       "tension": "high_tension",
       "synopsis": "正坤被游老爷杀死，复仇成功",
-      "status": "completed"
+      "status": "written"
     },
     "18": {
       "title": "道铃",
       "type": "resolution",
       "tension": "normal",
       "synopsis": "道铃修复，游老爷重召",
-      "status": "completed"
+      "status": "written"
     },
     "19": {
       "title": "离去",
       "type": "transition",
       "tension": "normal",
       "synopsis": "离开清风观，与吕戏班同行",
-      "status": "completed"
+      "status": "written"
     },
     "20": {
       "title": "故人",
       "type": "world",
       "tension": "normal",
       "synopsis": "遇故人，了解更多世界观",
-      "status": "completed"
+      "status": "written"
     },
     "21": {
       "title": "得道成仙",
       "type": "climax",
       "tension": "high_tension",
       "synopsis": "李火旺诱导丹阳子吃假丹",
-      "status": "completed"
+      "status": "written"
     },
     "22": {
       "title": "黑太岁死",
       "type": "element",
       "tension": "normal",
       "synopsis": "黑太岁消亡",
-      "status": "completed"
+      "status": "written"
     },
     "23": {
       "title": "祠堂",
       "type": "plot",
       "tension": "normal",
       "synopsis": "祠堂唱戏任务",
-      "status": "completed"
+      "status": "written"
     },
     "24": {
       "title": "吕状元",
       "type": "character_intro",
       "tension": "normal",
       "synopsis": "吕戏班详细出场",
-      "status": "completed"
+      "status": "written"
     },
     "25": {
       "title": "吓人",
       "type": "conflict",
       "tension": "normal",
       "synopsis": "戏班遇到怪人",
-      "status": "completed"
+      "status": "written"
     },
     "26": {
       "title": "继续吓人",
       "type": "plot",
       "tension": "normal",
       "synopsis": "戏班与怪人的交涉",
-      "status": "completed"
+      "status": "written"
     },
     "27": {
       "title": "戏班同行",
       "type": "relationship",
       "tension": "normal",
       "synopsis": "戏班与李火旺结伴",
-      "status": "completed"
+      "status": "written"
     },
     "28": {
       "title": "分别",
       "type": "plot",
       "tension": "normal",
       "synopsis": "短暂分别",
-      "status": "completed"
+      "status": "written"
     },
     "29": {
       "title": "新的开始",
       "type": "transition",
       "tension": "normal",
       "synopsis": "进入新阶段",
-      "status": "completed"
+      "status": "written"
     },
     "30": {
       "title": "游老爷",
       "type": "element",
       "tension": "normal",
       "synopsis": "游老爷再次出场，道铃修复",
-      "status": "completed"
+      "status": "written"
     },
     "31": {
       "title": "寻找线索",
       "type": "plot",
       "tension": "normal",
       "synopsis": "继续调查",
-      "status": "completed"
+      "status": "planned"
     },
     "32": {
       "title": "小脚女人",
       "type": "element",
       "tension": "high_tension",
       "synopsis": "讨封类邪祟出场",
-      "status": "completed"
+      "status": "planned"
     },
     "33": {
       "title": "喜神",
       "type": "element",
       "tension": "high_tension",
       "synopsis": "喜神降临",
-      "status": "completed"
+      "status": "planned"
     },
     "34": {
       "title": "司天监",
       "type": "world",
       "tension": "normal",
       "synopsis": "朝廷机构介入",
-      "status": "completed"
+      "status": "planned"
     },
     "35": {
       "title": "建邺",
       "type": "world",
       "tension": "normal",
       "synopsis": "进入建邺城",
-      "status": "completed"
+      "status": "planned"
     },
     "36": {
       "title": "酒馆",
       "type": "plot",
       "tension": "normal",
       "synopsis": "酒馆打听消息",
-      "status": "completed"
+      "status": "planned"
     },
     "37": {
       "title": "情报",
       "type": "plot",
       "tension": "normal",
       "synopsis": "获取情报",
-      "status": "completed"
+      "status": "planned"
     },
     "38": {
       "title": "赵五父",
       "type": "character",
       "tension": "normal",
       "synopsis": "赵五父的故事",
-      "status": "completed"
+      "status": "planned"
     },
     "39": {
       "title": "监天司",
       "type": "conflict",
       "tension": "normal",
       "synopsis": "监天司监视",
-      "status": "completed"
+      "status": "planned"
     },
     "40": {
       "title": "跟踪",
       "type": "tension",
       "tension": "normal",
       "synopsis": "被跟踪",
-      "status": "completed"
+      "status": "planned"
     },
     "41": {
       "title": "正德寺",
       "type": "world",
       "tension": "normal",
       "synopsis": "进入正德寺",
-      "status": "completed"
+      "status": "planned"
     },
     "42": {
       "title": "正德寺秘密",
       "type": "discovery",
       "tension": "high_tension",
       "synopsis": "正德寺内部秘密",
-      "status": "completed"
+      "status": "planned"
     },
     "43": {
       "title": "丹阳子成佛",
       "type": "climax",
       "tension": "high_tension",
       "synopsis": "丹阳子'成佛'=无相",
-      "status": "completed"
+      "status": "planned"
     },
     "44": {
       "title": "真相碎片",
       "type": "plot",
       "tension": "normal",
       "synopsis": "拼凑真相",
-      "status": "completed"
+      "status": "planned"
     },
     "45": {
       "title": "信任崩塌",
       "type": "emotional",
       "tension": "crisis",
       "synopsis": "对丹阳子的信任崩塌",
-      "status": "completed"
+      "status": "planned"
     },
     "46": {
       "title": "推理",
       "type": "plot",
       "tension": "normal",
       "synopsis": "继续推理",
-      "status": "completed"
+      "status": "planned"
     },
     "47": {
       "title": "不确定",
       "type": "cognitive",
       "tension": "crisis",
       "synopsis": "无法确认幻觉还是真实",
-      "status": "completed"
+      "status": "planned"
     },
     "48": {
       "title": "心素",
       "type": "discovery",
       "tension": "high_tension",
       "synopsis": "心素概念首次引入",
-      "status": "completed"
+      "status": "planned"
     },
     "49": {
       "title": "深入",
       "type": "plot",
       "tension": "normal",
       "synopsis": "继续深入调查",
-      "status": "completed"
+      "status": "planned"
     },
     "50": {
       "title": "对峙",
       "type": "conflict",
       "tension": "normal",
       "synopsis": "与相关人员对峙",
-      "status": "completed"
+      "status": "planned"
     },
     "51": {
       "title": "丹阳子保护",
       "type": "reversal",
       "tension": "high_tension",
       "synopsis": "发现丹阳子在保护李火旺",
-      "status": "completed"
+      "status": "planned"
     },
     "52": {
       "title": "撕裂七佛",
       "type": "climax",
       "tension": "high_tension",
       "synopsis": "丹阳子撕裂七佛",
-      "status": "completed"
+      "status": "planned"
     },
     "53": {
       "title": "被看吃佛陀",
       "type": "emotional",
       "tension": "crisis",
       "synopsis": "别人看李火旺吃佛陀",
-      "status": "completed"
+      "status": "planned"
     },
     "54": {
       "title": "出马弟子",
       "type": "world",
       "tension": "normal",
       "synopsis": "出马弟子出场",
-      "status": "completed"
+      "status": "planned"
     },
     "55": {
       "title": "冲突",
       "type": "conflict",
       "tension": "normal",
       "synopsis": "与出马弟子冲突",
-      "status": "completed"
+      "status": "planned"
     },
     "56": {
       "title": "二神",
       "type": "element",
       "tension": "high_tension",
       "synopsis": "二神出场",
-      "status": "completed"
+      "status": "planned"
     },
     "57": {
       "title": "交易",
       "type": "plot",
       "tension": "normal",
       "synopsis": "与出马弟子交易",
-      "status": "completed"
+      "status": "planned"
     },
     "58": {
       "title": "出马代价",
       "type": "discovery",
       "tension": "normal",
       "synopsis": "出马仙的代价",
-      "status": "completed"
+      "status": "planned"
     },
     "59": {
       "title": "出马弟子揭示",
       "type": "element",
       "tension": "normal",
       "synopsis": "出马弟子更多信息",
-      "status": "completed"
+      "status": "planned"
     },
     "60": {
       "title": "继续旅程",
       "type": "transition",
       "tension": "normal",
       "synopsis": "继续旅程",
-      "status": "completed"
+      "status": "planned"
     },
     "61": {
       "title": "心素揭示",
       "type": "reversal",
       "tension": "high_tension",
       "synopsis": "心素=唐僧肉揭示",
-      "status": "completed"
+      "status": "planned"
     },
     "62": {
       "title": "阳寿葫芦",
       "type": "element",
       "tension": "normal",
       "synopsis": "阳寿葫芦出场",
-      "status": "completed"
+      "status": "planned"
     },
     "63": {
       "title": "二神警告",
       "type": "conflict",
       "tension": "high_tension",
       "synopsis": "二神警告后突然袭击",
-      "status": "completed"
+      "status": "planned"
     },
     "64": {
       "title": "激战",
       "type": "conflict",
       "tension": "high_tension",
       "synopsis": "与出马弟子激战",
-      "status": "completed"
+      "status": "planned"
     },
     "65": {
       "title": "战胜夺舍",
       "type": "reversal",
       "tension": "high_tension",
       "synopsis": "战胜但触发丹阳子夺舍",
-      "status": "completed"
+      "status": "planned"
     },
     "66": {
       "title": "李志之死",
       "type": "emotional",
       "tension": "high_tension",
       "synopsis": "李志死前情报：心素价值",
-      "status": "completed"
+      "status": "planned"
     },
     "67": {
       "title": "荒岛",
       "type": "transition",
       "tension": "normal",
       "synopsis": "流落荒岛",
-      "status": "completed"
+      "status": "planned"
     },
     "68": {
       "title": "屠杀开始",
       "type": "climax",
       "tension": "max_tension",
       "synopsis": "荒岛屠杀开始",
-      "status": "completed"
+      "status": "planned"
     },
     "69": {
       "title": "阳寿",
       "type": "element",
       "tension": "normal",
       "synopsis": "阳寿葫芦获取",
-      "status": "completed"
+      "status": "planned"
     },
     "70": {
       "title": "屠杀继续",
       "type": "climax",
       "tension": "max_tension",
       "synopsis": "荒岛屠杀继续",
-      "status": "completed"
+      "status": "planned"
     },
     "71": {
       "title": "屠杀继续2",
       "type": "climax",
       "tension": "max_tension",
       "synopsis": "荒岛屠杀继续",
-      "status": "completed"
+      "status": "planned"
     },
     "72": {
       "title": "屠杀继续3",
       "type": "climax",
       "tension": "max_tension",
       "synopsis": "荒岛屠杀继续",
-      "status": "completed"
+      "status": "planned"
     },
     "73": {
       "title": "屠杀继续4",
       "type": "climax",
       "tension": "max_tension",
       "synopsis": "荒岛屠杀继续",
-      "status": "completed"
+      "status": "planned"
     },
     "74": {
       "title": "屠杀继续5",
       "type": "climax",
       "tension": "max_tension",
       "synopsis": "荒岛屠杀继续",
-      "status": "completed"
+      "status": "planned"
     },
     "75": {
       "title": "屠杀继续6",
       "type": "climax",
       "tension": "max_tension",
       "synopsis": "荒岛屠杀继续",
-      "status": "completed"
+      "status": "planned"
     },
     "76": {
       "title": "巴虺",
       "type": "element",
       "tension": "max_tension",
       "synopsis": "巴虺召唤",
-      "status": "completed"
+      "status": "planned"
     },
     "77": {
       "title": "巴虺失败",
       "type": "reversal",
       "tension": "max_tension",
       "synopsis": "巴虺召唤失败/李火旺=怪物",
-      "status": "completed"
+      "status": "planned"
     },
     "78": {
       "title": "高智坚",
       "type": "character_intro",
       "tension": "normal",
       "synopsis": "高智坚出场",
-      "status": "completed"
+      "status": "planned"
     },
     "79": {
       "title": "安慈庵建立",
       "type": "world",
       "tension": "normal",
       "synopsis": "安慈庵建立",
-      "status": "completed"
+      "status": "planned"
     },
     "80": {
       "title": "疗伤",
       "type": "recovery",
       "tension": "normal",
       "synopsis": "在安慈庵疗伤",
-      "status": "completed"
+      "status": "planned"
     },
     "81": {
       "title": "静心师太",
       "type": "character_intro",
       "tension": "normal",
       "synopsis": "静心师太出场",
-      "status": "completed"
+      "status": "planned"
     },
     "82": {
       "title": "卷一终",
       "type": "transition",
       "tension": "normal",
       "synopsis": "第一卷收尾",
-      "status": "completed"
-    },
-    "83": {
-      "title": "静心暗示",
-      "type": "cognitive",
-      "tension": "high_tension",
-      "synopsis": "静心暗示：现代世界可能是幻觉",
-      "status": "completed"
-    },
-    "84": {
-      "title": "心素价值",
-      "type": "discovery",
-      "tension": "high_tension",
-      "synopsis": "心素的迷惘有修炼价值",
-      "status": "completed"
-    },
-    "85": {
-      "title": "继续旅程",
-      "type": "transition",
-      "tension": "normal",
-      "synopsis": "离开安慈庵继续旅程",
-      "status": "completed"
-    },
-    "86": {
-      "title": "路上",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "路上遇到的事情",
-      "status": "completed"
-    },
-    "87": {
-      "title": "吴家",
-      "type": "discovery",
-      "tension": "high_tension",
-      "synopsis": "吴家揭示",
-      "status": "completed"
-    },
-    "88": {
-      "title": "吴家村",
-      "type": "world",
-      "tension": "normal",
-      "synopsis": "进入吴家村",
-      "status": "completed"
-    },
-    "89": {
-      "title": "村民",
-      "type": "world",
-      "tension": "normal",
-      "synopsis": "村民的日常生活",
-      "status": "completed"
-    },
-    "90": {
-      "title": "腊月十八",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "腊月十八身份替换全员",
-      "status": "completed"
-    },
-    "91": {
-      "title": "身份危机",
-      "type": "emotional",
-      "tension": "crisis",
-      "synopsis": "身份替换的后果",
-      "status": "completed"
-    },
-    "92": {
-      "title": "逃离",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "试图逃离",
-      "status": "completed"
-    },
-    "93": {
-      "title": "狙击枪",
-      "type": "reversal",
-      "tension": "high_tension",
-      "synopsis": "幻觉中被狙击枪爆头",
-      "status": "completed"
-    },
-    "94": {
-      "title": "对峙",
-      "type": "conflict",
-      "tension": "high_tension",
-      "synopsis": "与替换后的身份对峙",
-      "status": "completed"
-    },
-    "95": {
-      "title": "自我折磨",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "自我折磨获得巴虺力量",
-      "status": "completed"
-    },
-    "96": {
-      "title": "巴虺再临",
-      "type": "element",
-      "tension": "high_tension",
-      "synopsis": "巴虺之力显现",
-      "status": "completed"
-    },
-    "97": {
-      "title": "腊月十八败",
-      "type": "resolution",
-      "tension": "high_tension",
-      "synopsis": "腊月十八被击败",
-      "status": "completed"
-    },
-    "98": {
-      "title": "杨小孩",
-      "type": "character",
-      "tension": "normal",
-      "synopsis": "杨小孩出场",
-      "status": "completed"
-    },
-    "99": {
-      "title": "吴家村假",
-      "type": "reversal",
-      "tension": "high_tension",
-      "synopsis": "吴家村从未真实存在",
-      "status": "completed"
-    },
-    "100": {
-      "title": "新的旅程",
-      "type": "transition",
-      "tension": "normal",
-      "synopsis": "新的旅程开始",
-      "status": "completed"
-    },
-    "101": {
-      "title": "婚礼前",
-      "type": "relationship",
-      "tension": "normal",
-      "synopsis": "白灵淼与李火旺准备婚礼",
-      "status": "completed"
-    },
-    "102": {
-      "title": "婚礼",
-      "type": "relationship",
-      "tension": "normal",
-      "synopsis": "婚礼场景",
-      "status": "completed"
-    },
-    "103": {
-      "title": "二神揭示",
-      "type": "reversal",
-      "tension": "high_tension",
-      "synopsis": "二神=白灵淼分身揭示",
-      "status": "completed"
-    },
-    "104": {
-      "title": "驱邪准备",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "准备驱邪",
-      "status": "completed"
-    },
-    "105": {
-      "title": "安慈庵战斗",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "安慈庵战斗开始",
-      "status": "completed"
-    },
-    "106": {
-      "title": "袄教仪式",
-      "type": "element",
-      "tension": "high_tension",
-      "synopsis": "袄教仪式进行",
-      "status": "completed"
-    },
-    "107": {
-      "title": "丹阳子撕裂佛",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "丹阳子撕裂七佛",
-      "status": "completed"
-    },
-    "108": {
-      "title": "驱邪失败",
-      "type": "reversal",
-      "tension": "crisis",
-      "synopsis": "驱邪失败",
-      "status": "completed"
-    },
-    "109": {
-      "title": "两个月期限",
-      "type": "reversal",
-      "tension": "high_tension",
-      "synopsis": "两个月期限揭示",
-      "status": "completed"
-    },
-    "110": {
-      "title": "决定去死",
-      "type": "emotional",
-      "tension": "crisis",
-      "synopsis": "李火旺决定去死",
-      "status": "completed"
-    },
-    "111": {
-      "title": "改变主意",
-      "type": "reversal",
-      "tension": "normal",
-      "synopsis": "决定寻找袄景教",
-      "status": "completed"
-    },
-    "112": {
-      "title": "吕家班重逢",
-      "type": "relationship",
-      "tension": "normal",
-      "synopsis": "吕家班重逢",
-      "status": "completed"
-    },
-    "113": {
-      "title": "镖局训练",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "镖局训练开始",
-      "status": "completed"
-    },
-    "114": {
-      "title": "训练中",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "训练中的事情",
-      "status": "completed"
-    },
-    "115": {
-      "title": "馒头",
-      "type": "character",
-      "tension": "normal",
-      "synopsis": "狗'馒头'出场",
-      "status": "completed"
-    },
-    "116": {
-      "title": "继续训练",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "继续训练",
-      "status": "completed"
-    },
-    "117": {
-      "title": "袄景教洞穴",
-      "type": "element",
-      "tension": "high_tension",
-      "synopsis": "潜入袄景教洞穴",
-      "status": "completed"
-    },
-    "118": {
-      "title": "姜英子",
-      "type": "character",
-      "tension": "high_tension",
-      "synopsis": "姜英子出场",
-      "status": "completed"
-    },
-    "119": {
-      "title": "信任建立",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "与姜英子建立信任",
-      "status": "completed"
-    },
-    "120": {
-      "title": "英子真实身份",
-      "type": "character",
-      "tension": "normal",
-      "synopsis": "英子开始展现真实感情",
-      "status": "completed"
-    },
-    "121": {
-      "title": "巧克力",
-      "type": "emotional",
-      "tension": "normal",
-      "synopsis": "幻觉中出现巧克力场景",
-      "status": "completed"
-    },
-    "122": {
-      "title": "偏执",
-      "type": "emotional",
-      "tension": "high_tension",
-      "synopsis": "李火旺偏执加重",
-      "status": "completed"
-    },
-    "123": {
-      "title": "火袄箴经",
-      "type": "element",
-      "tension": "normal",
-      "synopsis": "获得火袄箴经",
-      "status": "completed"
-    },
-    "124": {
-      "title": "刺杀",
-      "type": "conflict",
-      "tension": "high_tension",
-      "synopsis": "刺杀企图",
-      "status": "completed"
-    },
-    "125": {
-      "title": "屠杀真相",
-      "type": "reversal",
-      "tension": "max_tension",
-      "synopsis": "英子揭示：李火旺屠杀万人",
-      "status": "completed"
-    },
-    "126": {
-      "title": "反驳证据",
-      "type": "reversal",
-      "tension": "high_tension",
-      "synopsis": "李火旺发现证据不匹配",
-      "status": "completed"
-    },
-    "127": {
-      "title": "四年记忆",
-      "type": "emotional",
-      "tension": "high_tension",
-      "synopsis": "四年记忆被展示",
-      "status": "completed"
-    },
-    "128": {
-      "title": "确认屠杀",
-      "type": "reversal",
-      "tension": "max_tension",
-      "synopsis": "确认屠杀是李火旺所为",
-      "status": "completed"
-    },
-    "129": {
-      "title": "丹阳子终局",
-      "type": "climax",
-      "tension": "high_tension",
-      "synopsis": "丹阳子永久消灭",
-      "status": "completed"
-    },
-    "130": {
-      "title": "埋葬",
-      "type": "resolution",
-      "tension": "normal",
-      "synopsis": "埋葬死者",
-      "status": "completed"
-    },
-    "131": {
-      "title": "心素无药",
-      "type": "reversal",
-      "tension": "high_tension",
-      "synopsis": "心素无药可医揭示",
-      "status": "completed"
-    },
-    "132": {
-      "title": "静心教诲",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "静心传授剑和信息",
-      "status": "completed"
-    },
-    "133": {
-      "title": "佛教五界",
-      "type": "world",
-      "tension": "normal",
-      "synopsis": "佛教五界信息",
-      "status": "completed"
-    },
-    "134": {
-      "title": "静心剑",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "静心把剑交给李火旺",
-      "status": "completed"
-    },
-    "135": {
-      "title": "返回旅程",
-      "type": "transition",
-      "tension": "normal",
-      "synopsis": "返回旅程",
-      "status": "completed"
-    },
-    "136": {
-      "title": "镖局",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "镖局15天训练开始",
-      "status": "completed"
-    },
-    "137": {
-      "title": "镖局生活",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "镖局日常生活",
-      "status": "completed"
-    },
-    "138": {
-      "title": "王成兴",
-      "type": "character",
-      "tension": "normal",
-      "synopsis": "王成兴出场",
-      "status": "completed"
-    },
-    "139": {
-      "title": "训练",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "镖局训练",
-      "status": "completed"
-    },
-    "140": {
-      "title": "疗愈",
-      "type": "recovery",
-      "tension": "normal",
-      "synopsis": "身体和心灵疗愈",
-      "status": "completed"
-    },
-    "141": {
-      "title": "王成兴妻子",
-      "type": "reversal",
-      "tension": "normal",
-      "synopsis": "王成兴妻子是心理创伤非中邪",
-      "status": "completed"
-    },
-    "142": {
-      "title": "驱邪尝试",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "白灵淼尝试驱邪失败",
-      "status": "completed"
-    },
-    "143": {
-      "title": "疗愈继续",
-      "type": "recovery",
-      "tension": "normal",
-      "synopsis": "疗愈继续",
-      "status": "completed"
-    },
-    "144": {
-      "title": "白灵淼照顾",
-      "type": "relationship",
-      "tension": "normal",
-      "synopsis": "白灵淼照顾李火旺",
-      "status": "completed"
-    },
-    "145": {
-      "title": "一起睡",
-      "type": "relationship",
-      "tension": "normal",
-      "synopsis": "两人关系深化",
-      "status": "completed"
-    },
-    "146": {
-      "title": "后蜀国",
-      "type": "transition",
-      "tension": "normal",
-      "synopsis": "进入后蜀国",
-      "status": "completed"
-    },
-    "147": {
-      "title": "新威胁",
-      "type": "element",
-      "tension": "high_tension",
-      "synopsis": "皮影戏实体出现",
-      "status": "completed"
-    },
-    "148": {
-      "title": "应对",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "应对新威胁",
-      "status": "completed"
-    },
-    "149": {
-      "title": "黑暗中视物",
-      "type": "element",
-      "tension": "normal",
-      "synopsis": "李火旺能在黑暗中视物",
-      "status": "completed"
-    },
-    "150": {
-      "title": "剑的来源",
-      "type": "reversal",
-      "tension": "normal",
-      "synopsis": "剑与四齐右家关系揭示",
-      "status": "completed"
-    },
-    "151": {
-      "title": "坐忘道长老",
-      "type": "discovery",
-      "tension": "high_tension",
-      "synopsis": "坐忘道六大长老揭示",
-      "status": "completed"
-    },
-    "152": {
-      "title": "傩戏面具",
-      "type": "element",
-      "tension": "normal",
-      "synopsis": "傩戏面具揭示",
-      "status": "completed"
-    },
-    "153": {
-      "title": "追兵",
-      "type": "conflict",
-      "tension": "high_tension",
-      "synopsis": "被追兵跟踪",
-      "status": "completed"
-    },
-    "154": {
-      "title": "三尸真相",
-      "type": "reversal",
-      "tension": "max_tension",
-      "synopsis": "李火旺=彭质揭示",
-      "status": "completed"
-    },
-    "155": {
-      "title": "和尚=彭矫",
-      "type": "reversal",
-      "tension": "high_tension",
-      "synopsis": "和尚是彭矫",
-      "status": "completed"
-    },
-    "156": {
-      "title": "身份宣言",
-      "type": "emotional",
-      "tension": "high_tension",
-      "synopsis": "\"我不管我就是李火旺\"",
-      "status": "completed"
-    },
-    "157": {
-      "title": "二饼",
-      "type": "conflict",
-      "tension": "high_tension",
-      "synopsis": "二饼出场和死亡",
-      "status": "completed"
-    },
-    "158": {
-      "title": "疯魔",
-      "type": "emotional",
-      "tension": "max_tension",
-      "synopsis": "李火旺疯魔状态",
-      "status": "completed"
-    },
-    "159": {
-      "title": "师太死",
-      "type": "emotional",
-      "tension": "crisis",
-      "synopsis": "静心师太被猪吃掉",
-      "status": "completed"
-    },
-    "160": {
-      "title": "绝望",
-      "type": "emotional",
-      "tension": "crisis",
-      "synopsis": "李火旺绝望",
-      "status": "completed"
-    },
-    "161": {
-      "title": "铜钱面罩",
-      "type": "element",
-      "tension": "normal",
-      "synopsis": "铜钱面罩使用",
-      "status": "completed"
-    },
-    "162": {
-      "title": "寻找袄景教",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "寻找袄景教",
-      "status": "completed"
-    },
-    "163": {
-      "title": "腐烂消失",
-      "type": "element",
-      "tension": "normal",
-      "synopsis": "腐烂离开世界",
-      "status": "completed"
-    },
-    "164": {
-      "title": "袄景教",
-      "type": "plot",
-      "tension": "high_tension",
-      "synopsis": "进入袄景教",
-      "status": "completed"
-    },
-    "165": {
-      "title": "三方混战",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "李火旺/坐忘道/丹阳子三方混战",
-      "status": "completed"
-    },
-    "166": {
-      "title": "五脏牺牲",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "献祭五脏给《大千录》",
-      "status": "completed"
-    },
-    "167": {
-      "title": "喜神",
-      "type": "element",
-      "tension": "high_tension",
-      "synopsis": "喜神的威胁",
-      "status": "completed"
-    },
-    "168": {
-      "title": "丹阳子视角",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "丹阳子视角展现",
-      "status": "completed"
-    },
-    "169": {
-      "title": "南天门",
-      "type": "element",
-      "tension": "high_tension",
-      "synopsis": "南天门出现",
-      "status": "completed"
-    },
-    "170": {
-      "title": "丹阳子认知",
-      "type": "reversal",
-      "tension": "high_tension",
-      "synopsis": "丹阳子：李火旺是他的三尸",
-      "status": "completed"
-    },
-    "171": {
-      "title": "进入",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "进入南天门",
-      "status": "completed"
-    },
-    "172": {
-      "title": "牦之门",
-      "type": "reversal",
-      "tension": "max_tension",
-      "synopsis": "南天门=牦之门/白玉京=寄生",
-      "status": "completed"
-    },
-    "173": {
-      "title": "丹阳子被吃",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "丹阳子被白玉京分解",
-      "status": "completed"
-    },
-    "174": {
-      "title": "死亡",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "李火旺死亡",
-      "status": "completed"
-    },
-    "175": {
-      "title": "复活",
-      "type": "resolution",
-      "tension": "high_tension",
-      "synopsis": "三天后从坟墓复活",
-      "status": "completed"
-    },
-    "176": {
-      "title": "大傩",
-      "type": "discovery",
-      "tension": "high_tension",
-      "synopsis": "大傩揭示：世界生病了",
-      "status": "completed"
-    },
-    "177": {
-      "title": "村庄疗养",
-      "type": "recovery",
-      "tension": "normal",
-      "synopsis": "在村庄疗养",
-      "status": "completed"
-    },
-    "178": {
-      "title": "驱邪",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "驱邪场景",
-      "status": "completed"
-    },
-    "179": {
-      "title": "白灵淼驱邪",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "白灵淼独自驱邪",
-      "status": "completed"
-    },
-    "180": {
-      "title": "问米",
-      "type": "element",
-      "tension": "high_tension",
-      "synopsis": "崔仙姑问米/大尊",
-      "status": "completed"
-    },
-    "181": {
-      "title": "拒绝答案",
-      "type": "cognitive",
-      "tension": "normal",
-      "synopsis": "李火旺拒绝知道真相",
-      "status": "completed"
-    },
-    "182": {
-      "title": "镖师旅程",
-      "type": "transition",
-      "tension": "normal",
-      "synopsis": "镖师旅程开始",
-      "status": "completed"
-    },
-    "183": {
-      "title": "婚礼",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "路上遇到的婚礼",
-      "status": "completed"
-    },
-    "184": {
-      "title": "囍神",
-      "type": "element",
-      "tension": "high_tension",
-      "synopsis": "婚礼崇拜囍神",
-      "status": "completed"
-    },
-    "185": {
-      "title": "幻觉通话",
-      "type": "emotional",
-      "tension": "crisis",
-      "synopsis": "幻觉中与杨娜通话",
-      "status": "completed"
-    },
-    "186": {
-      "title": "镖局任务",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "镖局任务开始",
-      "status": "completed"
-    },
-    "187": {
-      "title": "土匪巢穴",
-      "type": "conflict",
-      "tension": "high_tension",
-      "synopsis": "进入土匪巢穴",
-      "status": "completed"
-    },
-    "188": {
-      "title": "金山找",
-      "type": "character",
-      "tension": "normal",
-      "synopsis": "金山找出场",
-      "status": "completed"
-    },
-    "189": {
-      "title": "吕班主存活",
-      "type": "reversal",
-      "tension": "normal",
-      "synopsis": "吕班主在土匪窝存活",
-      "status": "completed"
-    },
-    "190": {
-      "title": "王德裘",
-      "type": "antagonist",
-      "tension": "high_tension",
-      "synopsis": "王德裘出场",
-      "status": "completed"
-    },
-    "191": {
-      "title": "王德裘死",
-      "type": "climax",
-      "tension": "high_tension",
-      "synopsis": "王德裘死亡/剑来源揭示",
-      "status": "completed"
-    },
-    "192": {
-      "title": "怜悯",
-      "type": "breakthrough",
-      "tension": "normal",
-      "synopsis": "怜悯=火袄真经完成",
-      "status": "completed"
-    },
-    "193": {
-      "title": "解救妇女",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "解救被掳妇女",
-      "status": "completed"
-    },
-    "194": {
-      "title": "春小满冲突",
-      "type": "conflict",
-      "tension": "normal",
-      "synopsis": "春小满与李火旺冲突",
-      "status": "completed"
-    },
-    "195": {
-      "title": "屠城",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "贼配军屠城",
-      "status": "completed"
-    },
-    "196": {
-      "title": "彭龙腾",
-      "type": "antagonist",
-      "tension": "high_tension",
-      "synopsis": "彭龙腾追击开始",
-      "status": "completed"
-    },
-    "197": {
-      "title": "被围困",
-      "type": "conflict",
-      "tension": "high_tension",
-      "synopsis": "被彭龙腾围困",
-      "status": "completed"
-    },
-    "198": {
-      "title": "分离能力",
-      "type": "breakthrough",
-      "tension": "high_tension",
-      "synopsis": "身体意识分离能力",
-      "status": "completed"
-    },
-    "199": {
-      "title": "平顶山",
-      "type": "transition",
-      "tension": "normal",
-      "synopsis": "平顶山庄园",
-      "status": "completed"
-    },
-    "200": {
-      "title": "镖局",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "镖局正式加入",
-      "status": "completed"
-    },
-    "201": {
-      "title": "验证现实",
-      "type": "cognitive",
-      "tension": "normal",
-      "synopsis": "验证现实尝试",
-      "status": "completed"
-    },
-    "202": {
-      "title": "治愈可能",
-      "type": "discovery",
-      "tension": "normal",
-      "synopsis": "心素治愈可能性",
-      "status": "completed"
-    },
-    "203": {
-      "title": "精神病院辩论",
-      "type": "cognitive",
-      "tension": "normal",
-      "synopsis": "精神病院辩论",
-      "status": "completed"
-    },
-    "204": {
-      "title": "哲学问题",
-      "type": "cognitive",
-      "tension": "normal",
-      "synopsis": "继续哲学探讨",
-      "status": "completed"
-    },
-    "205": {
-      "title": "实用主义",
-      "type": "resolution",
-      "tension": "normal",
-      "synopsis": "接受实用主义",
-      "status": "completed"
-    },
-    "206": {
-      "title": "大姥姥夜袭",
-      "type": "conflict",
-      "tension": "high_tension",
-      "synopsis": "大姥姥夜袭",
-      "status": "completed"
-    },
-    "207": {
-      "title": "金山找死",
-      "type": "emotional",
-      "tension": "high_tension",
-      "synopsis": "金山找被大姥姥杀死",
-      "status": "completed"
-    },
-    "208": {
-      "title": "山口战斗",
-      "type": "climax",
-      "tension": "high_tension",
-      "synopsis": "山口与彭龙腾战斗",
-      "status": "completed"
-    },
-    "209": {
-      "title": "激战继续",
-      "type": "climax",
-      "tension": "high_tension",
-      "synopsis": "激战继续",
-      "status": "completed"
-    },
-    "210": {
-      "title": "彭龙腾死",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "彭龙腾被击败（身首异处继续战斗）",
-      "status": "completed"
-    },
-    "211": {
-      "title": "青丘",
-      "type": "recovery",
-      "tension": "normal",
-      "synopsis": "进入青丘",
-      "status": "completed"
-    },
-    "212": {
-      "title": "疗养",
-      "type": "recovery",
-      "tension": "normal",
-      "synopsis": "在青丘疗养",
-      "status": "completed"
-    },
-    "213": {
-      "title": "青丘生活",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "青丘日常生活",
-      "status": "completed"
-    },
-    "214": {
-      "title": "不同规则",
-      "type": "world",
-      "tension": "normal",
-      "synopsis": "青丘的规则不同",
-      "status": "completed"
-    },
-    "215": {
-      "title": "青丘市集",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "青丘市集",
-      "status": "completed"
-    },
-    "216": {
-      "title": "罗教喇嘛",
-      "type": "world",
-      "tension": "normal",
-      "synopsis": "罗教喇嘛提及",
-      "status": "completed"
-    },
-    "217": {
-      "title": "继续疗养",
-      "type": "recovery",
-      "tension": "normal",
-      "synopsis": "继续疗养",
-      "status": "completed"
-    },
-    "218": {
-      "title": "白灵淼蛇鳞",
-      "type": "reversal",
-      "tension": "high_tension",
-      "synopsis": "白灵淼脸上长出蛇鳞",
-      "status": "completed"
-    },
-    "219": {
-      "title": "馒头吃骨头",
-      "type": "element",
-      "tension": "normal",
-      "synopsis": "馒头吃人骨头",
-      "status": "completed"
-    },
-    "220": {
-      "title": "孙宝禄撒谎",
-      "type": "reversal",
-      "tension": "normal",
-      "synopsis": "孙宝禄撒谎（假骨头）",
-      "status": "completed"
-    },
-    "221": {
-      "title": "孙宝禄回家",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "孙宝禄回家",
-      "status": "completed"
-    },
-    "222": {
-      "title": "身体畸形",
-      "type": "reversal",
-      "tension": "high_tension",
-      "synopsis": "孙宝禄身体畸形揭示",
-      "status": "completed"
-    },
-    "223": {
-      "title": "舞狮宫潜伏",
-      "type": "element",
-      "tension": "high_tension",
-      "synopsis": "舞狮宫威胁潜伏",
-      "status": "completed"
-    },
-    "224": {
-      "title": "离开青丘",
-      "type": "transition",
-      "tension": "normal",
-      "synopsis": "决定连夜离开",
-      "status": "completed"
-    },
-    "225": {
-      "title": "梁国信息",
-      "type": "world",
-      "tension": "normal",
-      "synopsis": "梁国信息揭示",
-      "status": "completed"
-    },
-    "226": {
-      "title": "美人纸",
-      "type": "reversal",
-      "tension": "high_tension",
-      "synopsis": "梁国=美人纸羞辱地狱",
-      "status": "completed"
-    },
-    "227": {
-      "title": "幻觉发作",
-      "type": "emotional",
-      "tension": "high_tension",
-      "synopsis": "大规模幻觉发作",
-      "status": "completed"
-    },
-    "228": {
-      "title": "切断手指",
-      "type": "desperate_act",
-      "tension": "high_tension",
-      "synopsis": "切断手指证明真实",
-      "status": "completed"
-    },
-    "229": {
-      "title": "黑太岁追求",
-      "type": "plot",
-      "tension": "high_tension",
-      "synopsis": "追求黑太岁作为药",
-      "status": "completed"
-    },
-    "230": {
-      "title": "死亡崇拜",
-      "type": "element",
-      "tension": "high_tension",
-      "synopsis": "死亡崇拜洞穴",
-      "status": "completed"
-    },
-    "231": {
-      "title": "青铜鼎",
-      "type": "element",
-      "tension": "high_tension",
-      "synopsis": "巨大青铜鼎和人羊尸体",
-      "status": "completed"
-    },
-    "232": {
-      "title": "舞狮战斗",
-      "type": "conflict",
-      "tension": "high_tension",
-      "synopsis": "与舞狮生物战斗",
-      "status": "completed"
-    },
-    "233": {
-      "title": "代价",
-      "type": "cost",
-      "tension": "high_tension",
-      "synopsis": "战斗代价",
-      "status": "completed"
-    },
-    "234": {
-      "title": "继续前进",
-      "type": "plot",
-      "tension": "normal",
-      "synopsis": "继续追求黑太岁",
-      "status": "completed"
-    },
-    "235": {
-      "title": "酆都",
-      "type": "world",
-      "tension": "high_tension",
-      "synopsis": "进入酆都迷宫",
-      "status": "completed"
-    },
-    "236": {
-      "title": "绳儿子",
-      "type": "element",
-      "tension": "high_tension",
-      "synopsis": "绳儿子出现",
-      "status": "completed"
-    },
-    "237": {
-      "title": "韩符=双头",
-      "type": "reversal",
-      "tension": "high_tension",
-      "synopsis": "韩符=双头道人揭示",
-      "status": "completed"
-    },
-    "238": {
-      "title": "被骗",
-      "type": "conflict",
-      "tension": "high_tension",
-      "synopsis": "被假出口骗入舞狮宫",
-      "status": "completed"
-    },
-    "239": {
-      "title": "舞狮真相",
-      "type": "reversal",
-      "tension": "high_tension",
-      "synopsis": "舞狮宫=白穗蛇聚合体",
-      "status": "completed"
-    },
-    "240": {
-      "title": "逃脱",
-      "type": "plot",
-      "tension": "high_tension",
-      "synopsis": "试图逃脱",
-      "status": "completed"
-    },
-    "241": {
-      "title": "跳大绳",
-      "type": "breakthrough",
-      "tension": "high_tension",
-      "synopsis": "白灵淼用跳大绳能力救人",
-      "status": "completed"
-    },
-    "242": {
-      "title": "被捕获",
-      "type": "ending",
-      "tension": "max_tension",
-      "synopsis": "被白穗蛇捕获（开放结局）",
-      "status": "completed"
+      "status": "planned"
     }
   }
 }

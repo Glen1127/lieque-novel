@@ -1,0 +1,39 @@
+{
+  "world_id": "real_world",
+  "name": "现实世界",
+  "book_id": "lieque",
+  "setting": "大剧院仓库，现代都市",
+  "time_period": "现代",
+  "key_locations": [
+    {
+      "name": "大剧院仓库",
+      "description": "沈念工作的地方，堆满道具和旧物",
+      "features": [
+        "货架系统",
+        "编号系统",
+        "档案柜"
+      ]
+    },
+    {
+      "name": "剧院后台",
+      "description": "道具整理室，沈念的日常工作的场所",
+      "features": [
+        "旧幕布",
+        "假发",
+        "面具",
+        "服装"
+      ]
+    }
+  ],
+  "key_characters": [
+    "沈念",
+    "小陶",
+    "老周"
+  ],
+  "rules": [
+    "时间是正常的",
+    "物品有编号和分类",
+    "回声可以从档案室带到现实"
+  ],
+  "key_question": "这个世界是真实的还是档案室的延伸？"
+}

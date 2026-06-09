@@ -1,0 +1,41 @@
+{
+  "name": "陈姐",
+  "aka": [
+    "陈姐",
+    "陈"
+  ],
+  "identity": "档案室守护者",
+  "first_ch": 5,
+  "status": "key_character",
+  "origin": "档案室",
+  "personality": [
+    "冷静，理性",
+    "守护意识强",
+    "等待三十年"
+  ],
+  "core_desire": "守护档案室，等待传递者归来",
+  "core_fear": [
+    "传递者永远不回来"
+  ],
+  "key_relationships": [
+    {
+      "target": "沈念",
+      "relation": "守护对象/同行者",
+      "status": "信任"
+    },
+    {
+      "target": "沈敏",
+      "relation": "前任传递者",
+      "status": "等待"
+    }
+  ],
+  "arc": {
+    "phase1_ch5_17": "导师角色",
+    "phase2_ch18_25": "揭示守护者身份",
+    "phase3_ch26_90": "等待沈念归来",
+    "phase4_ch91_120": "三十年等待的意义揭示"
+  },
+  "cost": [
+    "三十年的孤独等待"
+  ]
+}

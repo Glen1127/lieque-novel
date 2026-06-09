@@ -2,59 +2,78 @@
   "open_loops": [
     {
       "id": "xinsu_cure",
-      "question": "心素能治愈吗？",
-      "first_raised": 48,
-      "status": "unresolved",
-      "hints": ["Ch202 有坐忘道高层活了190年摆脱幻觉"],
-      "book_status": "未解决"
-    },
-    {
-      "id": "li_huowang_identity",
-      "question": "李火旺的真实身份是什么？",
-      "first_raised": 154,
-      "status": "partial",
-      "hints": ["Ch154 他可能是彭质/三尸", "Ch170 丹阳子认为他是自己的心魔"],
-      "book_status": "未完全解决"
-    },
-    {
-      "id": "zuowangdao_leader",
-      "question": "坐忘道北风在哪里？",
-      "first_raised": 202,
-      "status": "unresolved",
-      "hints": ["据说治愈了心素"],
-      "book_status": "未出现"
-    },
-    {
-      "id": "bailinmiao_erosion",
-      "question": "二神对白灵淼的侵蚀会如何发展？",
-      "first_raised": 103,
+      "question": "传递者能否摆脱回声的影响？",
+      "first_raised": 1,
       "status": "ongoing",
-      "hints": ["Ch218 蛇鳞出现", "Ch241 跳大绳能力"],
-      "book_status": "进行中，结局时仍在继续"
+      "hints": [
+        "Ch10 发现自己是标记者",
+        "Ch25 进入深层"
+      ],
+      "book_status": "沈念正在寻找答案"
     },
     {
-      "id": "daqiu_nature",
-      "question": "大傩到底是什么？",
-      "first_raised": 151,
+      "id": "di_1032",
+      "question": "第1032号是谁？为什么要找她？",
+      "first_raised": 29,
       "status": "unresolved",
-      "hints": ["Ch176 世界生病了"],
-      "book_status": "未完全揭示"
+      "hints": [
+        "Ch29 找到线索",
+        "Ch30 出发寻找"
+      ],
+      "book_status": "将在第二卷揭示"
     },
     {
-      "id": "real_world_ending",
-      "question": "李火旺能回到现实世界吗？",
-      "first_raised": 1,
-      "status": "open",
-      "hints": ["两边世界都无法确认真实"],
-      "book_status": "开放式结局"
+      "id": "xiaotao_identity",
+      "question": "小陶最终会变成什么？",
+      "first_raised": 18,
+      "status": "unresolved",
+      "hints": [
+        "Ch18 容器身份揭示",
+        "Ch19 选择继续成人"
+      ],
+      "book_status": "将在第三卷揭示"
     },
     {
-      "id": "yangna_fate",
-      "question": "杨娜在现实世界会怎样？",
-      "first_raised": 1,
-      "status": "unknown",
-      "hints": ["Ch185 李火旺给她无法兑现的承诺"],
-      "book_status": "未交代"
+      "id": "transmitter_cost",
+      "question": "传递的代价具体是什么？",
+      "first_raised": 25,
+      "status": "unresolved",
+      "hints": [
+        "Ch25 深层探索",
+        "Ch35 传递真相"
+      ],
+      "book_status": "将在第二/三卷揭示"
+    },
+    {
+      "id": "listener_true_identity",
+      "question": "聆听者的真实身份是什么？",
+      "first_raised": 25,
+      "status": "unresolved",
+      "hints": [
+        "Ch25 深层相遇"
+      ],
+      "book_status": "将在第四卷揭示"
+    },
+    {
+      "id": "mother_secret",
+      "question": "沈敏为什么要创造小陶？",
+      "first_raised": 18,
+      "status": "unresolved",
+      "hints": [
+        "Ch18 小陶=沈敏的回声容器"
+      ],
+      "book_status": "已在第二卷部分揭示"
+    },
+    {
+      "id": "lieque_truth",
+      "question": "裂隙的终极真相是什么？",
+      "first_raised": 5,
+      "status": "unresolved",
+      "hints": [
+        "Ch5 档案室入口",
+        "Ch25 深层揭示"
+      ],
+      "book_status": "将在第四卷揭示"
     }
   ]
 }

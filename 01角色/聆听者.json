@@ -1,0 +1,28 @@
+{
+  "name": "聆听者",
+  "aka": [
+    "聆听者"
+  ],
+  "identity": "深层主人/回声碾磨者",
+  "first_ch": 25,
+  "status": "antagonist",
+  "origin": "深层",
+  "personality": [
+    "不解释",
+    "不给答案",
+    "只碾磨回声"
+  ],
+  "core_desire": "碾磨回声，维持系统运转",
+  "key_relationships": [
+    {
+      "target": "沈念",
+      "relation": "考验者",
+      "status": "对抗"
+    }
+  ],
+  "arc": {
+    "phase1_ch25_100": "敌对存在",
+    "phase2_ch101_110": "真实身份揭示——系统守护者",
+    "phase3_ch111_120": "不再是敌人"
+  }
+}

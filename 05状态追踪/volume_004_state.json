@@ -1,0 +1,22 @@
+{
+  "volume_id": "volume_004",
+  "book_id": "lieque",
+  "chapters": "91-120",
+  "title": "第四卷：终章",
+  "ending_chapter": 120,
+  "world_state": {
+    "深层": "终极真相揭示",
+    "现实": "回归"
+  },
+  "key_changes_this_volume": [
+    "聆听者身份揭示",
+    "终极真相揭示",
+    "沈念做出最终选择",
+    "新一代传递者接手"
+  ],
+  "protagonist_state_at_end": {
+    "location": "现实",
+    "key_status": "继续传递，开放式结局",
+    "mental_state": "平静"
+  }
+}

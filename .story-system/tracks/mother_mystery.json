@@ -1,0 +1,42 @@
+{
+  "track_id": "mother_mystery",
+  "book_id": "lieque",
+  "title": "线：母亲追寻线",
+  "description": "沈念追寻母亲沈敏消失的真相，最终在深层相见。",
+  "chapters": "1-35",
+  "key_stages": [
+    {
+      "stage": 1,
+      "chapters": "1-10",
+      "name": "母亲的存在",
+      "goal": "建立母亲在沈念心中的位置",
+      "progress": [
+        "Ch1 提及母亲消失",
+        "Ch5 档案室里有母亲的名字"
+      ]
+    },
+    {
+      "stage": 2,
+      "chapters": "11-24",
+      "name": "接近真相",
+      "goal": "发现母亲在名单上",
+      "progress": [
+        "Ch18 名单上有'沈敏'",
+        "Ch23 三人抚养真相",
+        "Ch24 一百份回声"
+      ]
+    },
+    {
+      "stage": 3,
+      "chapters": "25-35",
+      "name": "深层相见",
+      "goal": "在深层见到母亲，拿到使命",
+      "progress": [
+        "Ch25 进入深层，见到母亲",
+        "Ch26-34 母亲的教导",
+        "Ch35 传递的使命传递"
+      ]
+    }
+  ],
+  "resolution": "Ch35 母亲将使命传递给沈念"
+}

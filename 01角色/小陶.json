@@ -1,0 +1,43 @@
+{
+  "name": "小陶",
+  "aka": [
+    "小陶",
+    "陶"
+  ],
+  "identity": "容器/实习生态",
+  "first_ch": 1,
+  "status": "key_character",
+  "origin": "档案室规则创造的容器",
+  "personality": [
+    "好奇心强，看什么都像在看新奇的东西",
+    "热情，主动",
+    "逐渐产生自我意识"
+  ],
+  "core_desire": "成为真正的人",
+  "core_fear": [
+    "变成工具",
+    "失去所有记忆"
+  ],
+  "key_relationships": [
+    {
+      "target": "沈念",
+      "relation": "守护者/同行者",
+      "status": "深度绑定"
+    },
+    {
+      "target": "沈敏",
+      "relation": "创造者/母体",
+      "status": "间接"
+    }
+  ],
+  "arc": {
+    "phase1_ch1_3": "出场，实习生身份",
+    "phase2_ch4_17": "工作中，展现异常",
+    "phase3_ch18_20": "容器身份揭示，选择继续成人",
+    "phase4_ch21_120": "成长为真正的人"
+  },
+  "cost": [
+    "失去沈敏的回声力量",
+    "成为普通人"
+  ]
+}

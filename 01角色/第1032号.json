@@ -1,0 +1,23 @@
+{
+  "name": "第1032号",
+  "aka": [
+    "第1032号",
+    "候备传递者"
+  ],
+  "identity": "候备传递者",
+  "first_ch": 29,
+  "status": "key_character",
+  "origin": "候备名单",
+  "personality": [
+    "等待被找到",
+    "有自己故事"
+  ],
+  "core_desire": "接受使命，成为传递者",
+  "key_relationships": [
+    {
+      "target": "沈念",
+      "relation": "使命传递者",
+      "status": "接受"
+    }
+  ]
+}

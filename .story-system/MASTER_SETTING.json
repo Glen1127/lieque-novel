@@ -1,35 +1,35 @@
 {
-  "genre": "东方玄幻/克苏鲁/精神分析",
-  "genre_tags": ["双世界", "身份认同", "精神分析", "克苏鲁", "东方玄幻"],
-  "tone": "黑暗压抑/克苏鲁恐惧/现实与幻境交织",
-  "target_audience": "18+男性网文读者",
+  "genre": "都市/克苏鲁/档案幻想",
+  "genre_tags": [
+    "双世界",
+    "身份认同",
+    "整理型主角",
+    "克苏鲁",
+    "都市异界"
+  ],
+  "tone": "压抑/秩序感/档案式冷漠/温情暗涌",
+  "target_audience": "18+网文读者",
   "writing_constraints": {
-    "protagonist_type": "整理型/认知型（沈念模式）",
-    "anti_hero_allowed": true,
-    "violence_level": "high",
-    "psychological_horror": "core_element",
-    "chapter_word_target": "2000-3000",
-    "pacing_pattern": "5章一波峰，20章一核心波"
-  },
-  "骨架规则": {
-    "意同形不同": true,
-    "禁止串线词": [
-      "玄天宗", "地下监牢", "阿兄黑石", "追兵", "封灵索",
-      "玄棱场", "筑基修士", "反杀筑基", "姜家岜峒", "血脉觉醒者格杀勿论", "外门弟子"
+    "protagonist_type": "整理型",
+    "forbidden_actions": [
+      "直接质问反派动机（通过行动揭示）",
+      "突然获得新能力解决困境（能力需提前埋线）",
+      "主角硬冲/正面对抗（用分类和规则解决问题）",
+      "在未建立足够信息时做重大决定"
     ],
-    "禁止战斗型行为": ["硬冲", "质问", "直接对抗"],
-    "禁止一眼看出骨架": true
-  },
-  "cognitive_arc_requirements": {
-    "phase_count": 6,
-    "每阶段必须有": ["新认知", "新代价", "关系变化"],
-    "phase_names": [
-      "否认",
-      "利用",
-      "信任崩塌",
-      "身份确立",
-      "接受",
-      "身份危机/开放结局"
+    "key_rules": [
+      "回声转移单向不可逆",
+      "进入深层只能一次",
+      "回声有保质期",
+      "名单已满需替换旧人"
     ]
-  }
+  },
+  "pacing_pattern": {
+    "wave_per_5_chapters": true,
+    "core_wave_per_20_chapters": true,
+    "new_info_per_chapter": true,
+    "cost_within_3_chapters": true
+  },
+  "chapter_word_target": 2500,
+  "chapter_count": 120
 }
