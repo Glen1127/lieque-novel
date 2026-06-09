@@ -1,5 +1,6 @@
 {
   "volume_id": "volume_003",
+  "book_id": "daoguai-xiasui",
   "chapters": "163-242",
   "title": "修仙界与终局",
   "ending_chapter": 242,
@@ -15,9 +16,14 @@
     "南天门=牦之门揭示",
     "白玉京=寄生进食场揭示",
     "丹阳子被分解（Ch173）",
-    "李火旺死亡三天后复活（Ch174）",
+    "李火旺死亡三天后复活（Ch174-175）",
     "彭龙腾被击败（Ch210）",
     "白灵淼蛇鳞出现（Ch218）",
     "开放式结局（Ch242）"
-  ]
+  ],
+  "protagonist_state_at_end": {
+    "location": "洞穴中被白穗蛇捕获",
+    "key_status": "浑身是血，手指残缺",
+    "mental_state": "开放式"
+  }
 }

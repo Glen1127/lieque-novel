@@ -1,5 +1,6 @@
 {
   "volume_id": "volume_002",
+  "book_id": "daoguai-xiasui",
   "chapters": "83-162",
   "title": "大梁与真相",
   "ending_chapter": 162,
@@ -13,9 +14,14 @@
     "腊月十八身份替换危机",
     "吴家村从未真实存在",
     "白灵淼与李火旺结婚",
-    "两个月期限揭示",
-    "屠杀真相揭示",
+    "驱邪失败/两个月期限",
     "英子背叛",
-    "丹阳子肉体消灭（Ch129）"
-  ]
+    "丹阳子肉体消灭（Ch129）",
+    "屠杀真相揭示"
+  ],
+  "protagonist_state_at_end": {
+    "location": "镖局训练中",
+    "key_status": "身体恢复中",
+    "mental_state": "身份危机深重"
+  }
 }

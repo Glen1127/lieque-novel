@@ -1,5 +1,6 @@
 {
-  "protagonist": "李火旺",
+  "character_id": "li_huowang",
+  "name": "李火旺",
   "chapters": "0-242",
   "status_at_end": "被白穗蛇捕获，困在洞穴中",
   "physical_state": [
@@ -15,18 +16,42 @@
     "掌握《火袄真经》",
     "掌握身体意识分离能力"
   ],
-  "relationships_at_end": [
-    {"name": "白灵淼", "status": "同行，脸上有蛇鳞"},
-    {"name": "高智坚", "status": "已死亡（Ch210）"},
-    {"name": "春小满", "status": "同行"},
-    {"name": "吕状元一家", "status": "同行"},
-    {"name": "杨娜", "status": "分离（现实世界）"}
-  ],
-  "key_items": [
-    {"name": "静心师太的剑", "status": "持有"},
-    {"name": "《火袄真经》", "status": "掌握"},
-    {"name": "《大千录》", "status": "嵌入皮肤"}
-  ],
   "arc_completion": "5阶段身份弧线完成",
-  "cost_accumulated": "失去正常人资格/双手沾满鲜血/身体残缺"
+  "cost_accumulated": "失去正常人资格/双手沾满鲜血/身体残缺",
+  "relationships_at_end": [
+    {
+      "name": "白灵淼",
+      "status": "同行，脸上有蛇鳞"
+    },
+    {
+      "name": "高智坚",
+      "status": "已死亡（Ch210）"
+    },
+    {
+      "name": "春小满",
+      "status": "同行"
+    },
+    {
+      "name": "吕状元一家",
+      "status": "同行"
+    },
+    {
+      "name": "杨娜",
+      "status": "分离（现实世界）"
+    }
+  ],
+  "key_items_at_end": [
+    {
+      "name": "静心师太的剑",
+      "status": "持有"
+    },
+    {
+      "name": "《火袄真经》",
+      "status": "掌握"
+    },
+    {
+      "name": "《大千录》",
+      "status": "嵌入皮肤"
+    }
+  ]
 }

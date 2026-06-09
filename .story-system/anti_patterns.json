@@ -1,112 +1,44 @@
-[
-  {
-    "text": "谜底提前透光",
-    "source_table": "题材与调性推理",
-    "source_id": "GR-002"
-  },
-  {
-    "text": "规则写得像背景板",
-    "source_table": "题材与调性推理",
-    "source_id": "GR-002"
-  },
-  {
-    "text": "处罚没有代价",
-    "source_table": "题材与调性推理",
-    "source_id": "GR-002"
-  },
-  {
-    "text": "规则写得像氛围诗，读者不知道能不能照做，也无法参与推理。",
-    "source_table": "场景写法",
-    "source_id": "SP-061"
-  },
-  {
-    "text": "单纯作死",
-    "source_table": "人设与关系",
-    "source_id": "CH-070"
-  },
-  {
-    "text": "所有人都劝还硬送",
-    "source_table": "人设与关系",
-    "source_id": "CH-070"
-  },
-  {
-    "text": "死亡没有任何信息价值",
-    "source_table": "人设与关系",
-    "source_id": "CH-070"
-  },
-  {
-    "text": "公告过长像设定说明",
-    "source_table": "爽点与节奏",
-    "source_id": "PA-017"
-  },
-  {
-    "text": "宣告后无即时后果",
-    "source_table": "爽点与节奏",
-    "source_id": "PA-017"
-  },
-  {
-    "text": "主角和旁观者都反应过慢",
-    "source_table": "爽点与节奏",
-    "source_id": "PA-017"
-  },
-  {
-    "text": "直接给答案",
-    "source_table": "爽点与节奏",
-    "source_id": "PA-072"
-  },
-  {
-    "text": "试错重复无信息",
-    "source_table": "爽点与节奏",
-    "source_id": "PA-072"
-  },
-  {
-    "text": "破解后规则失去威胁",
-    "source_table": "爽点与节奏",
-    "source_id": "PA-072"
-  },
-  {
-    "text": "规则过于文学化无法执行",
-    "source_table": "写作技法",
-    "source_id": "WT-071"
-  },
-  {
-    "text": "每条都只会吓人",
-    "source_table": "写作技法",
-    "source_id": "WT-071"
-  },
-  {
-    "text": "没有条件和后果",
-    "source_table": "写作技法",
-    "source_id": "WT-071"
-  },
-  {
-    "text": "一上来就满篇怪力乱神",
-    "source_table": "写作技法",
-    "source_id": "WT-033"
-  },
-  {
-    "text": "格式松散像随笔",
-    "source_table": "写作技法",
-    "source_id": "WT-033"
-  },
-  {
-    "text": "异常内容多到没有对比基础",
-    "source_table": "写作技法",
-    "source_id": "WT-033"
-  },
-  {
-    "text": "线索不公平",
-    "source_table": "裁决规则",
-    "source_id": "RS-009"
-  },
-  {
-    "text": "侦探神启",
-    "source_table": "裁决规则",
-    "source_id": "RS-009"
-  },
-  {
-    "text": "规则没有惩罚",
-    "source_table": "裁决规则",
-    "source_id": "RS-009"
-  }
-]
+{
+  "anti_patterns": [
+    {
+      "pattern": "主角直接质问反派动机",
+      "why": "破坏悬念，让反派直接说出计划",
+      "替代方案": "通过行动和后果揭示动机"
+    },
+    {
+      "pattern": "主角突然获得新能力解决当前困境",
+      "why": "能力应该提前埋线",
+      "替代方案": "提前揭示能力，在新场景中复用"
+    },
+    {
+      "pattern": "信息一次性全部灌给读者",
+      "why": "打乱悬念节奏",
+      "替代方案": "分散信息，每章只给一个碎片"
+    },
+    {
+      "pattern": "章末用'就在这时'突然打断",
+      "why": "廉价悬念",
+      "替代方案": "用认知冲突或代价显现作章末"
+    },
+    {
+      "pattern": "反派降智配合主角",
+      "why": "破坏张力",
+      "替代方案": "反派必须有合理动机和行动"
+    },
+    {
+      "pattern": "主角突然性格转变",
+      "why": "破坏角色一致性",
+      "替代方案": "通过事件逐步推动改变"
+    },
+    {
+      "pattern": "用'突然'代替真正的节奏转折",
+      "why": "廉价转折",
+      "替代方案": "代价必须当下显现"
+    },
+    {
+      "pattern": "每章都有高潮",
+      "why": "高潮疲劳",
+      "替代方案": "高低张力交替，5章一个波峰"
+    }
+  ]
+}
