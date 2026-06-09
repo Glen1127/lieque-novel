@@ -1,0 +1,565 @@
+{
+  "volume": "卷三",
+  "chapters": [
+    {
+      "ch": 163,
+      "title": "腐烂消失",
+      "synopsis": "腐烂离开世界",
+      "type": "element",
+      "tension": "normal"
+    },
+    {
+      "ch": 164,
+      "title": "袄景教",
+      "synopsis": "进入袄景教",
+      "type": "plot",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 165,
+      "title": "三方混战",
+      "synopsis": "李火旺/坐忘道/丹阳子三方混战",
+      "type": "climax",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 166,
+      "title": "五脏牺牲",
+      "synopsis": "献祭五脏给《大千录》",
+      "type": "climax",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 167,
+      "title": "喜神",
+      "synopsis": "喜神的威胁",
+      "type": "element",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 168,
+      "title": "丹阳子视角",
+      "synopsis": "丹阳子视角展现",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 169,
+      "title": "南天门",
+      "synopsis": "南天门出现",
+      "type": "element",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 170,
+      "title": "丹阳子认知",
+      "synopsis": "丹阳子：李火旺是他的三尸",
+      "type": "reversal",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 171,
+      "title": "进入",
+      "synopsis": "进入南天门",
+      "type": "climax",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 172,
+      "title": "牦之门",
+      "synopsis": "南天门=牦之门/白玉京=寄生",
+      "type": "reversal",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 173,
+      "title": "丹阳子被吃",
+      "synopsis": "丹阳子被白玉京分解",
+      "type": "climax",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 174,
+      "title": "死亡",
+      "synopsis": "李火旺死亡",
+      "type": "climax",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 175,
+      "title": "复活",
+      "synopsis": "三天后从坟墓复活",
+      "type": "resolution",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 176,
+      "title": "大傩",
+      "synopsis": "大傩揭示：世界生病了",
+      "type": "discovery",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 177,
+      "title": "村庄疗养",
+      "synopsis": "在村庄疗养",
+      "type": "recovery",
+      "tension": "normal"
+    },
+    {
+      "ch": 178,
+      "title": "驱邪",
+      "synopsis": "驱邪场景",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 179,
+      "title": "白灵淼驱邪",
+      "synopsis": "白灵淼独自驱邪",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 180,
+      "title": "问米",
+      "synopsis": "崔仙姑问米/大尊",
+      "type": "element",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 181,
+      "title": "拒绝答案",
+      "synopsis": "李火旺拒绝知道真相",
+      "type": "cognitive",
+      "tension": "normal"
+    },
+    {
+      "ch": 182,
+      "title": "镖师旅程",
+      "synopsis": "镖师旅程开始",
+      "type": "transition",
+      "tension": "normal"
+    },
+    {
+      "ch": 183,
+      "title": "婚礼",
+      "synopsis": "路上遇到的婚礼",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 184,
+      "title": "囍神",
+      "synopsis": "婚礼崇拜囍神",
+      "type": "element",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 185,
+      "title": "幻觉通话",
+      "synopsis": "幻觉中与杨娜通话",
+      "type": "emotional",
+      "tension": "crisis"
+    },
+    {
+      "ch": 186,
+      "title": "镖局任务",
+      "synopsis": "镖局任务开始",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 187,
+      "title": "土匪巢穴",
+      "synopsis": "进入土匪巢穴",
+      "type": "conflict",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 188,
+      "title": "金山找",
+      "synopsis": "金山找出场",
+      "type": "character",
+      "tension": "normal"
+    },
+    {
+      "ch": 189,
+      "title": "吕班主存活",
+      "synopsis": "吕班主在土匪窝存活",
+      "type": "reversal",
+      "tension": "normal"
+    },
+    {
+      "ch": 190,
+      "title": "王德裘",
+      "synopsis": "王德裘出场",
+      "type": "antagonist",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 191,
+      "title": "王德裘死",
+      "synopsis": "王德裘死亡/剑来源揭示",
+      "type": "climax",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 192,
+      "title": "怜悯",
+      "synopsis": "怜悯=火袄真经完成",
+      "type": "breakthrough",
+      "tension": "normal"
+    },
+    {
+      "ch": 193,
+      "title": "解救妇女",
+      "synopsis": "解救被掳妇女",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 194,
+      "title": "春小满冲突",
+      "synopsis": "春小满与李火旺冲突",
+      "type": "conflict",
+      "tension": "normal"
+    },
+    {
+      "ch": 195,
+      "title": "屠城",
+      "synopsis": "贼配军屠城",
+      "type": "climax",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 196,
+      "title": "彭龙腾",
+      "synopsis": "彭龙腾追击开始",
+      "type": "antagonist",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 197,
+      "title": "被围困",
+      "synopsis": "被彭龙腾围困",
+      "type": "conflict",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 198,
+      "title": "分离能力",
+      "synopsis": "身体意识分离能力",
+      "type": "breakthrough",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 199,
+      "title": "平顶山",
+      "synopsis": "平顶山庄园",
+      "type": "transition",
+      "tension": "normal"
+    },
+    {
+      "ch": 200,
+      "title": "镖局",
+      "synopsis": "镖局正式加入",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 201,
+      "title": "验证现实",
+      "synopsis": "验证现实尝试",
+      "type": "cognitive",
+      "tension": "normal"
+    },
+    {
+      "ch": 202,
+      "title": "治愈可能",
+      "synopsis": "心素治愈可能性",
+      "type": "discovery",
+      "tension": "normal"
+    },
+    {
+      "ch": 203,
+      "title": "精神病院辩论",
+      "synopsis": "精神病院辩论",
+      "type": "cognitive",
+      "tension": "normal"
+    },
+    {
+      "ch": 204,
+      "title": "哲学问题",
+      "synopsis": "继续哲学探讨",
+      "type": "cognitive",
+      "tension": "normal"
+    },
+    {
+      "ch": 205,
+      "title": "实用主义",
+      "synopsis": "接受实用主义",
+      "type": "resolution",
+      "tension": "normal"
+    },
+    {
+      "ch": 206,
+      "title": "大姥姥夜袭",
+      "synopsis": "大姥姥夜袭",
+      "type": "conflict",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 207,
+      "title": "金山找死",
+      "synopsis": "金山找被大姥姥杀死",
+      "type": "emotional",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 208,
+      "title": "山口战斗",
+      "synopsis": "山口与彭龙腾战斗",
+      "type": "climax",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 209,
+      "title": "激战继续",
+      "synopsis": "激战继续",
+      "type": "climax",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 210,
+      "title": "彭龙腾死",
+      "synopsis": "彭龙腾被击败（身首异处继续战斗）",
+      "type": "climax",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 211,
+      "title": "青丘",
+      "synopsis": "进入青丘",
+      "type": "recovery",
+      "tension": "normal"
+    },
+    {
+      "ch": 212,
+      "title": "疗养",
+      "synopsis": "在青丘疗养",
+      "type": "recovery",
+      "tension": "normal"
+    },
+    {
+      "ch": 213,
+      "title": "青丘生活",
+      "synopsis": "青丘日常生活",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 214,
+      "title": "不同规则",
+      "synopsis": "青丘的规则不同",
+      "type": "world",
+      "tension": "normal"
+    },
+    {
+      "ch": 215,
+      "title": "青丘市集",
+      "synopsis": "青丘市集",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 216,
+      "title": "罗教喇嘛",
+      "synopsis": "罗教喇嘛提及",
+      "type": "world",
+      "tension": "normal"
+    },
+    {
+      "ch": 217,
+      "title": "继续疗养",
+      "synopsis": "继续疗养",
+      "type": "recovery",
+      "tension": "normal"
+    },
+    {
+      "ch": 218,
+      "title": "白灵淼蛇鳞",
+      "synopsis": "白灵淼脸上长出蛇鳞",
+      "type": "reversal",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 219,
+      "title": "馒头吃骨头",
+      "synopsis": "馒头吃人骨头",
+      "type": "element",
+      "tension": "normal"
+    },
+    {
+      "ch": 220,
+      "title": "孙宝禄撒谎",
+      "synopsis": "孙宝禄撒谎（假骨头）",
+      "type": "reversal",
+      "tension": "normal"
+    },
+    {
+      "ch": 221,
+      "title": "孙宝禄回家",
+      "synopsis": "孙宝禄回家",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 222,
+      "title": "身体畸形",
+      "synopsis": "孙宝禄身体畸形揭示",
+      "type": "reversal",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 223,
+      "title": "舞狮宫潜伏",
+      "synopsis": "舞狮宫威胁潜伏",
+      "type": "element",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 224,
+      "title": "离开青丘",
+      "synopsis": "决定连夜离开",
+      "type": "transition",
+      "tension": "normal"
+    },
+    {
+      "ch": 225,
+      "title": "梁国信息",
+      "synopsis": "梁国信息揭示",
+      "type": "world",
+      "tension": "normal"
+    },
+    {
+      "ch": 226,
+      "title": "美人纸",
+      "synopsis": "梁国=美人纸羞辱地狱",
+      "type": "reversal",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 227,
+      "title": "幻觉发作",
+      "synopsis": "大规模幻觉发作",
+      "type": "emotional",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 228,
+      "title": "切断手指",
+      "synopsis": "切断手指证明真实",
+      "type": "desperate_act",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 229,
+      "title": "黑太岁追求",
+      "synopsis": "追求黑太岁作为药",
+      "type": "plot",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 230,
+      "title": "死亡崇拜",
+      "synopsis": "死亡崇拜洞穴",
+      "type": "element",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 231,
+      "title": "青铜鼎",
+      "synopsis": "巨大青铜鼎和人羊尸体",
+      "type": "element",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 232,
+      "title": "舞狮战斗",
+      "synopsis": "与舞狮生物战斗",
+      "type": "conflict",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 233,
+      "title": "代价",
+      "synopsis": "战斗代价",
+      "type": "cost",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 234,
+      "title": "继续前进",
+      "synopsis": "继续追求黑太岁",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 235,
+      "title": "酆都",
+      "synopsis": "进入酆都迷宫",
+      "type": "world",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 236,
+      "title": "绳儿子",
+      "synopsis": "绳儿子出现",
+      "type": "element",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 237,
+      "title": "韩符=双头",
+      "synopsis": "韩符=双头道人揭示",
+      "type": "reversal",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 238,
+      "title": "被骗",
+      "synopsis": "被假出口骗入舞狮宫",
+      "type": "conflict",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 239,
+      "title": "舞狮真相",
+      "synopsis": "舞狮宫=白穗蛇聚合体",
+      "type": "reversal",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 240,
+      "title": "逃脱",
+      "synopsis": "试图逃脱",
+      "type": "plot",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 241,
+      "title": "跳大绳",
+      "synopsis": "白灵淼用跳大绳能力救人",
+      "type": "breakthrough",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 242,
+      "title": "被捕获",
+      "synopsis": "被白穗蛇捕获（开放结局）",
+      "type": "ending",
+      "tension": "max_tension"
+    }
+  ]
+}

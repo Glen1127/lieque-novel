@@ -1,0 +1,40 @@
+{
+  "name": "吕状元",
+  "aka": [
+    "吕班主"
+  ],
+  "identity": "傩戏戏班班主",
+  "first_ch": 24,
+  "status": "supporting",
+  "origin": "民间戏班",
+  "age": "中年",
+  "appearance": "粗犷但有担当",
+  "personality": [
+    "重情义",
+    "有担当",
+    "务实",
+    "护短"
+  ],
+  "key_relationship": {
+    "target": "李火旺",
+    "relation": "戏班同伴",
+    "status": "信任"
+  },
+  "family": [
+    {
+      "name": "吕秀才",
+      "relation": "儿子",
+      "aka": "小儿子"
+    },
+    {
+      "name": "吕妈",
+      "relation": "妻子"
+    }
+  ],
+  "key_scenes": [
+    "戏班在清风观附近落脚（Ch24）",
+    "请李火旺帮忙去祠堂唱鬼戏（Ch30）",
+    "发现李火旺的真实实力后更加信任"
+  ],
+  "fate": "戏班与李火旺同行；是李火旺在人间温暖的重要来源"
+}

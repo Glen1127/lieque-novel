@@ -1,0 +1,23 @@
+{
+  "name": "高智坚",
+  "aka": [],
+  "identity": "镖师/同伴",
+  "first_ch": 78,
+  "status": "supporting",
+  "personality": [
+    "憨厚",
+    "忠诚",
+    "有牺牲精神"
+  ],
+  "key_relationship": {
+    "target": "李火旺",
+    "relation": "同伴",
+    "status": "忠诚"
+  },
+  "special": "可能是守村人（天生能看见不干净的东西）",
+  "key_scenes": [
+    "镖局同行（Ch136起）",
+    "对抗彭龙腾时牺牲（Ch210）"
+  ],
+  "fate": "Ch210被彭龙腾杀死"
+}

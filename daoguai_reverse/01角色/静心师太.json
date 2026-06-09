@@ -1,0 +1,33 @@
+{
+  "name": "静心师太",
+  "aka": [
+    "黑衣尼姑",
+    "师太"
+  ],
+  "identity": "安慈庵主持/安慈庵创始人",
+  "first_ch": 81,
+  "status": "mentor",
+  "origin": "安慈庵",
+  "appearance": "肥胖的尼姑",
+  "personality": [
+    "智慧",
+    "有一定实力",
+    "与皇权有交易"
+  ],
+  "abilities": [
+    "剑法",
+    "鉴定心素",
+    "提供信息和庇护"
+  ],
+  "key_relationship": {
+    "target": "李火旺",
+    "relation": "导师/信息提供者",
+    "status": "死亡"
+  },
+  "key_scenes": [
+    "收留李火旺（Ch81）",
+    "教授剑法和信息（Ch131）",
+    "被猪吃掉死亡（Ch163）"
+  ],
+  "fate": "Ch163被猪吃掉；死亡后安慈庵覆灭"
+}

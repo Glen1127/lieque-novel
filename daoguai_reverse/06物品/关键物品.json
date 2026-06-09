@@ -1,0 +1,97 @@
+{
+  "title": "关键物品",
+  "items": [
+    {
+      "name": "玉佩",
+      "first_ch": 2,
+      "origin": "修仙世界",
+      "nature": "可以跨世界携带",
+      "role": "验证异世界真实性的第一个证据",
+      "key_scenes": [
+        "Ch2 李火旺从异世界带回玉佩",
+        "Ch5 让杨娜验证玉佩是真的"
+      ]
+    },
+    {
+      "name": "糖块",
+      "first_ch": 2,
+      "origin": "现实世界",
+      "nature": "可以跨世界携带到修仙世界",
+      "role": "证明两个世界都是真实的",
+      "key_scenes": ["Ch2 玉佩和糖块可以互带"]
+    },
+    {
+      "name": "黑鼎",
+      "first_ch": 3,
+      "nature": "惩罚工具",
+      "role": "惩罚逃跑弟子的工具",
+      "description": "弟子被扔进黑鼎后的下场"
+    },
+    {
+      "name": "道铃",
+      "first_ch": 18,
+      "nature": "法器/召唤工具",
+      "abilities": ["召唤游老爷"],
+      "key_scenes": [
+        "Ch18 游老爷用道铃召唤",
+        "Ch30 用来对付祠堂鬼戏"
+      ]
+    },
+    {
+      "name": "天书",
+      "first_ch": 11,
+      "nature": "假功法/诱饵",
+      "description": "李火旺伪造的功法，用来陷害正坤",
+      "key_scenes": ["Ch11-17 用假天书陷害正坤"]
+    },
+    {
+      "name": "《大千录》",
+      "aka": ["火袄真经原始版本"],
+      "first_ch": 83,
+      "nature": "召唤巴虺的典籍",
+      "abilities": ["召唤巴虺", "通过献祭获得力量"],
+      "ritual": "献祭五脏给《大千录》换取巴虺之力",
+      "key_scenes": [
+        "Ch83 静心交给李火旺",
+        "Ch165 李火旺献祭五脏"
+      ]
+    },
+    {
+      "name": "《火袄真经》",
+      "first_ch": 123,
+      "nature": "修炼功法",
+      "abilities": ["修炼获得力量"],
+      "breakthrough": "Ch192 怜悯=修炼完成的关键",
+      "key_scenes": ["Ch192 掌握《火袄真经》"]
+    },
+    {
+      "name": "静心师太的剑",
+      "aka": ["重剑"],
+      "first_ch": 131,
+      "origin": "四齐右家/子雄将军",
+      "nature": "武器",
+      "abilities": ["煞气", "段氏剑法"],
+      "key_scenes": ["Ch131 静心把剑交给李火旺"]
+    },
+    {
+      "name": "阳寿葫芦",
+      "first_ch": 69,
+      "nature": "容器/货币",
+      "description": "提取阳寿为金色球体，作为货币或能源"
+    },
+    {
+      "name": "傩戏面具",
+      "aka": ["木质面具"],
+      "first_ch": 152,
+      "nature": "仪式用品",
+      "description": "与傩戏仪式相关；可隐藏身份"
+    },
+    {
+      "name": "铜钱面罩",
+      "aka": [],
+      "first_ch": 161,
+      "nature": "防护用具",
+      "description": "可以隐藏身份，连静心师太级别的人都认不出"
+    }
+  ]
+}

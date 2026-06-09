@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "schema_version": "story-system/v1",
+    "contract_type": "VOLUME_BRIEF",
+    "generator_version": "phase2",
+    "source_trace": []
+  },
+  "volume_goal": {
+    "summary": "第1卷延续 规则动物园 的主冲突"
+  },
+  "selected_tropes": [
+    "规则动物园"
+  ],
+  "selected_pacing": {
+    "wave": "先立规则后破局"
+  },
+  "selected_scenes": [],
+  "anti_patterns": [
+    "谜底提前透光",
+    "规则写得像背景板",
+    "处罚没有代价",
+    "规则写得像氛围诗，读者不知道能不能照做，也无法参与推理。",
+    "单纯作死",
+    "所有人都劝还硬送",
+    "死亡没有任何信息价值",
+    "公告过长像设定说明",
+    "宣告后无即时后果",
+    "主角和旁观者都反应过慢",
+    "直接给答案",
+    "试错重复无信息",
+    "破解后规则失去威胁",
+    "规则过于文学化无法执行",
+    "每条都只会吓人",
+    "没有条件和后果",
+    "一上来就满篇怪力乱神",
+    "格式松散像随笔",
+    "异常内容多到没有对比基础",
+    "线索不公平",
+    "侦探神启",
+    "规则没有惩罚"
+  ],
+  "system_constraints": [
+    "高压克制"
+  ],
+  "overrides": {
+    "locked": {},
+    "append_only": {},
+    "override_allowed": {}
+  }
+}

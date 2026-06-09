@@ -1,0 +1,47 @@
+{
+  "track_id": "bailinmiao_relationship",
+  "book_id": "daoguai-xiasui",
+  "title": "线：白灵淼关系线",
+  "description": "白灵淼从被救的弱势少女成长为与李火旺并肩的伴侣。",
+  "chapters": "0-242",
+  "key_stages": [
+    {
+      "stage": 1,
+      "chapters": "7-30",
+      "name": "相识期",
+      "progress": [
+        "Ch7 被李火旺救下",
+        "Ch15 告诉游老爷弱点帮助李火旺"
+      ]
+    },
+    {
+      "stage": 2,
+      "chapters": "31-100",
+      "name": "共同旅程期",
+      "progress": [
+        "同行，共同经历清风观事件"
+      ]
+    },
+    {
+      "stage": 3,
+      "chapters": "101-103",
+      "name": "婚礼",
+      "progress": [
+        "Ch101-103 在现实世界结婚",
+        "Ch103 二神=白灵淼分身揭示"
+      ]
+    },
+    {
+      "stage": 4,
+      "chapters": "104-242",
+      "name": "并肩同行",
+      "progress": [
+        "镖局同行",
+        "Ch218 白灵淼脸上长出蛇鳞（二神侵蚀）",
+        "Ch241 用跳大绳能力救李火旺",
+        "Ch242 在上方拉着李火旺，被阻止"
+      ]
+    }
+  ],
+  "ongoing_threat": "二神对白灵淼的侵蚀持续进行"
+}

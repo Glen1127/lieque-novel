@@ -3,7 +3,7 @@
     "schema_version": "story-system/v1",
     "contract_type": "MASTER_SETTING",
     "generator_version": "phase1",
-    "query": "沈念在仓库整理一夜后，发现布片空了——上次异界穿越用的布片失去了全部共鸣。清晨，老周送来新任务：第10条规则的副本出现新情报。同时小陶的整理行为越来越像母亲，触发异界异常。"
+    "query": "通过上下文衔接推进本章"
   },
   "route": {
     "primary_genre": "规则动物园",

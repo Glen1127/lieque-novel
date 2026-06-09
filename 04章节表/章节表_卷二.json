@@ -1,0 +1,565 @@
+{
+  "volume": "卷二",
+  "chapters": [
+    {
+      "ch": 83,
+      "title": "静心暗示",
+      "synopsis": "静心暗示：现代世界可能是幻觉",
+      "type": "cognitive",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 84,
+      "title": "心素价值",
+      "synopsis": "心素的迷惘有修炼价值",
+      "type": "discovery",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 85,
+      "title": "继续旅程",
+      "synopsis": "离开安慈庵继续旅程",
+      "type": "transition",
+      "tension": "normal"
+    },
+    {
+      "ch": 86,
+      "title": "路上",
+      "synopsis": "路上遇到的事情",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 87,
+      "title": "吴家",
+      "synopsis": "吴家揭示",
+      "type": "discovery",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 88,
+      "title": "吴家村",
+      "synopsis": "进入吴家村",
+      "type": "world",
+      "tension": "normal"
+    },
+    {
+      "ch": 89,
+      "title": "村民",
+      "synopsis": "村民的日常生活",
+      "type": "world",
+      "tension": "normal"
+    },
+    {
+      "ch": 90,
+      "title": "腊月十八",
+      "synopsis": "腊月十八身份替换全员",
+      "type": "climax",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 91,
+      "title": "身份危机",
+      "synopsis": "身份替换的后果",
+      "type": "emotional",
+      "tension": "crisis"
+    },
+    {
+      "ch": 92,
+      "title": "逃离",
+      "synopsis": "试图逃离",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 93,
+      "title": "狙击枪",
+      "synopsis": "幻觉中被狙击枪爆头",
+      "type": "reversal",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 94,
+      "title": "对峙",
+      "synopsis": "与替换后的身份对峙",
+      "type": "conflict",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 95,
+      "title": "自我折磨",
+      "synopsis": "自我折磨获得巴虺力量",
+      "type": "climax",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 96,
+      "title": "巴虺再临",
+      "synopsis": "巴虺之力显现",
+      "type": "element",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 97,
+      "title": "腊月十八败",
+      "synopsis": "腊月十八被击败",
+      "type": "resolution",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 98,
+      "title": "杨小孩",
+      "synopsis": "杨小孩出场",
+      "type": "character",
+      "tension": "normal"
+    },
+    {
+      "ch": 99,
+      "title": "吴家村假",
+      "synopsis": "吴家村从未真实存在",
+      "type": "reversal",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 100,
+      "title": "新的旅程",
+      "synopsis": "新的旅程开始",
+      "type": "transition",
+      "tension": "normal"
+    },
+    {
+      "ch": 101,
+      "title": "婚礼前",
+      "synopsis": "白灵淼与李火旺准备婚礼",
+      "type": "relationship",
+      "tension": "normal"
+    },
+    {
+      "ch": 102,
+      "title": "婚礼",
+      "synopsis": "婚礼场景",
+      "type": "relationship",
+      "tension": "normal"
+    },
+    {
+      "ch": 103,
+      "title": "二神揭示",
+      "synopsis": "二神=白灵淼分身揭示",
+      "type": "reversal",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 104,
+      "title": "驱邪准备",
+      "synopsis": "准备驱邪",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 105,
+      "title": "安慈庵战斗",
+      "synopsis": "安慈庵战斗开始",
+      "type": "climax",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 106,
+      "title": "袄教仪式",
+      "synopsis": "袄教仪式进行",
+      "type": "element",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 107,
+      "title": "丹阳子撕裂佛",
+      "synopsis": "丹阳子撕裂七佛",
+      "type": "climax",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 108,
+      "title": "驱邪失败",
+      "synopsis": "驱邪失败",
+      "type": "reversal",
+      "tension": "crisis"
+    },
+    {
+      "ch": 109,
+      "title": "两个月期限",
+      "synopsis": "两个月期限揭示",
+      "type": "reversal",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 110,
+      "title": "决定去死",
+      "synopsis": "李火旺决定去死",
+      "type": "emotional",
+      "tension": "crisis"
+    },
+    {
+      "ch": 111,
+      "title": "改变主意",
+      "synopsis": "决定寻找袄景教",
+      "type": "reversal",
+      "tension": "normal"
+    },
+    {
+      "ch": 112,
+      "title": "吕家班重逢",
+      "synopsis": "吕家班重逢",
+      "type": "relationship",
+      "tension": "normal"
+    },
+    {
+      "ch": 113,
+      "title": "镖局训练",
+      "synopsis": "镖局训练开始",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 114,
+      "title": "训练中",
+      "synopsis": "训练中的事情",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 115,
+      "title": "馒头",
+      "synopsis": "狗'馒头'出场",
+      "type": "character",
+      "tension": "normal"
+    },
+    {
+      "ch": 116,
+      "title": "继续训练",
+      "synopsis": "继续训练",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 117,
+      "title": "袄景教洞穴",
+      "synopsis": "潜入袄景教洞穴",
+      "type": "element",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 118,
+      "title": "姜英子",
+      "synopsis": "姜英子出场",
+      "type": "character",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 119,
+      "title": "信任建立",
+      "synopsis": "与姜英子建立信任",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 120,
+      "title": "英子真实身份",
+      "synopsis": "英子开始展现真实感情",
+      "type": "character",
+      "tension": "normal"
+    },
+    {
+      "ch": 121,
+      "title": "巧克力",
+      "synopsis": "幻觉中出现巧克力场景",
+      "type": "emotional",
+      "tension": "normal"
+    },
+    {
+      "ch": 122,
+      "title": "偏执",
+      "synopsis": "李火旺偏执加重",
+      "type": "emotional",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 123,
+      "title": "火袄箴经",
+      "synopsis": "获得火袄箴经",
+      "type": "element",
+      "tension": "normal"
+    },
+    {
+      "ch": 124,
+      "title": "刺杀",
+      "synopsis": "刺杀企图",
+      "type": "conflict",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 125,
+      "title": "屠杀真相",
+      "synopsis": "英子揭示：李火旺屠杀万人",
+      "type": "reversal",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 126,
+      "title": "反驳证据",
+      "synopsis": "李火旺发现证据不匹配",
+      "type": "reversal",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 127,
+      "title": "四年记忆",
+      "synopsis": "四年记忆被展示",
+      "type": "emotional",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 128,
+      "title": "确认屠杀",
+      "synopsis": "确认屠杀是李火旺所为",
+      "type": "reversal",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 129,
+      "title": "丹阳子终局",
+      "synopsis": "丹阳子永久消灭",
+      "type": "climax",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 130,
+      "title": "埋葬",
+      "synopsis": "埋葬死者",
+      "type": "resolution",
+      "tension": "normal"
+    },
+    {
+      "ch": 131,
+      "title": "心素无药",
+      "synopsis": "心素无药可医揭示",
+      "type": "reversal",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 132,
+      "title": "静心教诲",
+      "synopsis": "静心传授剑和信息",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 133,
+      "title": "佛教五界",
+      "synopsis": "佛教五界信息",
+      "type": "world",
+      "tension": "normal"
+    },
+    {
+      "ch": 134,
+      "title": "静心剑",
+      "synopsis": "静心把剑交给李火旺",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 135,
+      "title": "返回旅程",
+      "synopsis": "返回旅程",
+      "type": "transition",
+      "tension": "normal"
+    },
+    {
+      "ch": 136,
+      "title": "镖局",
+      "synopsis": "镖局15天训练开始",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 137,
+      "title": "镖局生活",
+      "synopsis": "镖局日常生活",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 138,
+      "title": "王成兴",
+      "synopsis": "王成兴出场",
+      "type": "character",
+      "tension": "normal"
+    },
+    {
+      "ch": 139,
+      "title": "训练",
+      "synopsis": "镖局训练",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 140,
+      "title": "疗愈",
+      "synopsis": "身体和心灵疗愈",
+      "type": "recovery",
+      "tension": "normal"
+    },
+    {
+      "ch": 141,
+      "title": "王成兴妻子",
+      "synopsis": "王成兴妻子是心理创伤非中邪",
+      "type": "reversal",
+      "tension": "normal"
+    },
+    {
+      "ch": 142,
+      "title": "驱邪尝试",
+      "synopsis": "白灵淼尝试驱邪失败",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 143,
+      "title": "疗愈继续",
+      "synopsis": "疗愈继续",
+      "type": "recovery",
+      "tension": "normal"
+    },
+    {
+      "ch": 144,
+      "title": "白灵淼照顾",
+      "synopsis": "白灵淼照顾李火旺",
+      "type": "relationship",
+      "tension": "normal"
+    },
+    {
+      "ch": 145,
+      "title": "一起睡",
+      "synopsis": "两人关系深化",
+      "type": "relationship",
+      "tension": "normal"
+    },
+    {
+      "ch": 146,
+      "title": "后蜀国",
+      "synopsis": "进入后蜀国",
+      "type": "transition",
+      "tension": "normal"
+    },
+    {
+      "ch": 147,
+      "title": "新威胁",
+      "synopsis": "皮影戏实体出现",
+      "type": "element",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 148,
+      "title": "应对",
+      "synopsis": "应对新威胁",
+      "type": "plot",
+      "tension": "normal"
+    },
+    {
+      "ch": 149,
+      "title": "黑暗中视物",
+      "synopsis": "李火旺能在黑暗中视物",
+      "type": "element",
+      "tension": "normal"
+    },
+    {
+      "ch": 150,
+      "title": "剑的来源",
+      "synopsis": "剑与四齐右家关系揭示",
+      "type": "reversal",
+      "tension": "normal"
+    },
+    {
+      "ch": 151,
+      "title": "坐忘道长老",
+      "synopsis": "坐忘道六大长老揭示",
+      "type": "discovery",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 152,
+      "title": "傩戏面具",
+      "synopsis": "傩戏面具揭示",
+      "type": "element",
+      "tension": "normal"
+    },
+    {
+      "ch": 153,
+      "title": "追兵",
+      "synopsis": "被追兵跟踪",
+      "type": "conflict",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 154,
+      "title": "三尸真相",
+      "synopsis": "李火旺=彭质揭示",
+      "type": "reversal",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 155,
+      "title": "和尚=彭矫",
+      "synopsis": "和尚是彭矫",
+      "type": "reversal",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 156,
+      "title": "身份宣言",
+      "synopsis": "\"我不管我就是李火旺\"",
+      "type": "emotional",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 157,
+      "title": "二饼",
+      "synopsis": "二饼出场和死亡",
+      "type": "conflict",
+      "tension": "high_tension"
+    },
+    {
+      "ch": 158,
+      "title": "疯魔",
+      "synopsis": "李火旺疯魔状态",
+      "type": "emotional",
+      "tension": "max_tension"
+    },
+    {
+      "ch": 159,
+      "title": "师太死",
+      "synopsis": "静心师太被猪吃掉",
+      "type": "emotional",
+      "tension": "crisis"
+    },
+    {
+      "ch": 160,
+      "title": "绝望",
+      "synopsis": "李火旺绝望",
+      "type": "emotional",
+      "tension": "crisis"
+    },
+    {
+      "ch": 161,
+      "title": "铜钱面罩",
+      "synopsis": "铜钱面罩使用",
+      "type": "element",
+      "tension": "normal"
+    },
+    {
+      "ch": 162,
+      "title": "寻找袄景教",
+      "synopsis": "寻找袄景教",
+      "type": "plot",
+      "tension": "normal"
+    }
+  ]
+}
