@@ -32,8 +32,8 @@
     "cultivation_subtiers": ""
   },
   "progress": {
-    "current_chapter": 17,
-    "total_words": 70661,
+    "current_chapter": 18,
+    "total_words": 73445,
     "last_updated": "2026-06-09",
     "volumes_completed": [],
     "current_volume": 1,
@@ -48,7 +48,7 @@
     },
     "location": {
       "current": "档案室第三层/索引室",
-      "last_chapter": 16
+      "last_chapter": 18
     },
     "golden_finger": {
       "name": "未命名金手指",
@@ -91,8 +91,8 @@
     },
     "小陶": {
       "name": "小陶",
-      "role": "实习生",
-      "status": "身体里接收了陶的回声，陶是名单第四名，十年前就在名单上",
+      "role": "实习生/容器",
+      "status": "身体里接收了陶的回声，陶=小陶的真名=母亲在档案室的化名；小陶是母亲用回声创造的容器，正在形成自己的意识",
       "relation_type": "known"
     },
     "灰衣人": {
@@ -105,12 +105,6 @@
       "name": "聆听者",
       "role": "深渊本身/最终Boss",
       "status": "在舞台上重新分配了母亲的回声",
-      "relation_type": "known"
-    },
-    "陶": {
-      "name": "陶",
-      "role": "名单第四名/小陶身体里的回声原主人",
-      "status": "十年前在准入名单上，身份不明，可能是小陶的另一个母亲",
       "relation_type": "known"
     }
   },
@@ -129,13 +123,18 @@
         "status": "active"
       },
       {
-        "thread_name": "名单上有十二个名字，准入名额已满（十年前）",
+        "thread_name": "名单上有十二个名字，七个已转移三个已吸收两个状态未知，空了十个位置",
         "chapter_created": 17,
         "status": "active"
       },
       {
-        "thread_name": "陶是名单第四名，不是小陶，是小陶身体里回声的原主人",
-        "chapter_created": 17,
+        "thread_name": "陶=小陶真名=母亲在档案室的化名；小陶是容器不是人，正在形成自己的意识",
+        "chapter_created": 18,
+        "status": "active"
+      },
+      {
+        "thread_name": "沈念面临选择：让小陶继续变成人还是回到容器状态",
+        "chapter_created": 18,
         "status": "active"
       },
       {
@@ -149,11 +148,6 @@
         "status": "active"
       },
       {
-        "thread_name": "舞台的秘密——这个规律是谁建立的？",
-        "chapter_created": 1,
-        "status": "active"
-      },
-      {
         "thread_name": "深层真正终点——母亲找到了什么答案？",
         "chapter_created": 15,
         "status": "active"
@@ -163,94 +157,27 @@
   },
   "review_checkpoints": [],
   "chapter_meta": {
-    "第1章": {
-      "title": "第1章",
-      "words": 2889,
-      "status": "written"
-    },
-    "第2章": {
-      "title": "第2章",
-      "words": 2486,
-      "status": "written"
-    },
-    "第3章": {
-      "title": "第3章",
-      "words": 3286,
-      "status": "written"
-    },
-    "第4章": {
-      "title": "第4章",
-      "words": 4182,
-      "status": "written"
-    },
-    "第5章": {
-      "title": "第5章",
-      "words": 2235,
-      "status": "written"
-    },
-    "第6章": {
-      "title": "第6章",
-      "words": 3231,
-      "status": "written"
-    },
-    "第7章": {
-      "title": "第7章",
-      "words": 4599,
-      "status": "written"
-    },
-    "第8章": {
-      "title": "第8章",
-      "words": 6959,
-      "status": "written"
-    },
-    "第9章": {
-      "title": "代价",
-      "words": 3800,
-      "status": "written"
-    },
-    "第10章": {
-      "title": "整理",
-      "words": 4019,
-      "status": "written"
-    },
-    "第11章": {
-      "title": "标记",
-      "words": 4342,
-      "status": "written"
-    },
-    "第12章": {
-      "title": "共存",
-      "words": 2940,
-      "status": "written"
-    },
-    "第13章": {
-      "title": "融合",
-      "words": 3182,
-      "status": "written"
-    },
-    "第14章": {
-      "title": "规则",
-      "words": 3051,
-      "status": "written"
-    },
-    "第15章": {
-      "title": "深层",
-      "words": 3148,
-      "status": "written"
-    },
-    "第16章": {
-      "title": "入口",
-      "words": 2496,
-      "status": "written"
-    },
-    "第17章": {
-      "title": "索引室",
-      "words": 3182,
-      "status": "written"
-    }
+    "第1章": {"title": "第1章", "words": 2889, "status": "written"},
+    "第2章": {"title": "第2章", "words": 2486, "status": "written"},
+    "第3章": {"title": "第3章", "words": 3286, "status": "written"},
+    "第4章": {"title": "第4章", "words": 4182, "status": "written"},
+    "第5章": {"title": "第5章", "words": 2235, "status": "written"},
+    "第6章": {"title": "第6章", "words": 3231, "status": "written"},
+    "第7章": {"title": "第7章", "words": 4599, "status": "written"},
+    "第8章": {"title": "第8章", "words": 6959, "status": "written"},
+    "第9章": {"title": "代价", "words": 3800, "status": "written"},
+    "第10章": {"title": "整理", "words": 4019, "status": "written"},
+    "第11章": {"title": "标记", "words": 4342, "status": "written"},
+    "第12章": {"title": "共存", "words": 2940, "status": "written"},
+    "第13章": {"title": "融合", "words": 3182, "status": "written"},
+    "第14章": {"title": "规则", "words": 3051, "status": "written"},
+    "第15章": {"title": "深层", "words": 3148, "status": "written"},
+    "第16章": {"title": "入口", "words": 2496, "status": "written"},
+    "第17章": {"title": "索引室", "words": 3182, "status": "written"},
+    "第18章": {"title": "钥匙", "words": 1365, "status": "written"}
   },
   "strand_tracker": {
-    "last_quest_chapter": 17,
+    "last_quest_chapter": 18,
     "last_fire_chapter": 0,
     "last_constellation_chapter": 0,
     "current_dominant": "quest",
