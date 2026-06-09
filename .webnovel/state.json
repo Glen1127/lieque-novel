@@ -32,8 +32,8 @@
     "cultivation_subtiers": ""
   },
   "progress": {
-    "current_chapter": 19,
-    "total_words": 74984,
+    "current_chapter": 30,
+    "total_words": 103000,
     "last_updated": "2026-06-09",
     "volumes_completed": [],
     "current_volume": 1,
@@ -42,13 +42,13 @@
   "protagonist_state": {
     "name": "沈念",
     "power": {
-      "realm": "普通人",
+      "realm": "普通人（携带一百份回声）",
       "layer": 1,
       "bottleneck": ""
     },
     "location": {
-      "current": "档案室第三层，准备进入深层",
-      "last_chapter": 19
+      "current": "外面世界，出发寻找第1032号候备整理者",
+      "last_chapter": 30
     },
     "golden_finger": {
       "name": "未命名金手指",
@@ -62,49 +62,37 @@
     "沈念": {
       "name": "沈念",
       "role": "主角",
-      "status": "已被标记，身体里有两份回声（自己的+母亲的），准备进入深层",
+      "status": "携带一百份回声（三十年来所有整理者总和），已完成第一次深层进入，拿到终极答案：回声用来传递，一代传一代",
       "relation_type": "known"
     },
     "陈姐": {
       "name": "陈姐",
-      "role": "会计",
-      "status": "知道全部真相，名单第二名，在索引室准入名单上",
+      "role": "会计/第一批整理者",
+      "status": "三十年前进入过一次深层，已不能再进；身上有自己与沈敏/老周融合的回声；共同抚养了沈念",
       "relation_type": "known"
     },
     "母亲沈敏": {
       "name": "母亲沈敏",
-      "role": "已故（真实）",
-      "status": "已被重新分配，名字在名单第一位，准备在深层等待答案",
-      "relation_type": "known"
-    },
-    "悼": {
-      "name": "悼",
-      "role": "断舌收集者",
-      "status": "消失在异界",
+      "role": "第一批整理者/深层居民",
+      "status": "三十年前进入深层，选择成为答案的一部分；在深层等待沈念；终极答案的传递者",
       "relation_type": "known"
     },
     "老周": {
       "name": "老周",
-      "role": "沈念的师傅/曾经的收集者",
-      "status": "名单第三名，名字在名单上",
+      "role": "仓库管理员/沈念师傅",
+      "status": "名字在准入名单第七位（已封存）；沈念进深层时回声被封；三十年前进去过一次",
       "relation_type": "known"
     },
     "小陶": {
       "name": "小陶",
-      "role": "实习生/容器",
-      "status": "身体里接收了陶的回声，陶=小陶的真名=母亲在档案室的化名；小陶是母亲用回声创造的容器，正在形成自己的意识",
-      "relation_type": "known"
-    },
-    "灰衣人": {
-      "name": "灰衣人",
-      "role": "碾磨回声者",
-      "status": "身份未说明",
+      "role": "容器/普通女孩",
+      "status": "母亲用回声创造的容器，后选择变成人，失去所有力量；现在是普通女孩，在仓库等沈念回来",
       "relation_type": "known"
     },
     "聆听者": {
       "name": "聆听者",
-      "role": "深渊本身/最终Boss",
-      "status": "在舞台上重新分配了母亲的回声",
+      "role": "深渊本体/最终Boss",
+      "status": "在深层深处，碾磨回声；不解释原因，不给明确答案",
       "relation_type": "known"
     }
   },
@@ -118,38 +106,23 @@
   "plot_threads": {
     "active_threads": [
       {
-        "thread_name": "入口需要十二把钥匙（十二份回声）才能打开",
-        "chapter_created": 16,
+        "thread_name": "第1032号候备整理者：确认后未现身，在某处等待",
+        "chapter_created": 29,
         "status": "active"
       },
       {
-        "thread_name": "名单上有十二个名字，七个已转移三个已吸收两个状态未知，空了十个位置",
-        "chapter_created": 17,
-        "status": "active"
+        "thread_name": "深层终极答案：回声用来传递，一代传一代，永远继续",
+        "chapter_created": 25,
+        "status": "resolved"
       },
       {
-        "thread_name": "陶=小陶真名=母亲在档案室的化名；小陶是容器不是人，正在形成自己的意识",
-        "chapter_created": 18,
-        "status": "active"
+        "thread_name": "进入深层只能一次：沈念已用，陈姐三十年前用过，无法再进",
+        "chapter_created": 8,
+        "status": "resolved"
       },
       {
-        "thread_name": "沈念面临选择：让小陶继续变成人还是回到容器状态",
-        "chapter_created": 18,
-        "status": "active"
-      },
-      {
-        "thread_name": "聆听者的终极目的——为什么要碾磨回声？回声最后去了哪里？",
-        "chapter_created": 1,
-        "status": "active"
-      },
-      {
-        "thread_name": "灰衣人身份——档案记录员的权限边界在哪里？",
-        "chapter_created": 1,
-        "status": "active"
-      },
-      {
-        "thread_name": "深层真正终点——母亲找到了什么答案？",
-        "chapter_created": 15,
+        "thread_name": "一百份回声的最终归属：传递下去",
+        "chapter_created": 24,
         "status": "active"
       }
     ],
@@ -175,10 +148,21 @@
     "第16章": {"title": "入口", "words": 2496, "status": "written"},
     "第17章": {"title": "索引室", "words": 3182, "status": "written"},
     "第18章": {"title": "钥匙", "words": 1365, "status": "written"},
-    "第19章": {"title": "离开", "words": 2525, "status": "written"}
+    "第19章": {"title": "离开", "words": 2525, "status": "written"},
+    "第20章": {"title": "门", "words": 2057, "status": "written"},
+    "第21章": {"title": "寻找", "words": 2050, "status": "written"},
+    "第22章": {"title": "陈", "words": 2547, "status": "written"},
+    "第23章": {"title": "真相", "words": 2151, "status": "written"},
+    "第24章": {"title": "一百份", "words": 2211, "status": "written"},
+    "第25章": {"title": "答案", "words": 2633, "status": "written"},
+    "第26章": {"title": "回来", "words": 2904, "status": "written"},
+    "第27章": {"title": "日常", "words": 955, "status": "written"},
+    "第28章": {"title": "传递", "words": 1513, "status": "written"},
+    "第29章": {"title": "等待", "words": 2550, "status": "written"},
+    "第30章": {"title": "出发", "words": 1481, "status": "written"}
   },
   "strand_tracker": {
-    "last_quest_chapter": 18,
+    "last_quest_chapter": 30,
     "last_fire_chapter": 0,
     "last_constellation_chapter": 0,
     "current_dominant": "quest",
