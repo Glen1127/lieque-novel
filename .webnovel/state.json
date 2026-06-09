@@ -32,8 +32,8 @@
     "cultivation_subtiers": ""
   },
   "progress": {
-    "current_chapter": 18,
-    "total_words": 73445,
+    "current_chapter": 19,
+    "total_words": 74984,
     "last_updated": "2026-06-09",
     "volumes_completed": [],
     "current_volume": 1,
@@ -47,8 +47,8 @@
       "bottleneck": ""
     },
     "location": {
-      "current": "档案室第三层/索引室",
-      "last_chapter": 18
+      "current": "档案室第三层，准备进入深层",
+      "last_chapter": 19
     },
     "golden_finger": {
       "name": "未命名金手指",
@@ -174,7 +174,8 @@
     "第15章": {"title": "深层", "words": 3148, "status": "written"},
     "第16章": {"title": "入口", "words": 2496, "status": "written"},
     "第17章": {"title": "索引室", "words": 3182, "status": "written"},
-    "第18章": {"title": "钥匙", "words": 1365, "status": "written"}
+    "第18章": {"title": "钥匙", "words": 1365, "status": "written"},
+    "第19章": {"title": "离开", "words": 2525, "status": "written"}
   },
   "strand_tracker": {
     "last_quest_chapter": 18,
