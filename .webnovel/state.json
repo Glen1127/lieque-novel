@@ -32,9 +32,9 @@
     "cultivation_subtiers": ""
   },
   "progress": {
-    "current_chapter": 9,
-    "total_words": 33667,
-    "last_updated": "2026-06-09 10:45:00",
+    "current_chapter": 10,
+    "total_words": 37686,
+    "last_updated": "2026-06-09 14:30:00",
     "volumes_completed": [],
     "current_volume": 1,
     "volumes_planned": []
@@ -47,8 +47,8 @@
       "bottleneck": ""
     },
     "location": {
-      "current": "废弃大剧院仓库",
-      "last_chapter": 9
+      "current": "仓库/陈姐处",
+      "last_chapter": 10
     },
     "golden_finger": {
       "name": "未命名金手指",
@@ -250,6 +250,11 @@
     "第9章": {
       "title": "代价",
       "words": 3800,
+      "status": "written"
+    },
+    "第10章": {
+      "title": "整理",
+      "words": 4019,
       "status": "written"
     }
   },
