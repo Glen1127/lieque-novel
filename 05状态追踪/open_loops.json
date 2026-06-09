@@ -55,6 +55,14 @@
       "status": "pending",
       "answer_ch": 56,
       "answer": "与名单制度直接相关的特殊存在"
+    },
+    {
+      "id": "xiaotao_target_found",
+      "question": "小陶要找的人是谁？和第1032号是同一个人吗？",
+      "ch_created": 30,
+      "status": "pending",
+      "answer_ch": null,
+      "answer": null
     }
   ]
 }
