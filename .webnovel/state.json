@@ -32,9 +32,9 @@
     "cultivation_subtiers": ""
   },
   "progress": {
-    "current_chapter": 11,
-    "total_words": 42028,
-    "last_updated": "2026-06-09 15:00:00",
+    "current_chapter": 17,
+    "total_words": 70661,
+    "last_updated": "2026-06-09",
     "volumes_completed": [],
     "current_volume": 1,
     "volumes_planned": []
@@ -47,8 +47,8 @@
       "bottleneck": ""
     },
     "location": {
-      "current": "仓库/陈姐处",
-      "last_chapter": 11
+      "current": "档案室第三层/索引室",
+      "last_chapter": 16
     },
     "golden_finger": {
       "name": "未命名金手指",
@@ -62,19 +62,19 @@
     "沈念": {
       "name": "沈念",
       "role": "主角",
-      "status": "已被标记，已接收母亲的回声，但母亲已被重新分配离开",
+      "status": "已被标记，身体里有两份回声（自己的+母亲的），准备进入深层",
       "relation_type": "known"
     },
     "陈姐": {
       "name": "陈姐",
       "role": "会计",
-      "status": "知道全部真相，最终向沈念坦白了母亲的真实意图",
+      "status": "知道全部真相，名单第二名，在索引室准入名单上",
       "relation_type": "known"
     },
     "母亲沈敏": {
       "name": "母亲沈敏",
       "role": "已故（真实）",
-      "status": "已被重新分配——她的回声离开了沈念，去了某个未知的载体",
+      "status": "已被重新分配，名字在名单第一位，准备在深层等待答案",
       "relation_type": "known"
     },
     "悼": {
@@ -86,13 +86,13 @@
     "老周": {
       "name": "老周",
       "role": "沈念的师傅/曾经的收集者",
-      "status": "第8章出场，揭露了舞台的秘密和重新分配的规律；他也曾被给予布片进入异界",
+      "status": "名单第三名，名字在名单上",
       "relation_type": "known"
     },
     "小陶": {
       "name": "小陶",
       "role": "实习生",
-      "status": "身体里接收了母亲沈敏的回声，但本人不知情",
+      "status": "身体里接收了陶的回声，陶是名单第四名，十年前就在名单上",
       "relation_type": "known"
     },
     "灰衣人": {
@@ -106,6 +106,12 @@
       "role": "深渊本身/最终Boss",
       "status": "在舞台上重新分配了母亲的回声",
       "relation_type": "known"
+    },
+    "陶": {
+      "name": "陶",
+      "role": "名单第四名/小陶身体里的回声原主人",
+      "status": "十年前在准入名单上，身份不明，可能是小陶的另一个母亲",
+      "relation_type": "known"
     }
   },
   "disambiguation_warnings": [],
@@ -118,18 +124,18 @@
   "plot_threads": {
     "active_threads": [
       {
-        "thread_name": "母亲被重新分配——她去了哪里？被谁接收了？",
-        "chapter_created": 1,
+        "thread_name": "入口需要十二把钥匙（十二份回声）才能打开",
+        "chapter_created": 16,
         "status": "active"
       },
       {
-        "thread_name": "小陶在第8章出场——她会成为母亲的新载体吗？",
-        "chapter_created": 1,
+        "thread_name": "名单上有十二个名字，准入名额已满（十年前）",
+        "chapter_created": 17,
         "status": "active"
       },
       {
-        "thread_name": "灰衣人身份——第8章没有填，第9章必须填",
-        "chapter_created": 1,
+        "thread_name": "陶是名单第四名，不是小陶，是小陶身体里回声的原主人",
+        "chapter_created": 17,
         "status": "active"
       },
       {
@@ -138,68 +144,18 @@
         "status": "active"
       },
       {
-        "thread_name": "老周的真实身份——他被谁给了布片？他凝视过聆听者吗？",
+        "thread_name": "灰衣人身份——档案记录员的权限边界在哪里？",
         "chapter_created": 1,
         "status": "active"
       },
       {
-        "thread_name": "舞台的秘密——满月时聆听者会在舞台上重新分配回声，这个规律是谁建立的？",
+        "thread_name": "舞台的秘密——这个规律是谁建立的？",
         "chapter_created": 1,
         "status": "active"
       },
       {
-        "thread_name": "第2章重写：陈姐恐惧躲避",
-        "chapter_created": 1,
-        "status": "resolved"
-      },
-      {
-        "thread_name": "第3章新骨架：返回异界追问悼",
-        "chapter_created": 1,
-        "status": "resolved"
-      },
-      {
-        "thread_name": "第4章新骨架：逼问陈姐，打开地下室门",
-        "chapter_created": 1,
-        "status": "resolved"
-      },
-      {
-        "thread_name": "第5章新骨架：档案室发现母亲自愿转移的真相",
-        "chapter_created": 1,
-        "status": "resolved"
-      },
-      {
-        "thread_name": "第6章新骨架：沈念接收母亲回声，母亲消失",
-        "chapter_created": 1,
-        "status": "resolved"
-      },
-      {
-        "thread_name": "第7章新骨架：发现规则第八条，带回母亲回声",
-        "chapter_created": 1,
-        "status": "resolved"
-      },
-      {
-        "thread_name": "第8章新骨架：老周出场揭露舞台真相——舞台是聆听者重新分配回声的地方；沈念选择让母亲被重新分配；母亲离开了；小陶出场；沈念开始带小陶整理仓库",
-        "chapter_created": 1,
-        "status": "resolved"
-      },
-      {
-        "thread_name": "第9章骨架：小陶是母亲的新载体（已被聆听者确认）；沈念发现自己的整理能力是异界改造的代价；灰衣人=档案记录员；真相是沈念亲手把母亲送进了小陶身体",
-        "chapter_created": 9,
-        "status": "resolved"
-      },
-      {
-        "thread_name": "母亲通过小陶继续存在——小陶的整理行为会被母亲的回声引导",
-        "chapter_created": 9,
-        "status": "progressed"
-      },
-      {
-        "thread_name": "布片空了之后还能触发穿越吗？——第10章需要回答",
-        "chapter_created": 9,
-        "status": "progressed"
-      },
-      {
-        "thread_name": "聆听者为什么选择小陶？——是否有更深的计划？",
-        "chapter_created": 9,
+        "thread_name": "深层真正终点——母亲找到了什么答案？",
+        "chapter_created": 15,
         "status": "active"
       }
     ],
@@ -261,10 +217,40 @@
       "title": "标记",
       "words": 4342,
       "status": "written"
+    },
+    "第12章": {
+      "title": "共存",
+      "words": 2940,
+      "status": "written"
+    },
+    "第13章": {
+      "title": "融合",
+      "words": 3182,
+      "status": "written"
+    },
+    "第14章": {
+      "title": "规则",
+      "words": 3051,
+      "status": "written"
+    },
+    "第15章": {
+      "title": "深层",
+      "words": 3148,
+      "status": "written"
+    },
+    "第16章": {
+      "title": "入口",
+      "words": 2496,
+      "status": "written"
+    },
+    "第17章": {
+      "title": "索引室",
+      "words": 3182,
+      "status": "written"
     }
   },
   "strand_tracker": {
-    "last_quest_chapter": 0,
+    "last_quest_chapter": 17,
     "last_fire_chapter": 0,
     "last_constellation_chapter": 0,
     "current_dominant": "quest",
