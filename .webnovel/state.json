@@ -2,891 +2,135 @@
   "project": {
     "book_id": "lieque",
     "title": "裂隙",
-    "current_chapter": 0,
-    "total_chapters": 120,
-    "phase": "init",
-    "writing_started": false
+    "genre": "都市/克苏鲁/民俗"
   },
-  "protagonist": {
-    "character_id": "shen_nian",
-    "name": "沈念",
-    "status": "仓库整理员（未觉醒）",
-    "location": "大剧院仓库",
-    "world": "real_world"
-  },
-  "relationship": {
-    "xiaotao": {
-      "character_id": "xiaotao",
-      "status": "unknown",
-      "location": "unknown",
-      "role": "未知"
-    },
-    "chen_jie": {
-      "character_id": "chen_jie",
-      "status": "守护者",
-      "location": "档案室",
-      "role": "档案室管理员"
-    }
-  },
-  "golden_finger": {
-    "type": "echo_perception",
-    "description": "能听到亡魂的声音，传递回声",
-    "awakened": false,
-    "limitation": "携带代价不可逆"
-  },
-  "world": {
-    "current_world": "real_world",
-    "layers_accessed": [
-      "real_world"
-    ],
-    "archive_accessed": false,
-    "deep_accessed": false
-  },
-  "constraints": {
-    "no_combat": true,
-    "整理型决策": true,
-    "代价真实体现": true
-  },
-  "chapters": {
-    "1": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "2": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "3": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "4": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "5": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "6": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "7": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "8": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "9": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "10": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "11": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "12": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "13": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "14": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "15": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "16": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "17": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "18": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "19": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "20": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "21": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "22": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "23": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "24": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "25": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "26": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "27": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "28": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "29": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "30": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "31": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "32": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "33": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "34": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "35": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "36": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "37": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "38": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "39": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "40": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "41": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "42": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "43": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "44": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "45": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "46": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "47": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "48": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "49": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "50": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "51": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "52": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "53": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "54": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "55": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "56": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "57": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "58": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "59": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "60": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "61": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "62": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "63": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "64": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "65": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "66": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "67": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "68": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "69": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "70": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "71": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "72": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "73": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "74": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "75": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "76": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "77": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "78": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "79": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "80": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "81": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "82": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "83": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "84": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "85": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "86": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "87": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "88": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "89": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "90": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "91": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "92": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "93": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "94": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "95": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "96": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "97": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "98": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "99": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "100": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "101": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "102": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "103": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "104": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "105": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "106": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "107": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "108": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "109": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "110": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "111": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "112": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "113": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "114": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "115": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "116": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "117": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "118": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "119": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    },
-    "120": {
-      "status": "pending",
-      "word_count": 0,
-      "pov": "shen_nian",
-      "type": "plot",
-      "tension": "medium"
-    }
-  }
+  "current_chapter": 120,
+  "current_volume": "volume_004",
+  "phase": "skeleton_complete",
+  "chapters_completed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120
+  ],
+  "chapters_total": 120,
+  "total_words_estimate": 25159,
+  "last_updated": "2026-06-09",
+  "notes": "全书骨架完成，详细正文待写（1-30详细，31-120骨架）"
 }
