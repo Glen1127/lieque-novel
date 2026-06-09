@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "title": "裂隙",
+    "genre": "规则怪谈",
+    "created_at": "2026-06-09",
+    "target_words": 2000000,
+    "target_chapters": 600,
+    "golden_finger_name": "",
+    "golden_finger_type": "",
+    "golden_finger_style": "",
+    "core_selling_points": "",
+    "protagonist_structure": "单主角",
+    "heroine_config": "无女主",
+    "heroine_names": "",
+    "heroine_role": "",
+    "co_protagonists": "",
+    "co_protagonist_roles": "",
+    "antagonist_tiers": "",
+    "world_scale": "现代都市",
+    "factions": "剧院/档案室/异界",
+    "power_system_type": "无",
+    "social_class": "",
+    "resource_distribution": "",
+    "gf_visibility": "",
+    "gf_irreversible_cost": "",
+    "target_reader": "悬疑/克苏鲁爱好者",
+    "platform": "起点中文网",
+    "currency_system": "",
+    "currency_exchange": "",
+    "sect_hierarchy": "",
+    "cultivation_chain": "",
+    "cultivation_subtiers": ""
+  },
+  "progress": {
+    "current_chapter": 0,
+    "total_words": 0,
+    "last_updated": "2026-06-09 09:49:22",
+    "volumes_completed": [],
+    "current_volume": 1,
+    "volumes_planned": []
+  },
+  "protagonist_state": {
+    "name": "沈念",
+    "power": {
+      "realm": "",
+      "layer": 1,
+      "bottleneck": ""
+    },
+    "location": {
+      "current": "",
+      "last_chapter": 0
+    },
+    "golden_finger": {
+      "name": "未命名金手指",
+      "level": 1,
+      "cooldown": 0,
+      "skills": []
+    },
+    "attributes": {}
+  },
+  "relationships": {},
+  "disambiguation_warnings": [],
+  "disambiguation_pending": [],
+  "world_settings": {
+    "power_system": [],
+    "factions": [],
+    "locations": []
+  },
+  "plot_threads": {
+    "active_threads": [],
+    "foreshadowing": []
+  },
+  "review_checkpoints": [],
+  "chapter_meta": {},
+  "strand_tracker": {
+    "last_quest_chapter": 0,
+    "last_fire_chapter": 0,
+    "last_constellation_chapter": 0,
+    "current_dominant": "quest",
+    "chapters_since_switch": 0,
+    "history": []
+  }
+}
