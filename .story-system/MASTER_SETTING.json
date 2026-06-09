@@ -1,35 +1,44 @@
 {
-  "genre": "都市/克苏鲁/档案幻想",
+  "genre": "都市/克苏鲁/民俗",
   "genre_tags": [
     "双世界",
-    "身份认同",
+    "阴间民俗",
     "整理型主角",
-    "克苏鲁",
-    "都市异界"
+    "执念与代价",
+    "克苏鲁"
   ],
-  "tone": "压抑/秩序感/档案式冷漠/温情暗涌",
-  "target_audience": "18+网文读者",
+  "tone": "压抑/阴郁/民俗恐怖",
+  "target_audience": "18+男性网文读者",
   "writing_constraints": {
-    "protagonist_type": "整理型",
-    "forbidden_actions": [
-      "直接质问反派动机（通过行动揭示）",
-      "突然获得新能力解决困境（能力需提前埋线）",
-      "主角硬冲/正面对抗（用分类和规则解决问题）",
-      "在未建立足够信息时做重大决定"
-    ],
-    "key_rules": [
-      "回声转移单向不可逆",
-      "进入深层只能一次",
-      "回声有保质期",
-      "名单已满需替换旧人"
-    ]
+    "protagonist_type": "整理型（先分类再行动）",
+    "antagonist": "无绝对反派，敌人是系统规则和自己无法分清的代价",
+    "no_combat": true,
+    "代价必须有情节体现": true,
+    "禁止战斗型行为": true,
+    "禁止直接质问权威": true
   },
-  "pacing_pattern": {
-    "wave_per_5_chapters": true,
-    "core_wave_per_20_chapters": true,
-    "new_info_per_chapter": true,
-    "cost_within_3_chapters": true
+  "world_structure": {
+    "layer_A": {
+      "id": "real_world",
+      "name": "人间",
+      "desc": "大剧院仓库/现实世界"
+    },
+    "layer_B": {
+      "id": "archive",
+      "name": "档案室",
+      "desc": "阴阳交界/亡魂暂存地"
+    },
+    "layer_C": {
+      "id": "deep",
+      "name": "深层",
+      "desc": "阴间/地狱/聆听者所在地"
+    }
   },
-  "chapter_word_target": 2500,
-  "chapter_count": 120
+  "core_concepts": {
+    "回声": "亡魂的意识残留，完成遗愿方能流转",
+    "传递者": "能在两界携带回声的人，代价不可逆",
+    "聆听者": "深层管理者，系统守护者",
+    "名单制度": "十二孔位，已满，需替换",
+    "阳寿": "亡魂等待时间，完成遗愿可缩短"
+  }
 }

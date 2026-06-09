@@ -1,50 +1,45 @@
 {
   "track_id": "transmitter_identity",
   "book_id": "lieque",
-  "title": "线：传递者身份追寻",
-  "description": "沈念从不知道自己是谁，到接受自己是传递者，到理解传递的意义。",
-  "chapters": "10-120",
+  "title": "线：传递者身份线",
+  "description": "传递者身份是什么，代价意味着什么",
+  "chapters": "1-120",
   "key_stages": [
     {
       "stage": 1,
-      "chapters": "10-18",
-      "name": "发现期",
-      "goal": "发现自己被标记",
-      "progress": [
-        "Ch10 发现自己能接收回声",
-        "Ch18 发现自己也在名单上"
-      ]
+      "ch": "5-10",
+      "event": "发现能力",
+      "status": "pending"
     },
     {
       "stage": 2,
-      "chapters": "19-30",
-      "name": "身份确立",
-      "goal": "接受传递者身份",
-      "progress": [
-        "Ch25 进入深层",
-        "Ch26-30 接受使命"
-      ]
+      "ch": "18-25",
+      "event": "名单揭示",
+      "status": "pending"
     },
     {
       "stage": 3,
-      "chapters": "31-60",
-      "name": "深层探索",
-      "goal": "了解传递的代价",
-      "progress": [
-        "Ch31-35 传递真相",
-        "Ch36-60 代价显现"
-      ]
+      "ch": "25-30",
+      "event": "进入深层",
+      "status": "pending"
     },
     {
       "stage": 4,
-      "chapters": "61-120",
-      "name": "接受与继续",
-      "goal": "理解传递的意义，选择继续",
-      "progress": [
-        "Ch61-90 完成传递",
-        "Ch91-110 终极真相",
-        "Ch111-120 最终选择"
-      ]
+      "ch": "31-60",
+      "event": "代价显现",
+      "status": "pending"
+    },
+    {
+      "stage": 5,
+      "ch": "61-90",
+      "event": "代价加深",
+      "status": "pending"
+    },
+    {
+      "stage": 6,
+      "ch": "91-120",
+      "event": "最终选择",
+      "status": "pending"
     }
   ]
 }

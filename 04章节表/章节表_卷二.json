@@ -1,215 +1,304 @@
 {
-  "volume": "卷二",
   "chapters": [
     {
       "ch": 31,
-      "title": "进入深层",
-      "synopsis": "进入深层（Ch31）",
+      "title": "回来",
       "type": "plot",
-      "tension": "high_tension"
+      "tension": "medium",
+      "synopsis": "沈念从深层回来，代价已经显现。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 32,
-      "title": "深层的规则",
-      "synopsis": "深层的规则（Ch32）",
-      "type": "discovery",
-      "tension": "normal"
+      "title": "异常",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "回声的声音越来越清晰，开始干扰沈念的判断。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 33,
-      "title": "母亲的出现",
-      "synopsis": "母亲的出现（Ch33）",
-      "type": "emotional",
-      "tension": "high_tension"
+      "title": "第一次混淆",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "沈念第一次分不清哪个声音是自己的。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 34,
-      "title": "传递的真相",
-      "synopsis": "传递的真相（Ch34）",
-      "type": "cognitive",
-      "tension": "crisis"
+      "title": "寻找",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "沈念开始寻找第1032号的更多信息。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 35,
-      "title": "离开的代价",
-      "synopsis": "离开的代价（Ch35）",
-      "type": "conflict",
-      "tension": "max_tension"
+      "title": "档案",
+      "type": "revelation",
+      "tension": "medium",
+      "synopsis": "陈姐帮助沈念查找档案室的记录。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 36,
-      "title": "回到仓库",
-      "synopsis": "回到仓库（Ch36）",
-      "type": "transition",
-      "tension": "normal"
+      "title": "指引",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "小陶给出关于第1032号的指引。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 37,
-      "title": "新的任务",
-      "synopsis": "新的任务（Ch37）",
+      "title": "深层第二次",
       "type": "plot",
-      "tension": "high_tension"
+      "tension": "high",
+      "synopsis": "沈念再次进入深层，这次有明确目标。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 38,
-      "title": "寻找第1032号",
-      "synopsis": "寻找第1032号（Ch38）",
-      "type": "discovery",
-      "tension": "normal"
+      "title": "碾磨场",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "沈念看到聆听者碾磨回声的过程。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 39,
-      "title": "候备名单",
-      "synopsis": "候备名单（Ch39）",
-      "type": "plot",
-      "tension": "normal"
+      "title": "聆听者",
+      "type": "character",
+      "tension": "high",
+      "synopsis": "聆听者第一次直接与沈念对话。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 40,
-      "title": "第1032号的踪迹",
-      "synopsis": "第1032号的踪迹（Ch40）",
-      "type": "conflict",
-      "tension": "high_tension"
+      "title": "母亲的过去",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "母亲沈敏的完整过去揭示。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 41,
-      "title": "接触",
-      "synopsis": "接触（Ch41）",
-      "type": "discovery",
-      "tension": "normal"
+      "title": "选择",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "沈念必须做出选择：继续还是放弃。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 42,
-      "title": "传递的准备",
-      "synopsis": "传递的准备（Ch42）",
-      "type": "plot",
-      "tension": "normal"
+      "title": "继续",
+      "type": "character",
+      "tension": "medium",
+      "synopsis": "沈念决定继续传递，代价已经无法回头。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 43,
-      "title": "第一次传递",
-      "synopsis": "第一次传递（Ch43）",
-      "type": "climax",
-      "tension": "max_tension"
+      "title": "整理",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "沈念开始整理深层里的回声，练习传递能力。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 44,
-      "title": "小陶的变化",
-      "synopsis": "小陶的变化（Ch44）",
-      "type": "emotional",
-      "tension": "high_tension"
+      "title": "更多回声",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "深层里有大量回声等待传递。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 45,
-      "title": "陈姐的选择",
-      "synopsis": "陈姐的选择（Ch45）",
-      "type": "emotional",
-      "tension": "normal"
+      "title": "传递练习",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "沈念练习传递，代价在可控范围内。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 46,
-      "title": "新的回声",
-      "synopsis": "新的回声（Ch46）",
-      "type": "discovery",
-      "tension": "normal"
+      "title": "失控",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "一次传递失控，回声干扰了沈念的感官。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 47,
-      "title": "聆听者的提示",
-      "synopsis": "聆听者的提示（Ch47）",
-      "type": "plot",
-      "tension": "high_tension"
+      "title": "恢复",
+      "type": "character",
+      "tension": "medium",
+      "synopsis": "沈念慢慢恢复，但代价已经加深。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 48,
-      "title": "深层的变化",
-      "synopsis": "深层的变化（Ch48）",
-      "type": "conflict",
-      "tension": "crisis"
+      "title": "记忆混乱",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "沈念开始混淆自己的记忆和回声的记忆。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 49,
-      "title": "第二次传递",
-      "synopsis": "第二次传递（Ch49）",
-      "type": "climax",
-      "tension": "max_tension"
+      "title": "陈姐的帮助",
+      "type": "character",
+      "tension": "medium",
+      "synopsis": "陈姐帮助沈念区分自己和回声。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 50,
-      "title": "代价显现",
-      "synopsis": "代价显现（Ch50）",
-      "type": "emotional",
-      "tension": "crisis"
+      "title": "代价临界",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "代价接近临界点——沈念几乎认错人。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 51,
-      "title": "第1032号的真相",
-      "synopsis": "第1032号的真相（Ch51）",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "清醒",
+      "type": "character",
+      "tension": "high",
+      "synopsis": "沈念强迫自己清醒，代价已经刻入身体。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 52,
-      "title": "最终传递",
-      "synopsis": "最终传递（Ch52）",
-      "type": "climax",
-      "tension": "max_tension"
+      "title": "第1032号线索",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "找到第1032号的具体位置。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 53,
-      "title": "新的传递者",
-      "synopsis": "新的传递者（Ch53）",
-      "type": "emotional",
-      "tension": "high_tension"
+      "title": "准备传递",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "准备传递第1032号的回声。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 54,
-      "title": "裂隙的终极真相",
-      "synopsis": "裂隙的终极真相（Ch54）",
-      "type": "discovery",
-      "tension": "crisis"
+      "title": "传递仪式",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "传递仪式需要代价——沈念付出更多。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 55,
-      "title": "聆听者的身份",
-      "synopsis": "聆听者的身份（Ch55）",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "找到",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "第1032号被找到——与名单制度直接相关。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 56,
-      "title": "沈念的最终选择",
-      "synopsis": "沈念的最终选择（Ch56）",
-      "type": "emotional",
-      "tension": "max_tension"
+      "title": "揭示",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "第1032号的真实身份揭示。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 57,
-      "title": "继续传递",
-      "synopsis": "继续传递（Ch57）",
-      "type": "resolution",
-      "tension": "normal"
+      "title": "选择代价",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "传递第1032号需要付出什么代价？",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 58,
-      "title": "新一代的开始",
-      "synopsis": "新一代的开始（Ch58）",
-      "type": "emotional",
-      "tension": "normal"
+      "title": "完成传递",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "完成传递，但沈念的代价已经不可逆转。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 59,
-      "title": "结尾铺垫",
-      "synopsis": "结尾铺垫（Ch59）",
-      "type": "transition",
-      "tension": "normal"
+      "title": "回到现实",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "沈念回到现实，带着无法改变的代价。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 60,
-      "title": "第二卷收尾",
-      "synopsis": "第二卷收尾（Ch60）",
-      "type": "resolution",
-      "tension": "normal"
+      "title": "阶段性收尾",
+      "type": "character",
+      "tension": "medium",
+      "synopsis": "第二卷收尾——代价已经确立，沈念已经没有退路。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     }
   ]
 }

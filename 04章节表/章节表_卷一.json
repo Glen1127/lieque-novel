@@ -1,215 +1,304 @@
 {
-  "volume": "卷一",
   "chapters": [
     {
       "ch": 1,
       "title": "整理",
-      "synopsis": "沈念把第七箱玻璃酒杯从架子上搬下来，一只一只地用绒布擦拭。杯子是上世纪七十年代的样式，杯壁上有烫金的剧院徽章，擦掉灰尘后依然透亮。他数了数，一共四十七只，全部完好。",
-      "type": "intro",
-      "tension": "normal"
+      "type": "plot",
+      "tension": "low",
+      "synopsis": "沈念在仓库整理旧物，发现一个不该在这里的罐子。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 2,
-      "title": "回声",
-      "synopsis": "沈念回到仓库的时候，手还在抖。",
-      "type": "intro",
-      "tension": "normal"
+      "title": "罐子",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "罐子里有微弱的声音，沈念开始怀疑自己。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 3,
-      "title": "悼",
-      "synopsis": "那天晚上，沈念没有睡。",
-      "type": "intro",
-      "tension": "normal"
+      "title": "加班",
+      "type": "character",
+      "tension": "low",
+      "synopsis": "加班到很晚，罐子里的声音越来越清晰。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 4,
-      "title": "账本",
-      "synopsis": "沈念推开会计室的门时，陈姐正在烧什么东西。",
-      "type": "intro",
-      "tension": "normal"
+      "title": "声音",
+      "type": "revelation",
+      "tension": "medium",
+      "synopsis": "沈念确认自己听到了声音，来源是罐子里的回声。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 5,
-      "title": "档案",
-      "synopsis": "铁门后面是一条向下的楼梯。",
-      "type": "intro",
-      "tension": "normal"
+      "title": "第一次",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "回声第一次主动与沈念对话——小陶的声音。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 6,
-      "title": "转移",
-      "synopsis": "沈念的手在发抖。",
-      "type": "discovery",
-      "tension": "normal"
+      "title": "小陶",
+      "type": "character",
+      "tension": "medium",
+      "synopsis": "小陶告诉沈念，她需要他的帮助，传递她的回声。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 7,
-      "title": "记忆",
-      "synopsis": "沈念坐在后台的折叠床上，盯着自己的手。",
-      "type": "discovery",
-      "tension": "normal"
+      "title": "档案室",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "小陶引导沈念进入档案室，第一次看到亡魂的暂存地。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 8,
-      "title": "舞台",
-      "synopsis": "那天晚上，剧院没有演出。",
-      "type": "discovery",
-      "tension": "normal"
+      "title": "陈姐",
+      "type": "character",
+      "tension": "medium",
+      "synopsis": "陈姐出现，解释档案室的规则——整理、分类、传递。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 9,
-      "title": "代价",
-      "synopsis": "仓库深处，沈念他盯着地面。",
-      "type": "discovery",
-      "tension": "normal"
+      "title": "规则",
+      "type": "revelation",
+      "tension": "medium",
+      "synopsis": "陈姐讲述回声的流转规则：完成遗愿才能离开。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 10,
-      "title": "整理",
-      "synopsis": "仓库里的灯是那种老式的日光灯，嗡嗡响，声音很轻，但沈念已经习惯了。",
-      "type": "discovery",
-      "tension": "normal"
+      "title": "能力",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "沈念发现自己能传递回声，第一次成功传递。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 11,
-      "title": "标记",
-      "synopsis": "手指还在抖。",
+      "title": "代价",
       "type": "plot",
-      "tension": "high_tension"
+      "tension": "medium",
+      "synopsis": "传递后，沈念发现自己能听到小陶的声音——代价开始。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 12,
-      "title": "共存",
-      "synopsis": "布片已经空了三天了。",
-      "type": "plot",
-      "tension": "high_tension"
+      "title": "回家",
+      "type": "character",
+      "tension": "low",
+      "synopsis": "沈念回到现实，第一次感到身体里的异常。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 13,
-      "title": "融合",
-      "synopsis": "第四天。",
+      "title": "第二天",
       "type": "plot",
-      "tension": "high_tension"
+      "tension": "low",
+      "synopsis": "仓库日常工作，异常开始影响沈念的生活。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 14,
-      "title": "规则",
-      "synopsis": "第五天。",
+      "title": "第二次",
       "type": "plot",
-      "tension": "high_tension"
+      "tension": "medium",
+      "synopsis": "小陶再次出现，带来更多回声需要传递。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 15,
-      "title": "深层",
-      "synopsis": "第六天。",
-      "type": "plot",
-      "tension": "high_tension"
+      "title": "分类",
+      "type": "revelation",
+      "tension": "medium",
+      "synopsis": "沈念开始用整理的方式处理回声——分类再传递。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 16,
-      "title": "入口",
-      "synopsis": "第七天。",
+      "title": "遗愿",
       "type": "plot",
-      "tension": "high_tension"
+      "tension": "high",
+      "synopsis": "小陶告诉沈念，她的遗愿是找到一个人。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 17,
-      "title": "索引室",
-      "synopsis": "第八天。",
-      "type": "plot",
-      "tension": "high_tension"
+      "title": "容器",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "小陶的真实身份揭示——她是容器，不是普通亡魂。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 18,
-      "title": "钥匙",
-      "synopsis": "索引室的深处比外面更安静。沈念和小陶走了很久。走廊越来越窄，光线越来越暗。",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "名单",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "陈姐揭示名单制度：十二个孔位，已经满了。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 19,
-      "title": "离开",
-      "synopsis": "沈念看着小陶的脸。",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "替换",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "名单已满意味着什么？需要替换旧人才能进入深层。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 20,
-      "title": "门",
-      "synopsis": "深层入口在档案室的最深处。",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "沈念的名字",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "沈念发现自己的名字在名单上。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 21,
-      "title": "寻找",
-      "synopsis": "沈念回到档案室第三层的时候，小陶还在那里等着。",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "母亲",
+      "type": "mystery",
+      "tension": "high",
+      "synopsis": "陈姐暗示沈念，他的母亲与档案室有关。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 22,
-      "title": "陈",
-      "synopsis": "第二天早上，沈念醒来的时候，感觉到了什么。",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "调查",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "沈念开始调查母亲的过去。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 23,
-      "title": "真相",
-      "synopsis": "沈念站在那里。",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "三人",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "真相揭示：小陶、陈姐、沈念，三人共同守护什么。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 24,
-      "title": "一百份",
-      "synopsis": "沈念站在那里。",
-      "type": "climax",
-      "tension": "max_tension"
+      "title": "准备",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "沈念准备进入深层，见母亲。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 25,
-      "title": "答案",
-      "synopsis": "沈念在档案室里待了三天。",
-      "type": "climax",
-      "tension": "max_tension"
+      "title": "深层",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "沈念第一次进入深层，见到母亲沈敏。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 26,
-      "title": "回来",
-      "synopsis": "沈念从深层走出来的时候，天亮了。",
-      "type": "resolution",
-      "tension": "normal"
+      "title": "沈敏",
+      "type": "character",
+      "tension": "high",
+      "synopsis": "母亲沈敏揭示过去——她是前任传递者。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 27,
-      "title": "日常",
-      "synopsis": "仓库里的生活没有变。",
-      "type": "resolution",
-      "tension": "normal"
+      "title": "任务",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "沈敏交给沈念任务：找到第1032号。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 28,
-      "title": "传递",
-      "synopsis": "一个月后，陈姐来了。",
-      "type": "resolution",
-      "tension": "normal"
+      "title": "代价加深",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "深层探索中，传递代价加深——沈念开始混淆记忆。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 29,
-      "title": "等待",
-      "synopsis": "半年后。",
-      "type": "resolution",
-      "tension": "normal"
+      "title": "线索",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "沈念发现第1032号的线索。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 30,
-      "title": "出发",
-      "synopsis": "沈念走的那天，下雨了。",
-      "type": "resolution",
-      "tension": "normal"
+      "title": "接受",
+      "type": "character",
+      "tension": "high",
+      "synopsis": "沈念接受传递者身份，决定继续母亲的任务。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     }
   ]
 }

@@ -1,215 +1,304 @@
 {
-  "volume": "卷三",
   "chapters": [
     {
       "ch": 61,
-      "title": "传递仪式开始",
-      "synopsis": "传递仪式开始（Ch61）",
+      "title": "新的日常",
       "type": "plot",
-      "tension": "high_tension"
+      "tension": "medium",
+      "synopsis": "沈念开始新的日常——传递回声成为工作。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 62,
-      "title": "传递的准备",
-      "synopsis": "传递的准备（Ch62）",
-      "type": "discovery",
-      "tension": "normal"
+      "title": "更多回声",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "档案室的回声越来越多，需要更多传递。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 63,
-      "title": "第一次传递尝试",
-      "synopsis": "第一次传递尝试（Ch63）",
-      "type": "conflict",
-      "tension": "high_tension"
+      "title": "小陶的变化",
+      "type": "character",
+      "tension": "medium",
+      "synopsis": "小陶开始有变化——她想成为人。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 64,
-      "title": "回声的抵抗",
-      "synopsis": "回声的抵抗（Ch64）",
-      "type": "emotional",
-      "tension": "crisis"
+      "title": "容器的愿望",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "小陶告诉沈念：她不想只做容器。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 65,
-      "title": "传递完成",
-      "synopsis": "传递完成（Ch65）",
-      "type": "climax",
-      "tension": "max_tension"
+      "title": "传递继续",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "沈念继续传递，代价在加深。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 66,
-      "title": "传递后的变化",
-      "synopsis": "传递后的变化（Ch66）",
-      "type": "emotional",
-      "tension": "normal"
+      "title": "代价加深",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "传递代价加深——沈念开始预见回声的事。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 67,
-      "title": "小陶的选择时刻",
-      "synopsis": "小陶的选择时刻（Ch67）",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "预见",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "沈念能预见过世的回声的未来——这是代价的一部分。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 68,
-      "title": "小陶的选择",
-      "synopsis": "小陶的选择（Ch68）",
-      "type": "emotional",
-      "tension": "max_tension"
+      "title": "陈姐的过去",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "陈姐的过去慢慢揭示——她也有未完成的执念。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 69,
-      "title": "新的力量",
-      "synopsis": "新的力量（Ch69）",
-      "type": "discovery",
-      "tension": "normal"
+      "title": "三十年",
+      "type": "character",
+      "tension": "high",
+      "synopsis": "陈姐在档案室工作了三十年，等的是什么？",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 70,
-      "title": "第二次传递",
-      "synopsis": "第二次传递（Ch70）",
-      "type": "climax",
-      "tension": "max_tension"
+      "title": "重大传递",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "一次重大传递——回声量大，代价也大。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 71,
-      "title": "代价加深",
-      "synopsis": "代价加深（Ch71）",
-      "type": "emotional",
-      "tension": "crisis"
+      "title": "危机",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "传递过程中出现危机，沈念几乎失控。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 72,
-      "title": "记忆混乱",
-      "synopsis": "记忆混乱（Ch72）",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "拯救",
+      "type": "character",
+      "tension": "high",
+      "synopsis": "小陶救了沈念——她用自己的力量稳定了传递。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 73,
-      "title": "陈姐的到来",
-      "synopsis": "陈姐的到来（Ch73）",
-      "type": "emotional",
-      "tension": "normal"
+      "title": "小陶的选择",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "小陶做出选择——她想成为人，不只是容器。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 74,
-      "title": "三十年等待",
-      "synopsis": "三十年等待（Ch74）",
-      "type": "emotional",
-      "tension": "high_tension"
+      "title": "代价与愿望",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "小陶的愿望需要代价——放弃容器身份。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 75,
-      "title": "陈姐的选择",
-      "synopsis": "陈姐的选择（Ch75）",
-      "type": "emotional",
-      "tension": "max_tension"
+      "title": "小陶的决定",
+      "type": "character",
+      "tension": "high",
+      "synopsis": "小陶决定放弃容器身份，成为独立的个体。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 76,
-      "title": "传递继续",
-      "synopsis": "传递继续（Ch76）",
+      "title": "失去容器",
       "type": "plot",
-      "tension": "normal"
+      "tension": "high",
+      "synopsis": "小陶失去容器能力后，变得极度虚弱。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 77,
-      "title": "第三次传递",
-      "synopsis": "第三次传递（Ch77）",
-      "type": "climax",
-      "tension": "max_tension"
+      "title": "守护",
+      "type": "character",
+      "tension": "high",
+      "synopsis": "沈念开始守护小陶——这是他的选择。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 78,
-      "title": "代价完全显现",
-      "synopsis": "代价完全显现（Ch78）",
-      "type": "emotional",
-      "tension": "crisis"
+      "title": "陈姐的等待",
+      "type": "character",
+      "tension": "high",
+      "synopsis": "陈姐揭示三十年等待的意义。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 79,
-      "title": "新的同伴",
-      "synopsis": "新的同伴（Ch79）",
-      "type": "discovery",
-      "tension": "normal"
+      "title": "离开",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "陈姐完成使命，准备离开。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 80,
-      "title": "传递的意义",
-      "synopsis": "传递的意义（Ch80）",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "告别",
+      "type": "character",
+      "tension": "high",
+      "synopsis": "陈姐的告别——三十年等待的意义完成。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 81,
-      "title": "最终传递开始",
-      "synopsis": "最终传递开始（Ch81）",
+      "title": "档案室变化",
       "type": "plot",
-      "tension": "high_tension"
+      "tension": "medium",
+      "synopsis": "陈姐离开后，档案室发生变化。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 82,
-      "title": "传递的阻力",
-      "synopsis": "传递的阻力（Ch82）",
-      "type": "conflict",
-      "tension": "high_tension"
+      "title": "新的规则",
+      "type": "revelation",
+      "tension": "medium",
+      "synopsis": "档案室有了新的规则。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 83,
-      "title": "传递的完成",
-      "synopsis": "传递的完成（Ch83）",
-      "type": "climax",
-      "tension": "max_tension"
+      "title": "沈念的承担",
+      "type": "character",
+      "tension": "medium",
+      "synopsis": "沈念承担起更多责任。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 84,
-      "title": "传递之后",
-      "synopsis": "传递之后（Ch84）",
-      "type": "emotional",
-      "tension": "normal"
+      "title": "代价循环",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "代价进入循环——每次传递都在加深。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 85,
-      "title": "代价的回收",
-      "synopsis": "代价的回收（Ch85）",
-      "type": "resolution",
-      "tension": "normal"
+      "title": "临界点",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "代价接近临界点——沈念还能撑多久？",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 86,
-      "title": "新的开始",
-      "synopsis": "新的开始（Ch86）",
-      "type": "emotional",
-      "tension": "normal"
+      "title": "重大决定",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "沈念必须做出重大决定。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 87,
-      "title": "传递者的日常",
-      "synopsis": "传递者的日常（Ch87）",
-      "type": "transition",
-      "tension": "normal"
+      "title": "继续传递",
+      "type": "character",
+      "tension": "medium",
+      "synopsis": "沈念决定继续传递。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 88,
-      "title": "深层的变化",
-      "synopsis": "深层的变化（Ch88）",
-      "type": "discovery",
-      "tension": "high_tension"
+      "title": "代价极限",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "代价达到极限——沈念几乎失去自己。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 89,
-      "title": "传递的意义追问",
-      "synopsis": "传递的意义追问（Ch89）",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "最后一次",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "最后一次传递——代价巨大。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 90,
       "title": "第三卷收尾",
-      "synopsis": "第三卷收尾（Ch90）",
-      "type": "resolution",
-      "tension": "normal"
+      "type": "character",
+      "tension": "high",
+      "synopsis": "第三卷收尾——小陶的选择，陈姐的离开，代价已经无法逆转。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     }
   ]
 }

@@ -1,79 +1,60 @@
 {
   "open_loops": [
     {
-      "id": "xinsu_cure",
-      "question": "传递者能否摆脱回声的影响？",
-      "first_raised": 1,
-      "status": "ongoing",
-      "hints": [
-        "Ch10 发现自己是标记者",
-        "Ch25 进入深层"
-      ],
-      "book_status": "沈念正在寻找答案"
+      "id": "echo_perception",
+      "question": "沈念能感知回声，这个能力从哪里来？",
+      "ch_created": 5,
+      "status": "pending",
+      "answer_ch": null,
+      "answer": "从母亲沈敏那里遗传——传递者身份是血脉传承"
     },
     {
-      "id": "di_1032",
-      "question": "第1032号是谁？为什么要找她？",
-      "first_raised": 29,
-      "status": "unresolved",
-      "hints": [
-        "Ch29 找到线索",
-        "Ch30 出发寻找"
-      ],
-      "book_status": "将在第二卷揭示"
+      "id": "xiaotao_container",
+      "question": "小陶是容器，她想成为人，这个愿望能实现吗？",
+      "ch_created": 17,
+      "status": "pending",
+      "answer_ch": 75,
+      "answer": "小陶选择放弃容器身份，成为独立的个体"
     },
     {
-      "id": "xiaotao_identity",
-      "question": "小陶最终会变成什么？",
-      "first_raised": 18,
-      "status": "unresolved",
-      "hints": [
-        "Ch18 容器身份揭示",
-        "Ch19 选择继续成人"
-      ],
-      "book_status": "将在第三卷揭示"
+      "id": "mother_deep",
+      "question": "沈敏为什么留在深层？",
+      "ch_created": 25,
+      "status": "pending",
+      "answer_ch": 99,
+      "answer": "为了沈念——她在等一个能接替她的人"
+    },
+    {
+      "id": "listener_identity",
+      "question": "聆听者的真实身份是什么？",
+      "ch_created": 25,
+      "status": "pending",
+      "answer_ch": 100,
+      "answer": "聆听者是系统本身，不是人——是维持轮回的自动机制"
     },
     {
       "id": "transmitter_cost",
-      "question": "传递的代价具体是什么？",
-      "first_raised": 25,
-      "status": "unresolved",
-      "hints": [
-        "Ch25 深层探索",
-        "Ch35 传递真相"
-      ],
-      "book_status": "将在第二/三卷揭示"
+      "question": "传递者的代价最终会让沈念失去自己吗？",
+      "ch_created": 11,
+      "status": "pending",
+      "answer_ch": 110,
+      "answer": "沈念选择继续传递，但代价已经无法逆转"
     },
     {
-      "id": "listener_true_identity",
-      "question": "聆听者的真实身份是什么？",
-      "first_raised": 25,
-      "status": "unresolved",
-      "hints": [
-        "Ch25 深层相遇"
-      ],
-      "book_status": "将在第四卷揭示"
+      "id": "chen_jie_waiting",
+      "question": "陈姐等了三十年，等的是什么？",
+      "ch_created": 5,
+      "status": "pending",
+      "answer_ch": 80,
+      "answer": "等一个能接替她的人——沈念"
     },
     {
-      "id": "mother_secret",
-      "question": "沈敏为什么要创造小陶？",
-      "first_raised": 18,
-      "status": "unresolved",
-      "hints": [
-        "Ch18 小陶=沈敏的回声容器"
-      ],
-      "book_status": "已在第二卷部分揭示"
-    },
-    {
-      "id": "lieque_truth",
-      "question": "裂隙的终极真相是什么？",
-      "first_raised": 5,
-      "status": "unresolved",
-      "hints": [
-        "Ch5 档案室入口",
-        "Ch25 深层揭示"
-      ],
-      "book_status": "将在第四卷揭示"
+      "id": "target_1032",
+      "question": "第1032号是什么？",
+      "ch_created": 29,
+      "status": "pending",
+      "answer_ch": 56,
+      "answer": "与名单制度直接相关的特殊存在"
     }
   ]
 }

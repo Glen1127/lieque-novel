@@ -1,41 +1,44 @@
 {
+  "character_id": "chen_jie",
   "name": "陈姐",
   "aka": [
-    "陈姐",
-    "陈"
+    "档案室管理员"
   ],
-  "identity": "档案室守护者",
+  "identity": "档案室管理者，守护者",
   "first_ch": 5,
-  "status": "key_character",
-  "origin": "档案室",
-  "personality": [
-    "冷静，理性",
-    "守护意识强",
-    "等待三十年"
-  ],
-  "core_desire": "守护档案室，等待传递者归来",
-  "core_fear": [
-    "传递者永远不回来"
-  ],
-  "key_relationships": [
+  "appearance": "中年女性，沉稳，话不多但每句话都有分量",
+  "personality": {
+    "核心": "守护者，等待是她唯一擅长的事",
+    "特点": [
+      "沉稳",
+      "有分寸",
+      "了解档案室的一切"
+    ]
+  },
+  "relationships": [
     {
-      "target": "沈念",
-      "relation": "守护对象/同行者",
-      "status": "信任"
+      "name": "沈念",
+      "relation": "被指导者"
     },
     {
-      "target": "沈敏",
-      "relation": "前任传递者",
-      "status": "等待"
+      "name": "小陶",
+      "relation": "被照顾者"
     }
   ],
-  "arc": {
-    "phase1_ch5_17": "导师角色",
-    "phase2_ch18_25": "揭示守护者身份",
-    "phase3_ch26_90": "等待沈念归来",
-    "phase4_ch91_120": "三十年等待的意义揭示"
-  },
-  "cost": [
-    "三十年的孤独等待"
+  "核心设定": "在档案室工作三十年，看着无数回声流转",
+  "core_arc": "等待 → 引导沈念 → 完成使命",
+  "key_scenes": [
+    {
+      "ch": 5,
+      "event": "第一次出现"
+    },
+    {
+      "ch": 18,
+      "event": "名单制度揭示"
+    },
+    {
+      "ch": 80,
+      "event": "三十年等待的意义"
+    }
   ]
 }

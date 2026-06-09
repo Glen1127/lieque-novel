@@ -1,27 +1,6 @@
 {
   "volume_id": "volume_001",
-  "book_id": "lieque",
-  "chapters": "1-30",
-  "title": "第一卷：日常",
-  "ending_chapter": 30,
-  "world_state": {
-    "大剧院仓库": "正常运作",
-    "档案室": "被发现",
-    "深层": "沈念已进入并返回",
-    "名单": "状态未知：陈姐、陶"
-  },
-  "key_changes_this_volume": [
-    "沈念发现自己是标记者",
-    "小陶容器身份揭示",
-    "名单制度被发现",
-    "三人共同抚养真相",
-    "沈念进入深层见到母亲",
-    "找到第1032号线索",
-    "沈念接受传递者身份"
-  ],
-  "protagonist_state_at_end": {
-    "location": "仓库",
-    "key_status": "出发寻找第1032号",
-    "mental_state": "接受使命"
-  }
+  "status": "完成",
+  "ch_completed": 30,
+  "主要成就": "发现能力，接受身份"
 }

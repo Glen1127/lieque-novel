@@ -1,23 +1,27 @@
 {
+  "character_id": "target_1032",
   "name": "第1032号",
-  "aka": [
-    "第1032号",
-    "候备传递者"
-  ],
-  "identity": "候备传递者",
+  "aka": [],
+  "identity": "深层里的特殊存在，寻找的目标",
   "first_ch": 29,
-  "status": "key_character",
-  "origin": "候备名单",
-  "personality": [
-    "等待被找到",
-    "有自己故事"
-  ],
-  "core_desire": "接受使命，成为传递者",
-  "key_relationships": [
+  "appearance": "未知",
+  "personality": {
+    "核心": "与名单制度相关",
+    "特点": [
+      "特殊存在",
+      "是目标"
+    ]
+  },
+  "核心设定": "是沈念在深层寻找的目标，与名单制度有关",
+  "core_arc": "发现线索 → 寻找 → 找到 → 完成传递",
+  "key_scenes": [
     {
-      "target": "沈念",
-      "relation": "使命传递者",
-      "status": "接受"
+      "ch": 29,
+      "event": "发现线索"
+    },
+    {
+      "ch": 60,
+      "event": "找到第1032号"
     }
   ]
 }

@@ -1,215 +1,304 @@
 {
-  "volume": "卷四",
   "chapters": [
     {
       "ch": 91,
-      "title": "深层终极秘密",
-      "synopsis": "深层终极秘密（Ch91）",
-      "type": "discovery",
-      "tension": "crisis"
+      "title": "第四卷开始",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "沈念开始第四卷，面对终极真相。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 92,
-      "title": "聆听者的真实身份",
-      "synopsis": "聆听者的真实身份（Ch92）",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "残余代价",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "代价的残余影响继续存在。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 93,
-      "title": "系统的目的",
-      "synopsis": "系统的目的（Ch93）",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "聆听者的召唤",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "聆听者召唤沈念，要揭示终极真相。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 94,
-      "title": "裂隙的存在意义",
-      "synopsis": "裂隙的存在意义（Ch94）",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "终极揭示",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "聆听者开始揭示终极真相。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 95,
-      "title": "沈念的追问",
-      "synopsis": "沈念的追问（Ch95）",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "系统",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "聆听者是系统，不是人——这是关键揭示。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 96,
-      "title": "答案的碎片",
-      "synopsis": "答案的碎片（Ch96）",
-      "type": "discovery",
-      "tension": "normal"
+      "title": "轮回",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "轮回的完整机制揭示。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 97,
-      "title": "真相拼图",
-      "synopsis": "真相拼图（Ch97）",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "名单的真相",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "名单制度的真正意义揭示。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 98,
-      "title": "终极真相",
-      "synopsis": "终极真相（Ch98）",
-      "type": "climax",
-      "tension": "max_tension"
+      "title": "沈敏的选择",
+      "type": "character",
+      "tension": "high",
+      "synopsis": "沈敏当年为什么留在深层？",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 99,
-      "title": "聆听者的选择",
-      "synopsis": "聆听者的选择（Ch99）",
-      "type": "emotional",
-      "tension": "high_tension"
+      "title": "母亲的答案",
+      "type": "character",
+      "tension": "high",
+      "synopsis": "沈敏揭示她留在深层的原因。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 100,
-      "title": "聆听者身份揭示",
-      "synopsis": "聆听者身份揭示（Ch100）",
-      "type": "climax",
-      "tension": "max_tension"
+      "title": "聆听者身份",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "聆听者的完整身份揭示。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 101,
-      "title": "沈念的最终选择",
-      "synopsis": "沈念的最终选择（Ch101）",
-      "type": "emotional",
-      "tension": "max_tension"
+      "title": "系统运行",
+      "type": "revelation",
+      "tension": "medium",
+      "synopsis": "阴间系统的运行机制完全揭示。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 102,
-      "title": "选择的意义",
-      "synopsis": "选择的意义（Ch102）",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "沈念的位置",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "沈念在系统中的位置明确。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 103,
-      "title": "继续还是停止",
-      "synopsis": "继续还是停止（Ch103）",
-      "type": "cognitive",
-      "tension": "high_tension"
+      "title": "选择呈现",
+      "type": "plot",
+      "tension": "high",
+      "synopsis": "最终选择呈现在沈念面前。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 104,
-      "title": "沈念的回答",
-      "synopsis": "沈念的回答（Ch104）",
-      "type": "emotional",
-      "tension": "max_tension"
+      "title": "继续传递",
+      "type": "character",
+      "tension": "medium",
+      "synopsis": "沈念可以选择继续传递。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 105,
-      "title": "新的道路",
-      "synopsis": "新的道路（Ch105）",
-      "type": "resolution",
-      "tension": "normal"
+      "title": "离开",
+      "type": "character",
+      "tension": "medium",
+      "synopsis": "沈念也可以选择永远离开。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 106,
-      "title": "新一代传递者",
-      "synopsis": "新一代传递者（Ch106）",
-      "type": "discovery",
-      "tension": "normal"
+      "title": "代价的意义",
+      "type": "revelation",
+      "tension": "high",
+      "synopsis": "传递者代价的真正意义揭示。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 107,
-      "title": "传递的轮回",
-      "synopsis": "传递的轮回（Ch107）",
-      "type": "plot",
-      "tension": "high_tension"
+      "title": "小陶的未来",
+      "type": "character",
+      "tension": "high",
+      "synopsis": "小陶的未来与沈念的选择绑定。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 108,
-      "title": "第1032号的成长",
-      "synopsis": "第1032号的成长（Ch108）",
-      "type": "emotional",
-      "tension": "normal"
+      "title": "陈姐的遗产",
+      "type": "character",
+      "tension": "medium",
+      "synopsis": "陈姐的遗产——档案室的未来。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 109,
-      "title": "回到现实",
-      "synopsis": "回到现实（Ch109）",
-      "type": "transition",
-      "tension": "normal"
+      "title": "沈敏的离开",
+      "type": "character",
+      "tension": "high",
+      "synopsis": "沈敏准备离开深层。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 110,
-      "title": "小陶的等待",
-      "synopsis": "小陶的等待（Ch110）",
-      "type": "emotional",
-      "tension": "normal"
+      "title": "最终决定",
+      "type": "character",
+      "tension": "high",
+      "synopsis": "沈念做出最终决定。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 111,
-      "title": "重逢",
-      "synopsis": "重逢（Ch111）",
-      "type": "emotional",
-      "tension": "high_tension"
+      "title": "继续使命",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "沈念决定继续传递者的使命。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 112,
-      "title": "新的生活",
-      "synopsis": "新的生活（Ch112）",
-      "type": "emotional",
-      "tension": "normal"
+      "title": "新一代",
+      "type": "character",
+      "tension": "medium",
+      "synopsis": "新一代传递者出现。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 113,
-      "title": "传递者的日常",
-      "synopsis": "传递者的日常（Ch113）",
-      "type": "transition",
-      "tension": "normal"
+      "title": "传承",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "沈念将使命传承下去。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 114,
-      "title": "裂隙的延续",
-      "synopsis": "裂隙的延续（Ch114）",
-      "type": "plot",
-      "tension": "normal"
+      "title": "小陶的结局",
+      "type": "character",
+      "tension": "high",
+      "synopsis": "小陶的结局——她成为人了。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 115,
-      "title": "新一代开始",
-      "synopsis": "新一代开始（Ch115）",
-      "type": "emotional",
-      "tension": "normal"
+      "title": "沈念的日常",
+      "type": "character",
+      "tension": "low",
+      "synopsis": "沈念的日常生活——传递回声成为日常。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 116,
-      "title": "传承",
-      "synopsis": "传承（Ch116）",
-      "type": "emotional",
-      "tension": "high_tension"
+      "title": "裂隙的意义",
+      "type": "revelation",
+      "tension": "medium",
+      "synopsis": "裂隙存在的意义揭示。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 117,
-      "title": "告别的准备",
-      "synopsis": "告别的准备（Ch117）",
-      "type": "emotional",
-      "tension": "normal"
+      "title": "开放式结局",
+      "type": "plot",
+      "tension": "medium",
+      "synopsis": "结局开始展开——但不封闭。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 118,
-      "title": "最后的传递",
-      "synopsis": "最后的传递（Ch118）",
-      "type": "climax",
-      "tension": "max_tension"
+      "title": "尾声一",
+      "type": "character",
+      "tension": "low",
+      "synopsis": "小陶的视角——她成为了人。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 119,
-      "title": "开放式结局",
-      "synopsis": "开放式结局（Ch119）",
-      "type": "resolution",
-      "tension": "normal"
+      "title": "尾声二",
+      "type": "character",
+      "tension": "low",
+      "synopsis": "陈姐的视角——等待终于结束。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     },
     {
       "ch": 120,
-      "title": "继续",
-      "synopsis": "继续（Ch120）",
-      "type": "resolution",
-      "tension": "normal"
+      "title": "尾声三",
+      "type": "character",
+      "tension": "low",
+      "synopsis": "沈念的视角——继续裂隙中的使命。",
+      "pov": "shen_nian",
+      "word_count": 0,
+      "status": "pending"
     }
   ]
 }

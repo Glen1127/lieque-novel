@@ -1,23 +1,6 @@
 {
   "volume_id": "volume_002",
-  "book_id": "lieque",
-  "chapters": "31-60",
-  "title": "第二卷：深层",
-  "ending_chapter": 60,
-  "world_state": {
-    "大剧院仓库": "小陶守护中",
-    "档案室": "正常",
-    "深层": "沈念已深入探索"
-  },
-  "key_changes_this_volume": [
-    "深层全面探索",
-    "传递真相揭示",
-    "找到第1032号",
-    "代价显现"
-  ],
-  "protagonist_state_at_end": {
-    "location": "未知",
-    "key_status": "找到第1032号",
-    "mental_state": "理解代价"
-  }
+  "status": "pending",
+  "ch_completed": 0,
+  "主要成就": "代价确立，寻找第1032号"
 }

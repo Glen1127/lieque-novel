@@ -1,29 +1,36 @@
 {
+  "character_id": "shen_min",
   "name": "沈敏",
   "aka": [
-    "沈敏",
-    "沈敏（母亲）"
+    "母亲"
   ],
-  "identity": "前任传递者/沈念的母亲",
+  "identity": "沈念的母亲，前传递者，现困于深层",
   "first_ch": 25,
-  "status": "key_character",
-  "origin": "深层",
-  "personality": [
-    "温柔",
-    "坚定",
-    "为了儿子愿意做任何事"
-  ],
-  "core_desire": "保护沈念，将使命传递下去",
-  "key_relationships": [
+  "appearance": "与沈念有相似的特征，沉稳",
+  "personality": {
+    "核心": "为了沈念留在深层",
+    "特点": [
+      "坚定",
+      "不惜代价"
+    ]
+  },
+  "核心设定": "把传递者身份传给了沈念，自己困在深层",
+  "relationships": [
     {
-      "target": "沈念",
-      "relation": "母亲/传递者",
-      "status": "血缘/使命"
+      "name": "沈念",
+      "relation": "儿子",
+      "status": "现传递者"
     }
   ],
-  "arc": {
-    "phase1_pre_ch": "生前是传递者",
-    "phase2_ch25_35": "深层出现，将使命传给沈念",
-    "phase3_ch36_": "继续在深层等待"
-  }
+  "core_arc": "留在深层 → 等沈念来 → 完成使命 → 离开",
+  "key_scenes": [
+    {
+      "ch": 25,
+      "event": "深层相见"
+    },
+    {
+      "ch": 60,
+      "event": "母亲真相揭示"
+    }
+  ]
 }

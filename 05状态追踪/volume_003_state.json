@@ -1,22 +1,6 @@
 {
   "volume_id": "volume_003",
-  "book_id": "lieque",
-  "chapters": "61-90",
-  "title": "第三卷：传递",
-  "ending_chapter": 90,
-  "world_state": {
-    "深层": "传递进行中",
-    "档案室": "变化中"
-  },
-  "key_changes_this_volume": [
-    "传递仪式完成",
-    "小陶做出选择",
-    "陈姐三十年等待迎来结局",
-    "代价完全显现"
-  ],
-  "protagonist_state_at_end": {
-    "location": "深层/现实",
-    "key_status": "成为真正的传递者",
-    "mental_state": "接受代价"
-  }
+  "status": "pending",
+  "ch_completed": 0,
+  "主要成就": "小陶选择，陈姐离开"
 }

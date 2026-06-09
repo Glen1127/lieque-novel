@@ -1,0 +1,33 @@
+{
+  "track_id": "chen_jie_history",
+  "book_id": "lieque",
+  "title": "线：陈姐过去线",
+  "description": "陈姐三十年等待的意义，她的过去",
+  "chapters": "5-90",
+  "key_stages": [
+    {
+      "stage": 1,
+      "ch": "5",
+      "event": "第一次出现",
+      "status": "pending"
+    },
+    {
+      "stage": 2,
+      "ch": "18",
+      "event": "名单揭示",
+      "status": "pending"
+    },
+    {
+      "stage": 3,
+      "ch": "50",
+      "event": "陈姐过去线索",
+      "status": "pending"
+    },
+    {
+      "stage": 4,
+      "ch": "80",
+      "event": "三十年等待的意义",
+      "status": "pending"
+    }
+  ]
+}

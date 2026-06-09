@@ -1,590 +1,892 @@
 {
-  "book_id": "lieque",
-  "current_chapter": 30,
-  "total_words": "~360000",
-  "phase": "writing",
-  "last_updated": "2026-06-09",
-  "chapters": {
-    "0": {
-      "title": "师傅",
-      "type": "intro",
-      "tension": "normal",
-      "synopsis": "建立溶洞场景，介绍清风观和丹阳子",
-      "status": "written"
+  "project": {
+    "book_id": "lieque",
+    "title": "裂隙",
+    "current_chapter": 0,
+    "total_chapters": 120,
+    "phase": "init",
+    "writing_started": false
+  },
+  "protagonist": {
+    "character_id": "shen_nian",
+    "name": "沈念",
+    "status": "仓库整理员（未觉醒）",
+    "location": "大剧院仓库",
+    "world": "real_world"
+  },
+  "relationship": {
+    "xiaotao": {
+      "character_id": "xiaotao",
+      "status": "unknown",
+      "location": "unknown",
+      "role": "未知"
     },
+    "chen_jie": {
+      "character_id": "chen_jie",
+      "status": "守护者",
+      "location": "档案室",
+      "role": "档案室管理员"
+    }
+  },
+  "golden_finger": {
+    "type": "echo_perception",
+    "description": "能听到亡魂的声音，传递回声",
+    "awakened": false,
+    "limitation": "携带代价不可逆"
+  },
+  "world": {
+    "current_world": "real_world",
+    "layers_accessed": [
+      "real_world"
+    ],
+    "archive_accessed": false,
+    "deep_accessed": false
+  },
+  "constraints": {
+    "no_combat": true,
+    "整理型决策": true,
+    "代价真实体现": true
+  },
+  "chapters": {
     "1": {
-      "title": "李火旺",
-      "type": "intro",
-      "tension": "normal",
-      "synopsis": "现实世界，精神病院，杨娜探望",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "2": {
-      "title": "玉佩",
-      "type": "discovery",
-      "tension": "normal",
-      "synopsis": "玉佩跨世界携带发现，确认两边都真实",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "3": {
-      "title": "黑鼎",
-      "type": "intro",
-      "tension": "normal",
-      "synopsis": "惩罚逃跑者，玄阳出场",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "4": {
-      "title": "丹药",
-      "type": "intro",
-      "tension": "normal",
-      "synopsis": "丹阳子收李火旺为记名弟子，赐道号玄阳",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "5": {
-      "title": "价值",
-      "type": "discovery",
-      "tension": "normal",
-      "synopsis": "玉佩给杨娜验证，李火旺决心利用幻觉获利",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "6": {
-      "title": "糖块",
-      "type": "discovery",
-      "tension": "normal",
-      "synopsis": "糖块也可以跨世界",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "7": {
-      "title": "翻篇",
-      "type": "character_intro",
-      "tension": "normal",
-      "synopsis": "白灵淼出场，被李火旺救下",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "8": {
-      "title": "黑太岁",
-      "type": "element",
-      "tension": "normal",
-      "synopsis": "黑太岁出现，压制幻觉",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "9": {
-      "title": "杨娜",
-      "type": "emotional",
-      "tension": "crisis",
-      "synopsis": "杨娜消散，情感崩溃",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "10": {
-      "title": "玄元",
-      "type": "world",
-      "tension": "normal",
-      "synopsis": "早课，清风观日常，道号分配",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "11": {
-      "title": "天书",
-      "type": "plotting",
-      "tension": "normal",
-      "synopsis": "发现天书可能的价值，开始布局",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "12": {
-      "title": "拜年",
-      "type": "planning",
-      "tension": "normal",
-      "synopsis": "春节，李火旺决定复仇",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "13": {
-      "title": "游老爷",
-      "type": "discovery",
-      "tension": "normal",
-      "synopsis": "游老爷提及，弱点：初一十五不在",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "14": {
-      "title": "拜神",
-      "type": "planning",
-      "tension": "normal",
-      "synopsis": "拜神仪式，准备对付正坤",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "15": {
-      "title": "脑袋",
-      "type": "conflict",
-      "tension": "normal",
-      "synopsis": "正坤偷天书失败，被威胁",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "16": {
-      "title": "纸条",
-      "type": "plotting",
-      "tension": "normal",
-      "synopsis": "李火旺设局，纸条引导正坤",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "17": {
-      "title": "正坤",
-      "type": "climax",
-      "tension": "high_tension",
-      "synopsis": "正坤被游老爷杀死，复仇成功",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "18": {
-      "title": "道铃",
-      "type": "resolution",
-      "tension": "normal",
-      "synopsis": "道铃修复，游老爷重召",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "19": {
-      "title": "离去",
-      "type": "transition",
-      "tension": "normal",
-      "synopsis": "离开清风观，与吕戏班同行",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "20": {
-      "title": "故人",
-      "type": "world",
-      "tension": "normal",
-      "synopsis": "遇故人，了解更多世界观",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "21": {
-      "title": "得道成仙",
-      "type": "climax",
-      "tension": "high_tension",
-      "synopsis": "李火旺诱导丹阳子吃假丹",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "22": {
-      "title": "黑太岁死",
-      "type": "element",
-      "tension": "normal",
-      "synopsis": "黑太岁消亡",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "23": {
-      "title": "祠堂",
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
       "type": "plot",
-      "tension": "normal",
-      "synopsis": "祠堂唱戏任务",
-      "status": "written"
+      "tension": "medium"
     },
     "24": {
-      "title": "吕状元",
-      "type": "character_intro",
-      "tension": "normal",
-      "synopsis": "吕戏班详细出场",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "25": {
-      "title": "吓人",
-      "type": "conflict",
-      "tension": "normal",
-      "synopsis": "戏班遇到怪人",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "26": {
-      "title": "继续吓人",
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
       "type": "plot",
-      "tension": "normal",
-      "synopsis": "戏班与怪人的交涉",
-      "status": "written"
+      "tension": "medium"
     },
     "27": {
-      "title": "戏班同行",
-      "type": "relationship",
-      "tension": "normal",
-      "synopsis": "戏班与李火旺结伴",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "28": {
-      "title": "分别",
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
       "type": "plot",
-      "tension": "normal",
-      "synopsis": "短暂分别",
-      "status": "written"
+      "tension": "medium"
     },
     "29": {
-      "title": "新的开始",
-      "type": "transition",
-      "tension": "normal",
-      "synopsis": "进入新阶段",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "30": {
-      "title": "游老爷",
-      "type": "element",
-      "tension": "normal",
-      "synopsis": "游老爷再次出场，道铃修复",
-      "status": "written"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "31": {
-      "title": "寻找线索",
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
       "type": "plot",
-      "tension": "normal",
-      "synopsis": "继续调查",
-      "status": "planned"
+      "tension": "medium"
     },
     "32": {
-      "title": "小脚女人",
-      "type": "element",
-      "tension": "high_tension",
-      "synopsis": "讨封类邪祟出场",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "33": {
-      "title": "喜神",
-      "type": "element",
-      "tension": "high_tension",
-      "synopsis": "喜神降临",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "34": {
-      "title": "司天监",
-      "type": "world",
-      "tension": "normal",
-      "synopsis": "朝廷机构介入",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "35": {
-      "title": "建邺",
-      "type": "world",
-      "tension": "normal",
-      "synopsis": "进入建邺城",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "36": {
-      "title": "酒馆",
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
       "type": "plot",
-      "tension": "normal",
-      "synopsis": "酒馆打听消息",
-      "status": "planned"
+      "tension": "medium"
     },
     "37": {
-      "title": "情报",
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
       "type": "plot",
-      "tension": "normal",
-      "synopsis": "获取情报",
-      "status": "planned"
+      "tension": "medium"
     },
     "38": {
-      "title": "赵五父",
-      "type": "character",
-      "tension": "normal",
-      "synopsis": "赵五父的故事",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "39": {
-      "title": "监天司",
-      "type": "conflict",
-      "tension": "normal",
-      "synopsis": "监天司监视",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "40": {
-      "title": "跟踪",
-      "type": "tension",
-      "tension": "normal",
-      "synopsis": "被跟踪",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "41": {
-      "title": "正德寺",
-      "type": "world",
-      "tension": "normal",
-      "synopsis": "进入正德寺",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "42": {
-      "title": "正德寺秘密",
-      "type": "discovery",
-      "tension": "high_tension",
-      "synopsis": "正德寺内部秘密",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "43": {
-      "title": "丹阳子成佛",
-      "type": "climax",
-      "tension": "high_tension",
-      "synopsis": "丹阳子'成佛'=无相",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "44": {
-      "title": "真相碎片",
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
       "type": "plot",
-      "tension": "normal",
-      "synopsis": "拼凑真相",
-      "status": "planned"
+      "tension": "medium"
     },
     "45": {
-      "title": "信任崩塌",
-      "type": "emotional",
-      "tension": "crisis",
-      "synopsis": "对丹阳子的信任崩塌",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "46": {
-      "title": "推理",
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
       "type": "plot",
-      "tension": "normal",
-      "synopsis": "继续推理",
-      "status": "planned"
+      "tension": "medium"
     },
     "47": {
-      "title": "不确定",
-      "type": "cognitive",
-      "tension": "crisis",
-      "synopsis": "无法确认幻觉还是真实",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "48": {
-      "title": "心素",
-      "type": "discovery",
-      "tension": "high_tension",
-      "synopsis": "心素概念首次引入",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "49": {
-      "title": "深入",
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
       "type": "plot",
-      "tension": "normal",
-      "synopsis": "继续深入调查",
-      "status": "planned"
+      "tension": "medium"
     },
     "50": {
-      "title": "对峙",
-      "type": "conflict",
-      "tension": "normal",
-      "synopsis": "与相关人员对峙",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "51": {
-      "title": "丹阳子保护",
-      "type": "reversal",
-      "tension": "high_tension",
-      "synopsis": "发现丹阳子在保护李火旺",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "52": {
-      "title": "撕裂七佛",
-      "type": "climax",
-      "tension": "high_tension",
-      "synopsis": "丹阳子撕裂七佛",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "53": {
-      "title": "被看吃佛陀",
-      "type": "emotional",
-      "tension": "crisis",
-      "synopsis": "别人看李火旺吃佛陀",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "54": {
-      "title": "出马弟子",
-      "type": "world",
-      "tension": "normal",
-      "synopsis": "出马弟子出场",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "55": {
-      "title": "冲突",
-      "type": "conflict",
-      "tension": "normal",
-      "synopsis": "与出马弟子冲突",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "56": {
-      "title": "二神",
-      "type": "element",
-      "tension": "high_tension",
-      "synopsis": "二神出场",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "57": {
-      "title": "交易",
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
       "type": "plot",
-      "tension": "normal",
-      "synopsis": "与出马弟子交易",
-      "status": "planned"
+      "tension": "medium"
     },
     "58": {
-      "title": "出马代价",
-      "type": "discovery",
-      "tension": "normal",
-      "synopsis": "出马仙的代价",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "59": {
-      "title": "出马弟子揭示",
-      "type": "element",
-      "tension": "normal",
-      "synopsis": "出马弟子更多信息",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "60": {
-      "title": "继续旅程",
-      "type": "transition",
-      "tension": "normal",
-      "synopsis": "继续旅程",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "61": {
-      "title": "心素揭示",
-      "type": "reversal",
-      "tension": "high_tension",
-      "synopsis": "心素=唐僧肉揭示",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "62": {
-      "title": "阳寿葫芦",
-      "type": "element",
-      "tension": "normal",
-      "synopsis": "阳寿葫芦出场",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "63": {
-      "title": "二神警告",
-      "type": "conflict",
-      "tension": "high_tension",
-      "synopsis": "二神警告后突然袭击",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "64": {
-      "title": "激战",
-      "type": "conflict",
-      "tension": "high_tension",
-      "synopsis": "与出马弟子激战",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "65": {
-      "title": "战胜夺舍",
-      "type": "reversal",
-      "tension": "high_tension",
-      "synopsis": "战胜但触发丹阳子夺舍",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "66": {
-      "title": "李志之死",
-      "type": "emotional",
-      "tension": "high_tension",
-      "synopsis": "李志死前情报：心素价值",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "67": {
-      "title": "荒岛",
-      "type": "transition",
-      "tension": "normal",
-      "synopsis": "流落荒岛",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "68": {
-      "title": "屠杀开始",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "荒岛屠杀开始",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "69": {
-      "title": "阳寿",
-      "type": "element",
-      "tension": "normal",
-      "synopsis": "阳寿葫芦获取",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "70": {
-      "title": "屠杀继续",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "荒岛屠杀继续",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "71": {
-      "title": "屠杀继续2",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "荒岛屠杀继续",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "72": {
-      "title": "屠杀继续3",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "荒岛屠杀继续",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "73": {
-      "title": "屠杀继续4",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "荒岛屠杀继续",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "74": {
-      "title": "屠杀继续5",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "荒岛屠杀继续",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "75": {
-      "title": "屠杀继续6",
-      "type": "climax",
-      "tension": "max_tension",
-      "synopsis": "荒岛屠杀继续",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "76": {
-      "title": "巴虺",
-      "type": "element",
-      "tension": "max_tension",
-      "synopsis": "巴虺召唤",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "77": {
-      "title": "巴虺失败",
-      "type": "reversal",
-      "tension": "max_tension",
-      "synopsis": "巴虺召唤失败/李火旺=怪物",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "78": {
-      "title": "高智坚",
-      "type": "character_intro",
-      "tension": "normal",
-      "synopsis": "高智坚出场",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "79": {
-      "title": "安慈庵建立",
-      "type": "world",
-      "tension": "normal",
-      "synopsis": "安慈庵建立",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "80": {
-      "title": "疗伤",
-      "type": "recovery",
-      "tension": "normal",
-      "synopsis": "在安慈庵疗伤",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "81": {
-      "title": "静心师太",
-      "type": "character_intro",
-      "tension": "normal",
-      "synopsis": "静心师太出场",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     },
     "82": {
-      "title": "卷一终",
-      "type": "transition",
-      "tension": "normal",
-      "synopsis": "第一卷收尾",
-      "status": "planned"
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "83": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "84": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "85": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "86": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "87": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "88": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "89": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "90": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "91": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "92": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "93": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "94": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "95": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "96": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "97": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "98": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "99": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "100": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "101": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "102": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "103": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "104": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "105": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "106": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "107": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "108": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "109": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "110": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "111": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "112": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "113": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "114": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "115": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "116": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "117": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "118": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "119": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
+    },
+    "120": {
+      "status": "pending",
+      "word_count": 0,
+      "pov": "shen_nian",
+      "type": "plot",
+      "tension": "medium"
     }
   }
 }
