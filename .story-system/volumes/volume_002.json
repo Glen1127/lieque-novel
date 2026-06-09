@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "schema_version": "story-system/v1",
+    "contract_type": "VOLUME_BRIEF",
+    "generator_version": "phase2",
+    "source_trace": []
+  },
+  "volume_goal": {
+    "summary": "第2卷深层：沈念进入深层寻找母亲，揭示传递的真相，拿到使命；陈姐三十年等待的意义完整揭示；沈念面临选择——继续传递还是留在现实"
+  },
+  "selected_tropes": [
+    "规则怪谈",
+    "双世界叙事",
+    "克苏鲁"
+  ],
+  "selected_pacing": {
+    "wave": "进入深层→面对代价→真相揭示→使命确认→回来"
+  },
+  "selected_scenes": [
+    "深层内部",
+    "聆听者接触",
+    "母亲现身",
+    "传递真相揭示",
+    "沈念的选择"
+  ],
+  "anti_patterns": [
+    "谜底提前透光",
+    "规则写得像背景板",
+    "直接给答案",
+    "进去后没有即时后果"
+  ],
+  "system_constraints": [
+    "高压克制",
+    "禁止修仙元素",
+    "只能进深层一次"
+  ],
+  "world_rules": [
+    "深层是档案室的尽头",
+    "聆听者碾磨回声",
+    "传递是唯一出路",
+    "进入者只能进去一次"
+  ],
+  "plot_arcs": {
+    "沈念_deep": "进入深层，面对母亲的真相",
+    "陈姐_reveal": "三十年等待的意义完整揭示",
+    "传递真相": "母亲揭示：传递是让回声永远存在的唯一方式"
+  },
+  "overrides": {
+    "locked": {},
+    "append_only": {},
+    "override_allowed": {}
+  }
+}

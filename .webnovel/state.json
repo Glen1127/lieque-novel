@@ -1,134 +1,75 @@
 {
   "project_info": {
     "title": "裂隙",
-    "genre": "规则怪谈",
+    "genre": "规则怪谈/克苏鲁/双世界叙事",
     "created_at": "2026-06-09",
-    "target_words": 2000000,
-    "target_chapters": 600,
-    "golden_finger_name": "无金手指",
-    "golden_finger_type": "无",
-    "golden_finger_style": "无",
-    "core_selling_points": "克苏鲁/规则怪谈/双世界叙事/创伤心理",
-    "protagonist_structure": "单主角",
-    "heroine_config": "无女主",
-    "heroine_names": "",
-    "heroine_role": "",
-    "co_protagonists": "",
-    "co_protagonist_roles": "",
-    "antagonist_tiers": "",
-    "world_scale": "现代都市",
-    "factions": "剧院/档案室/异界",
-    "power_system_type": "无",
-    "social_class": "",
-    "resource_distribution": "",
-    "gf_visibility": "",
-    "gf_irreversible_cost": "",
-    "target_reader": "悬疑/克苏鲁爱好者",
-    "platform": "起点中文网",
-    "currency_system": "",
-    "currency_exchange": "",
-    "sect_hierarchy": "",
-    "cultivation_chain": "",
-    "cultivation_subtiers": ""
+    "target_words": 300000,
+    "target_chapters": 120,
+    "volume_plan": "4卷：日常(1-30)→深层(31-60)→传递(61-90)→终章(91-120)",
+    "core_concept": "骨架《道诡异仙》：主角在两个世界间迷失，代价是失去正常人资格。《裂隙》对应：档案室=修仙世界，深层=两个世界的交界，传递者=失去正常人资格"
   },
   "progress": {
     "current_chapter": 30,
     "total_words": 103000,
     "last_updated": "2026-06-09",
-    "volumes_completed": [],
     "current_volume": 1,
-    "volumes_planned": []
+    "volume_end": 30
   },
   "protagonist_state": {
     "name": "沈念",
     "power": {
       "realm": "普通人（携带一百份回声）",
-      "layer": 1,
-      "bottleneck": ""
+      "layer": 1
     },
     "location": {
       "current": "外面世界，出发寻找第1032号候备整理者",
       "last_chapter": 30
-    },
-    "golden_finger": {
-      "name": "未命名金手指",
-      "level": 1,
-      "cooldown": 0,
-      "skills": []
-    },
-    "attributes": {}
-  },
-  "relationships": {
-    "沈念": {
-      "name": "沈念",
-      "role": "主角",
-      "status": "携带一百份回声（三十年来所有整理者总和），已完成第一次深层进入，拿到终极答案：回声用来传递，一代传一代",
-      "relation_type": "known"
-    },
-    "陈姐": {
-      "name": "陈姐",
-      "role": "会计/第一批整理者",
-      "status": "三十年前进入过一次深层，已不能再进；身上有自己与沈敏/老周融合的回声；共同抚养了沈念",
-      "relation_type": "known"
-    },
-    "母亲沈敏": {
-      "name": "母亲沈敏",
-      "role": "第一批整理者/深层居民",
-      "status": "三十年前进入深层，选择成为答案的一部分；在深层等待沈念；终极答案的传递者",
-      "relation_type": "known"
-    },
-    "老周": {
-      "name": "老周",
-      "role": "仓库管理员/沈念师傅",
-      "status": "名字在准入名单第七位（已封存）；沈念进深层时回声被封；三十年前进去过一次",
-      "relation_type": "known"
-    },
-    "小陶": {
-      "name": "小陶",
-      "role": "容器/普通女孩",
-      "status": "母亲用回声创造的容器，后选择变成人，失去所有力量；现在是普通女孩，在仓库等沈念回来",
-      "relation_type": "known"
-    },
-    "聆听者": {
-      "name": "聆听者",
-      "role": "深渊本体/最终Boss",
-      "status": "在深层深处，碾磨回声；不解释原因，不给明确答案",
-      "relation_type": "known"
     }
   },
-  "disambiguation_warnings": [],
-  "disambiguation_pending": [],
-  "world_settings": {
-    "power_system": [],
-    "factions": [],
-    "locations": []
+  "world_rules": {
+    "回声转移": "单向不可逆",
+    "碾磨": "被聆听者吸收，永远消失",
+    "深层准入": "十二把钥匙=十二份回声",
+    "名单已满": "旧人被封存，新人只能替换",
+    "只能进深层一次": "进入者无法再次进入",
+    "回声保质期": "不传递会衰减消失",
+    "一百份回声": "所有整理者回声的总和"
+  },
+  "relationships": {
+    "沈念": "主角，传递者候选，身上有一百份回声",
+    "陈姐": "第一批整理者，三十年前进入过一次深层，守护者",
+    "母亲沈敏": "第一批整理者，三十年前进入深层，传递真相的揭示者",
+    "老周": "名字在名单第七位，已封存",
+    "小陶": "容器→变成普通女孩，在仓库等沈念",
+    "聆听者": "深层本体，碾磨回声",
+    "第1032号": "候备整理者，沈念的传递对象"
   },
   "plot_threads": {
-    "active_threads": [
+    "active": [
       {
-        "thread_name": "第1032号候备整理者：确认后未现身，在某处等待",
+        "thread_name": "寻找第1032号候备整理者",
         "chapter_created": 29,
         "status": "active"
       },
       {
-        "thread_name": "深层终极答案：回声用来传递，一代传一代，永远继续",
+        "thread_name": "沈念的传递使命",
         "chapter_created": 25,
-        "status": "resolved"
-      },
-      {
-        "thread_name": "进入深层只能一次：沈念已用，陈姐三十年前用过，无法再进",
-        "chapter_created": 8,
-        "status": "resolved"
-      },
-      {
-        "thread_name": "一百份回声的最终归属：传递下去",
-        "chapter_created": 24,
         "status": "active"
       }
     ],
-    "foreshadowing": []
+    "resolved": [
+      {
+        "thread_name": "深层终极答案：传递，一代传一代",
+        "chapter_created": 25,
+        "resolved_chapter": 25
+      },
+      {
+        "thread_name": "只能进入深层一次",
+        "chapter_created": 8,
+        "resolved_chapter": 28
+      }
+    ]
   },
-  "review_checkpoints": [],
   "chapter_meta": {
     "第1章": {"title": "第1章", "words": 2889, "status": "written"},
     "第2章": {"title": "第2章", "words": 2486, "status": "written"},
@@ -161,12 +102,12 @@
     "第29章": {"title": "等待", "words": 2550, "status": "written"},
     "第30章": {"title": "出发", "words": 1481, "status": "written"}
   },
-  "strand_tracker": {
-    "last_quest_chapter": 30,
-    "last_fire_chapter": 0,
-    "last_constellation_chapter": 0,
-    "current_dominant": "quest",
-    "chapters_since_switch": 0,
-    "history": []
+  "outline_sync_status": {
+    "大纲总纲": "updated_with_full_4_volume_plan",
+    "volume_001": "updated",
+    "volume_002": "created",
+    "volume_003": "pending",
+    "volume_004": "pending",
+    "骨架映射": "completed"
   }
 }
