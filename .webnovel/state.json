@@ -32,9 +32,9 @@
     "cultivation_subtiers": ""
   },
   "progress": {
-    "current_chapter": 10,
-    "total_words": 37686,
-    "last_updated": "2026-06-09 14:30:00",
+    "current_chapter": 11,
+    "total_words": 42028,
+    "last_updated": "2026-06-09 15:00:00",
     "volumes_completed": [],
     "current_volume": 1,
     "volumes_planned": []
@@ -48,7 +48,7 @@
     },
     "location": {
       "current": "仓库/陈姐处",
-      "last_chapter": 10
+      "last_chapter": 11
     },
     "golden_finger": {
       "name": "未命名金手指",
@@ -190,12 +190,12 @@
       {
         "thread_name": "母亲通过小陶继续存在——小陶的整理行为会被母亲的回声引导",
         "chapter_created": 9,
-        "status": "active"
+        "status": "progressed"
       },
       {
         "thread_name": "布片空了之后还能触发穿越吗？——第10章需要回答",
         "chapter_created": 9,
-        "status": "active"
+        "status": "progressed"
       },
       {
         "thread_name": "聆听者为什么选择小陶？——是否有更深的计划？",
@@ -255,6 +255,11 @@
     "第10章": {
       "title": "整理",
       "words": 4019,
+      "status": "written"
+    },
+    "第11章": {
+      "title": "标记",
+      "words": 4342,
       "status": "written"
     }
   },
