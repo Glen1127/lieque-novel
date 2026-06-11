@@ -1,0 +1,15 @@
+{
+  "character_id": "shen_nian",
+  "name": "沈念",
+  "current_state": {
+    "identity": "传递者",
+    "location": "档案室/深层",
+    "cost_accumulation": "中等",
+    "self_confusion": "轻度"
+  },
+  "arc_progression": {
+    "phase_1_ch1_30": "发现能力，接受身份",
+    "phase_2_ch31_60": "理解代价，深入探索",
+    "phase_3_ch61_120": "代价加深，做出选择"
+  }
+}

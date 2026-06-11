@@ -1,0 +1,68 @@
+{
+  "open_loops": [
+    {
+      "id": "echo_perception",
+      "question": "沈念能感知回声，这个能力从哪里来？",
+      "ch_created": 5,
+      "status": "pending",
+      "answer_ch": null,
+      "answer": "从母亲沈敏那里遗传——传递者身份是血脉传承"
+    },
+    {
+      "id": "xiaotao_container",
+      "question": "小陶是容器，她想成为人，这个愿望能实现吗？",
+      "ch_created": 17,
+      "status": "pending",
+      "answer_ch": 75,
+      "answer": "小陶选择放弃容器身份，成为独立的个体"
+    },
+    {
+      "id": "mother_deep",
+      "question": "沈敏为什么留在深层？",
+      "ch_created": 25,
+      "status": "pending",
+      "answer_ch": 99,
+      "answer": "为了沈念——她在等一个能接替她的人"
+    },
+    {
+      "id": "listener_identity",
+      "question": "聆听者的真实身份是什么？",
+      "ch_created": 25,
+      "status": "pending",
+      "answer_ch": 100,
+      "answer": "聆听者是系统本身，不是人——是维持轮回的自动机制"
+    },
+    {
+      "id": "transmitter_cost",
+      "question": "传递者的代价最终会让沈念失去自己吗？",
+      "ch_created": 11,
+      "status": "pending",
+      "answer_ch": 110,
+      "answer": "沈念选择继续传递，但代价已经无法逆转"
+    },
+    {
+      "id": "chen_jie_waiting",
+      "question": "陈姐等了三十年，等的是什么？",
+      "ch_created": 5,
+      "status": "pending",
+      "answer_ch": 80,
+      "answer": "等一个能接替她的人——沈念"
+    },
+    {
+      "id": "target_1032",
+      "question": "第1032号是什么？",
+      "ch_created": 29,
+      "status": "pending",
+      "answer_ch": 56,
+      "answer": "与名单制度直接相关的特殊存在"
+    },
+    {
+      "id": "xiaotao_target_found",
+      "question": "小陶要找的人是谁？和第1032号是同一个人吗？",
+      "ch_created": 30,
+      "status": "pending",
+      "answer_ch": null,
+      "answer": null
+    }
+  ]
+}
