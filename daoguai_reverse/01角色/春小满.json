@@ -1,28 +1,10 @@
 {
   "name": "春小满",
+  "first_ch": 160,
+  "identity": "同伴",
   "aka": [],
-  "identity": "清风观弟子/女性（外表像男性）",
-  "first_ch": 52,
-  "status": "supporting",
-  "personality": [
-    "泼辣",
-    "敢爱敢恨",
-    "年轻（约16-17岁）"
-  ],
-  "appearance": "有胡须/外表男性化/实际是女性",
-  "key_relationship": {
-    "target": "李火旺",
-    "relation": "师弟/同伴",
-    "status": "信任"
-  },
   "key_scenes": [
-    "被发现是女性（Ch192）",
-    "与李火旺争夺《大千录》（Ch195）",
-    "得到道铃作为替代"
+    "第160章初见"
   ],
-  "abilities": [
-    "道铃",
-    "战斗力"
-  ],
-  "transformation": "收到道铃后成为李火旺的助手"
+  "status": "中段同行"
 }

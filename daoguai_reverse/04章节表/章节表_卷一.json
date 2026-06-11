@@ -1,586 +1,1938 @@
-{
-  "volume": "卷一",
-  "chapters": [
-    {
-      "ch": 0,
-      "title": "师傅",
-      "synopsis": "建立溶洞场景，介绍清风观和丹阳子",
-      "type": "intro",
-      "tension": "normal"
-    },
-    {
-      "ch": 1,
-      "title": "李火旺",
-      "synopsis": "现实世界，精神病院，杨娜探望",
-      "type": "intro",
-      "tension": "normal"
-    },
-    {
-      "ch": 2,
-      "title": "玉佩",
-      "synopsis": "玉佩跨世界携带发现，确认两边都真实",
-      "type": "discovery",
-      "tension": "normal"
-    },
-    {
-      "ch": 3,
-      "title": "黑鼎",
-      "synopsis": "惩罚逃跑者，玄阳出场",
-      "type": "intro",
-      "tension": "normal"
-    },
-    {
-      "ch": 4,
-      "title": "丹药",
-      "synopsis": "丹阳子收李火旺为记名弟子，赐道号玄阳",
-      "type": "intro",
-      "tension": "normal"
-    },
-    {
-      "ch": 5,
-      "title": "价值",
-      "synopsis": "玉佩给杨娜验证，李火旺决心利用幻觉获利",
-      "type": "discovery",
-      "tension": "normal"
-    },
-    {
-      "ch": 6,
-      "title": "糖块",
-      "synopsis": "糖块也可以跨世界",
-      "type": "discovery",
-      "tension": "normal"
-    },
-    {
-      "ch": 7,
-      "title": "翻篇",
-      "synopsis": "白灵淼出场，被李火旺救下",
-      "type": "character_intro",
-      "tension": "normal"
-    },
-    {
-      "ch": 8,
-      "title": "黑太岁",
-      "synopsis": "黑太岁出现，压制幻觉",
-      "type": "element",
-      "tension": "normal"
-    },
-    {
-      "ch": 9,
-      "title": "杨娜",
-      "synopsis": "杨娜消散，情感崩溃",
-      "type": "emotional",
-      "tension": "crisis"
-    },
-    {
-      "ch": 10,
-      "title": "玄元",
-      "synopsis": "早课，清风观日常，道号分配",
-      "type": "world",
-      "tension": "normal"
-    },
-    {
-      "ch": 11,
-      "title": "天书",
-      "synopsis": "发现天书可能的价值，开始布局",
-      "type": "plotting",
-      "tension": "normal"
-    },
-    {
-      "ch": 12,
-      "title": "拜年",
-      "synopsis": "春节，李火旺决定复仇",
-      "type": "planning",
-      "tension": "normal"
-    },
-    {
-      "ch": 13,
-      "title": "游老爷",
-      "synopsis": "游老爷提及，弱点：初一十五不在",
-      "type": "discovery",
-      "tension": "normal"
-    },
-    {
-      "ch": 14,
-      "title": "拜神",
-      "synopsis": "拜神仪式，准备对付正坤",
-      "type": "planning",
-      "tension": "normal"
-    },
-    {
-      "ch": 15,
-      "title": "脑袋",
-      "synopsis": "正坤偷天书失败，被威胁",
-      "type": "conflict",
-      "tension": "normal"
-    },
-    {
-      "ch": 16,
-      "title": "纸条",
-      "synopsis": "李火旺设局，纸条引导正坤",
-      "type": "plotting",
-      "tension": "normal"
-    },
-    {
-      "ch": 17,
-      "title": "正坤",
-      "synopsis": "正坤被游老爷杀死，复仇成功",
-      "type": "climax",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 18,
-      "title": "道铃",
-      "synopsis": "道铃修复，游老爷重召",
-      "type": "resolution",
-      "tension": "normal"
-    },
-    {
-      "ch": 19,
-      "title": "离去",
-      "synopsis": "离开清风观，与吕戏班同行",
-      "type": "transition",
-      "tension": "normal"
-    },
-    {
-      "ch": 20,
-      "title": "故人",
-      "synopsis": "遇故人，了解更多世界观",
-      "type": "world",
-      "tension": "normal"
-    },
-    {
-      "ch": 21,
-      "title": "得道成仙",
-      "synopsis": "李火旺诱导丹阳子吃假丹",
-      "type": "climax",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 22,
-      "title": "黑太岁死",
-      "synopsis": "黑太岁消亡",
-      "type": "element",
-      "tension": "normal"
-    },
-    {
-      "ch": 23,
-      "title": "祠堂",
-      "synopsis": "祠堂唱戏任务",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 24,
-      "title": "吕状元",
-      "synopsis": "吕戏班详细出场",
-      "type": "character_intro",
-      "tension": "normal"
-    },
-    {
-      "ch": 25,
-      "title": "吓人",
-      "synopsis": "戏班遇到怪人",
-      "type": "conflict",
-      "tension": "normal"
-    },
-    {
-      "ch": 26,
-      "title": "继续吓人",
-      "synopsis": "戏班与怪人的交涉",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 27,
-      "title": "戏班同行",
-      "synopsis": "戏班与李火旺结伴",
-      "type": "relationship",
-      "tension": "normal"
-    },
-    {
-      "ch": 28,
-      "title": "分别",
-      "synopsis": "短暂分别",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 29,
-      "title": "新的开始",
-      "synopsis": "进入新阶段",
-      "type": "transition",
-      "tension": "normal"
-    },
-    {
-      "ch": 30,
-      "title": "游老爷",
-      "synopsis": "游老爷再次出场，道铃修复",
-      "type": "element",
-      "tension": "normal"
-    },
-    {
-      "ch": 31,
-      "title": "寻找线索",
-      "synopsis": "继续调查",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 32,
-      "title": "小脚女人",
-      "synopsis": "讨封类邪祟出场",
-      "type": "element",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 33,
-      "title": "喜神",
-      "synopsis": "喜神降临",
-      "type": "element",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 34,
-      "title": "司天监",
-      "synopsis": "朝廷机构介入",
-      "type": "world",
-      "tension": "normal"
-    },
-    {
-      "ch": 35,
-      "title": "建邺",
-      "synopsis": "进入建邺城",
-      "type": "world",
-      "tension": "normal"
-    },
-    {
-      "ch": 36,
-      "title": "酒馆",
-      "synopsis": "酒馆打听消息",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 37,
-      "title": "情报",
-      "synopsis": "获取情报",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 38,
-      "title": "赵五父",
-      "synopsis": "赵五父的故事",
-      "type": "character",
-      "tension": "normal"
-    },
-    {
-      "ch": 39,
-      "title": "监天司",
-      "synopsis": "监天司监视",
-      "type": "conflict",
-      "tension": "normal"
-    },
-    {
-      "ch": 40,
-      "title": "跟踪",
-      "synopsis": "被跟踪",
-      "type": "tension",
-      "tension": "normal"
-    },
-    {
-      "ch": 41,
-      "title": "正德寺",
-      "synopsis": "进入正德寺",
-      "type": "world",
-      "tension": "normal"
-    },
-    {
-      "ch": 42,
-      "title": "正德寺秘密",
-      "synopsis": "正德寺内部秘密",
-      "type": "discovery",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 43,
-      "title": "丹阳子成佛",
-      "synopsis": "丹阳子'成佛'=无相",
-      "type": "climax",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 44,
-      "title": "真相碎片",
-      "synopsis": "拼凑真相",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 45,
-      "title": "信任崩塌",
-      "synopsis": "对丹阳子的信任崩塌",
-      "type": "emotional",
-      "tension": "crisis"
-    },
-    {
-      "ch": 46,
-      "title": "推理",
-      "synopsis": "继续推理",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 47,
-      "title": "不确定",
-      "synopsis": "无法确认幻觉还是真实",
-      "type": "cognitive",
-      "tension": "crisis"
-    },
-    {
-      "ch": 48,
-      "title": "心素",
-      "synopsis": "心素概念首次引入",
-      "type": "discovery",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 49,
-      "title": "深入",
-      "synopsis": "继续深入调查",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 50,
-      "title": "对峙",
-      "synopsis": "与相关人员对峙",
-      "type": "conflict",
-      "tension": "normal"
-    },
-    {
-      "ch": 51,
-      "title": "丹阳子保护",
-      "synopsis": "发现丹阳子在保护李火旺",
-      "type": "reversal",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 52,
-      "title": "撕裂七佛",
-      "synopsis": "丹阳子撕裂七佛",
-      "type": "climax",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 53,
-      "title": "被看吃佛陀",
-      "synopsis": "别人看李火旺吃佛陀",
-      "type": "emotional",
-      "tension": "crisis"
-    },
-    {
-      "ch": 54,
-      "title": "出马弟子",
-      "synopsis": "出马弟子出场",
-      "type": "world",
-      "tension": "normal"
-    },
-    {
-      "ch": 55,
-      "title": "冲突",
-      "synopsis": "与出马弟子冲突",
-      "type": "conflict",
-      "tension": "normal"
-    },
-    {
-      "ch": 56,
-      "title": "二神",
-      "synopsis": "二神出场",
-      "type": "element",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 57,
-      "title": "交易",
-      "synopsis": "与出马弟子交易",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 58,
-      "title": "出马代价",
-      "synopsis": "出马仙的代价",
-      "type": "discovery",
-      "tension": "normal"
-    },
-    {
-      "ch": 59,
-      "title": "出马弟子揭示",
-      "synopsis": "出马弟子更多信息",
-      "type": "element",
-      "tension": "normal"
-    },
-    {
-      "ch": 60,
-      "title": "继续旅程",
-      "synopsis": "继续旅程",
-      "type": "transition",
-      "tension": "normal"
-    },
-    {
-      "ch": 61,
-      "title": "心素揭示",
-      "synopsis": "心素=唐僧肉揭示",
-      "type": "reversal",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 62,
-      "title": "阳寿葫芦",
-      "synopsis": "阳寿葫芦出场",
-      "type": "element",
-      "tension": "normal"
-    },
-    {
-      "ch": 63,
-      "title": "二神警告",
-      "synopsis": "二神警告后突然袭击",
-      "type": "conflict",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 64,
-      "title": "激战",
-      "synopsis": "与出马弟子激战",
-      "type": "conflict",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 65,
-      "title": "战胜夺舍",
-      "synopsis": "战胜但触发丹阳子夺舍",
-      "type": "reversal",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 66,
-      "title": "李志之死",
-      "synopsis": "李志死前情报：心素价值",
-      "type": "emotional",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 67,
-      "title": "荒岛",
-      "synopsis": "流落荒岛",
-      "type": "transition",
-      "tension": "normal"
-    },
-    {
-      "ch": 68,
-      "title": "屠杀开始",
-      "synopsis": "荒岛屠杀开始",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 69,
-      "title": "阳寿",
-      "synopsis": "阳寿葫芦获取",
-      "type": "element",
-      "tension": "normal"
-    },
-    {
-      "ch": 70,
-      "title": "屠杀继续",
-      "synopsis": "荒岛屠杀继续",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 71,
-      "title": "屠杀继续2",
-      "synopsis": "荒岛屠杀继续",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 72,
-      "title": "屠杀继续3",
-      "synopsis": "荒岛屠杀继续",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 73,
-      "title": "屠杀继续4",
-      "synopsis": "荒岛屠杀继续",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 74,
-      "title": "屠杀继续5",
-      "synopsis": "荒岛屠杀继续",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 75,
-      "title": "屠杀继续6",
-      "synopsis": "荒岛屠杀继续",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 76,
-      "title": "巴虺",
-      "synopsis": "巴虺召唤",
-      "type": "element",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 77,
-      "title": "巴虺失败",
-      "synopsis": "巴虺召唤失败/李火旺=怪物",
-      "type": "reversal",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 78,
-      "title": "高智坚",
-      "synopsis": "高智坚出场",
-      "type": "character_intro",
-      "tension": "normal"
-    },
-    {
-      "ch": 79,
-      "title": "安慈庵建立",
-      "synopsis": "安慈庵建立",
-      "type": "world",
-      "tension": "normal"
-    },
-    {
-      "ch": 80,
-      "title": "疗伤",
-      "synopsis": "在安慈庵疗伤",
-      "type": "recovery",
-      "tension": "normal"
-    },
-    {
-      "ch": 81,
-      "title": "静心师太",
-      "synopsis": "静心师太出场",
-      "type": "character_intro",
-      "tension": "normal"
-    },
-    {
-      "ch": 82,
-      "title": "卷一终",
-      "synopsis": "第一卷收尾",
-      "type": "transition",
-      "tension": "normal"
-    }
-  ]
-}
+[
+  {
+    "ch": 1,
+    "title": "师傅",
+    "synopsis": "见李火旺接过去，她也又从兜里掏出一块塞进自己嘴里，傻呵呵的继续说道：“师傅好.....跟师傅有糖吃....”\n　　对此李；当彻底捣烂后，他单手举起那重达几百斤的石瓮，全部倒进面前的炼丹炉里，紧接着表情极度亢奋的双手向着空中猛地一举",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 2,
+    "title": "李火旺",
+    "synopsis": "只不过这一次癞子头师傅当着我的面前，十分残忍的杀了一个人还把她炼丹；医生刚离开，少女就走了进来，两人相视一笑，李火旺顿时感到心中甜丝丝的，心中对自己疾病的顾虑迅速抛之脑后",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 3,
+    "title": "玉佩",
+    "synopsis": "师傅要的药引没弄好，坏了他老人家的成仙大事，他活活扒了你们人的皮；说完了几句见李火旺没反应，玄阳觉得对方怕了，轻蔑的一仰头转身离开这药引才待的地方",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 4,
+    "title": "黑鼎",
+    "synopsis": "然而喊了半天却没有反应，李火旺明白，王护士又在值夜班的时候偷偷追玛丽苏电视剧了，她总是这么喜欢偷懒；穿过大大小小的溶洞，又从一条湍急的地下河边穿过，很快他们来到了一间教室大小的潮湿溶洞内",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 5,
+    "title": "丹药",
+    "synopsis": "道爷我告诉你们，助人成仙可是大功德，要是道爷我成了仙，我自然不会忘记你们的好，但是谁要是坏了道爷的好事；对了，既然你成为本道爷的弟子，入了本教，没有道号可不行，以后你的道号就是玄阳",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 6,
+    "title": "价值",
+    "synopsis": "杨娜看了李火旺几秒后，最终咬嘴嘴唇点了点头，当她离开的时候，眼睛红红的，一步三回头，似乎十分担心李火旺的精神状态；刹那间，一股极其炙热暖流胃部涌出，进入了李火旺的四肢，他瞬间感觉到充满了力量，昏昏沉沉的脑袋变得无比清明",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 7,
+    "title": "清风观",
+    "synopsis": "不过此时的他一点都不慌，当看到那丹药真的有作用后，李火旺忽然发现自己的人生多了很多种新选择；李火旺学着他们说话的样子回答道：“师弟刚刚成为师傅的弟子，还请师兄解惑，我接下来该做些什么",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 8,
+    "title": "翻篇",
+    "synopsis": "当李火旺重新来到丹房的时候，就看到那倍感压抑的丹炉缓缓打开了；几颗暗蓝色的丹药随着丹阳子大袖一挥，迅速排列整齐进入了他腰间的土黄色葫芦",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 9,
+    "title": "黑太岁",
+    "synopsis": "盯着那掉在地上裹上灰尘的黑太岁，李火旺错愕的抬起头来看向眼前的丹阳子了，一时间没有明白对方到底什么意思；丹阳子微微一扬下巴，一旁两位身背佩剑的道士疾步来到李火旺面前，一人一边抓住他的胳膊",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 10,
+    "title": "馒头",
+    "synopsis": "此时他的敌人不再是自己那突变的疾病，而是变成了那个拿人炼丹的癞子头道士丹阳子",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 11,
+    "title": "玄元",
+    "synopsis": "那是正坤师兄，自从正坎正震师兄叛逃后，他是师傅唯一的内门弟子了，以后观内遇见了，记得尊敬点，他可不像师傅那般好脾气；我知道你想什么，别惦记着师傅的成仙功法，要从上面轮下来，你是最后一个",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 12,
+    "title": "丹方",
+    "synopsis": "当李火旺来到炼丹房，发现一些起的早的童子已经开始拿着麻布清洗丹炉跟地板了；整个炼丹房十分的简约，除了占了三分之一空间的巨大黑色丹炉外，就只剩下一个丹阳子用来砸人的石瓮跟石棒了",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 13,
+    "title": "炼丹",
+    "synopsis": "仔细数了数，最终李火旺获得了十三颗大润血丹，二十六颗小润血丹；李火旺的收获不仅仅只是这些，而且通过炼制润血丹的过程，他还了解到了炼丹的一些基本知识",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 14,
+    "title": "帮手",
+    "synopsis": "自己成为了丹阳子那令人作呕的帮凶，把对方对自己做的事情，强压在别人身上；别的人或许不敢反抗丹阳子，可是料房里的药引注定要死了，其中肯定有不甘心的，这是根本性矛盾，这些人中肯定有自己争取的对象",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 15,
+    "title": "正坤",
+    "synopsis": "看着颤抖不已的他走进了炼丹房，李火旺转身离开了，表情有些烦躁向回走；不行，我的炼丹技术都是他教的，这么班门弄斧更是找死",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 16,
+    "title": "脑袋",
+    "synopsis": "溶洞内的日子里没日没夜，阴历初一很快就到了，这一天是丹阳子练丹药的最佳时辰，他要在炼丹房呆上一上午，而且刚好也是“游老爷；当十五天过去，来到了二月初一，正坤依然没有任何动静",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 17,
+    "title": "找到了",
+    "synopsis": "丹阳子走了过来，他身上令人作呕的臭味跟那让人窒息的威压感让李火旺身体紧绷到了极致，他终于明白刚刚其他师兄们为什么会流这么；李火旺的目光投去，他看到丹阳子已经来到了白灵淼他们这些料房面前，他这话是对那些药引说的",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 18,
+    "title": "成仙功法",
+    "synopsis": "打破自己瓶子的人找到了，但是丹阳子却一点都高兴不起来，他表复杂地看着着正坤的残躯，狠狠地抬脚踢飞；当一套三礼九叩的流程下来，此时举着三柱香的李火旺已经明白对方要做什么了",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 19,
+    "title": "迷信",
+    "synopsis": "有，还有，还有公婆鱼，这东西也邪门.....”\n　　在赵五那里，李火旺知道了不少稀奇古怪的名词，而这些都是他将要放进成仙；公婆鱼一只，取其鳃，浸泡砒霜二两……”\n　　从赵五那里知道的东西，在搭配李火旺从现代的知识，最终混合一晚上没睡的精力，在",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 20,
+    "title": "丹阳子",
+    "synopsis": "随着它们的离开，不断扭动天昏地黑的一切也逐渐恢复正常；那是，师父都是要成仙的人了，世间恐怕没有什么事情能难得到您",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 21,
+    "title": "得道成仙",
+    "synopsis": "李火旺明白，这些丹药自己肯定是要吃的，自己不吃，丹阳子肯定是不会入口；别看刚刚吃年夜饭，装作一脸和蔼的样子，可是他口中所说的一同成仙，其实就是来拿自己试药的",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 22,
+    "title": "出口",
+    "synopsis": "清风观炼丹房内，浑身被师傅血液铺满的李火旺愣在原地，明显没有反应过来；当挑了半天，都没有挑出一块能动的肉块，甚至连丹阳子的铜铃都炸瘪了后，李火旺这才松了一口气，丹阳子真的是被自己彻底整死了",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 23,
+    "title": "家",
+    "synopsis": "儿子，你不能死啊，你要是死了，我跟老头子可怎么活啊；李火旺决定了，无论自己在哪里都要尽可能的好好活下去，这不仅仅是为了自己，还是为了那些可能存在又可能不存的家人们",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 24,
+    "title": "搜刮",
+    "synopsis": "当一群人来到那溶洞时就停住了，他们看到那黑太岁居然从黑鼎里面爬出来了，这是他们第一次看到黑太岁的真正样子；当明白李火旺是想凭借着黑太岁肉压制幻觉后，他们终于暗自心中悬着的心终于落了下来",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 25,
+    "title": "林间小路",
+    "synopsis": "至于靠这东西成仙的不切实际的想法，李火旺完全抛弃了，他已经看到了之前尝试之人的下场，他不想成为下一个；用布把这石板包好后，往身上一背，他对着一旁等待的其他人说道：“走吧，我们离开这里",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 26,
+    "title": "吓人",
+    "synopsis": "本章围绕吓人展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 27,
+    "title": "邪门",
+    "synopsis": "本章围绕邪门展开",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 28,
+    "title": "吕家班",
+    "synopsis": "这些家伙一看能离开清风观了，什么都不管，直接就冲了出去，一点为后续考虑都没有；吕状元认字，但是认识的并不多，在李火旺的翻译下，他终于理解了上面所有的地址",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 29,
+    "title": "搭台",
+    "synopsis": "我就想啊，要是年景好了再狠狠的多跑几百趟，等老汉我攒够了钱，在西京城买下属于我吕家的戏楼，嘿，那就是死了都能瞑目了；当他们来到五里岗的时候，罗绢花已经熟到让白灵淼抱自己的女儿了",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 30,
+    "title": "唱戏",
+    "synopsis": "虽然对方没有说话，但是看着表情，李火旺当然明白对方的意思了；道童稚嫩的脸上满是不安，虽然他们都是孩子，可他们却非常的懂事能干，毕竟不懂事的已经被丹阳子杀了",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 31,
+    "title": "游老爷",
+    "synopsis": "本章围绕游老爷展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 32,
+    "title": "胡家祠堂",
+    "synopsis": "但是李火旺可以肯定的是，无论丹阳子拿来炼丹的大姥姥，还有游老爷，甚至包括那天晚上的小脚女人，它们绝对不是鬼，至少不是他印；吕班主，唱戏的规矩你也知道，等祖宗们出来看戏了，请戏的后辈就要离开，要在家里闭门不出",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 33,
+    "title": "接着唱",
+    "synopsis": "我好像弄明白了怎么回事，你这几次的举动似乎都想让他们恐惧你；当弄明白这家伙的目的后，李火旺瞬间打消了顾虑，这装神弄鬼的东西远没有自己想的那么厉害",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 34,
+    "title": "喜神",
+    "synopsis": "见对方有帮手，那东西要逃，但是此时已经晚了，游老爷已经来到它的身边",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 35,
+    "title": "迷茫",
+    "synopsis": "丹阳子不可能成仙，他所谓的成仙功法跟服用的内丹，明明就是我瞎编的，随嘴瞎编乱造的东西，怎么可能助人成仙呢；当来到桌前，吕状元脸上的表情顿时僵住了，他看到桌子上，除了那只烧鸡以外，别的菜已经舔得干干净净，干净的都可以不用洗盘子了",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 36,
+    "title": "驴车",
+    "synopsis": "当得知李火旺是拼了命才得到这东西的，白灵淼把手中的鸡脖放了下来，她听着声音爬到李火旺身边的，表情心疼的看着他；他们下一个目标就是建邺镇，这也将会是李火旺一次进入这个世界的大规模的聚集地",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 37,
+    "title": "九流",
+    "synopsis": "离开五里岗有点时间了，细长的林间小路逐渐变宽，并且此时也不止两拨人，马车，牛车，还有挑着担子的农家一同往前赶着；地上的开始密集起来的脚印，跟畜生的粪便让李火旺明白，建邺镇应该快到了",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 38,
+    "title": "建邺",
+    "synopsis": "这话说得所有人鸦雀无声，等赵五的三哥扛着米过来，李火旺一挥手，让傻子带上米，带着其他人离开了",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 39,
+    "title": "野生",
+    "synopsis": "哦.......”\n　　当没有人理会，那老乞丐无趣的自己离开后，暗中握紧道铃的李火旺松了一口气",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 40,
+    "title": "后半夜",
+    "synopsis": "听到李火旺说这话，其他人马上明白了什么，轻轻地点了点头；在漫长的等待下，上半夜就这么过去了来到了下半夜，来到了最容易犯困的那个时间",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 41,
+    "title": "和尚",
+    "synopsis": "看着他们手里拿着那好几摞香，李火旺立马明白这些人都是去拜佛的",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 42,
+    "title": "寺庙",
+    "synopsis": "寺庙找到了，可是下一个问题难住了他，自己应该怎么跟这寺庙的和尚接触呢；虽然没有理由，但是我心中有种猜测，那在黑暗中拉拽喜神的，就是丹阳子，成仙后的丹阳子",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 43,
+    "title": "佛",
+    "synopsis": "心慧的声音依然不平不淡，但是这一次李火旺听明白了他要表达的意思了；成仙的那些功法都是我瞎编出来啊，那么多剧毒的东西，吃下去应该会直接死掉才对",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 44,
+    "title": "正德寺",
+    "synopsis": "李火旺接过来，翻开经书，里面全是生涩的佛门经文，云里雾里完全理解不了含义",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 45,
+    "title": "佛祖",
+    "synopsis": "在跟着这和尚七拐八拐之下，李火旺来到了正德寺的一个宽敞的露天大院中；仔细辨别后，他还发现了更多的异常，那就是这些和尚都是阴阳人",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 46,
+    "title": "心慧",
+    "synopsis": "说完李火旺大步走出大殿，来到的外面那令人作呕的雕刻场；眼看着李火旺再转一个弯，就要来到正德寺门口时，一个熟悉的面孔挡住了他的去路",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 47,
+    "title": "上香",
+    "synopsis": "心慧并没有去别的地方，而是带着众人重新来到了之前的雕刻佛像的场地；在心慧的陪同下，李火旺缓缓向前走去，过了雕塑佛像的场地又来到了之前看到牲口的地方",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 48,
+    "title": "逃跑",
+    "synopsis": "这个问题现在注定没有答案，不过李火旺现在也不需要这个答案呢，他现在只想尽可能地离开这鬼地方；就在李火旺还在猜测，那远处的扫地僧是不是过来监视自己的时候，对方见地上没有落叶拿起扫把转身离开了",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 49,
+    "title": "心素",
+    "synopsis": "别的地方都买不到的地图，终于在西京城找到了，哪怕依然十分的粗糙；很快他来到了五佛殿内，看到了殿内，正在专心穿佛珠的方丈",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 50,
+    "title": "佛陀",
+    "synopsis": "施主，贫僧不知你在说些什么，快随我回寺里去吧，丹阳子的因果在你身上，如果带着它离开，你会有大麻烦的，天下苍生也会也大麻烦",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 51,
+    "title": "辩证",
+    "synopsis": "坚沌解决完闲杂人，重新摇摆着走了回来，来到李火旺眼前；联想到之前在正德寺遭遇的事情，此时李火旺发现了一个非常不符合逻辑的地方",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 52,
+    "title": "丹阳子",
+    "synopsis": "本章围绕丹阳子展开",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 53,
+    "title": "琢磨",
+    "synopsis": "不管他现在成为了什么东西，关键是他依然还在，还在盯着我；只是我之前一直以为，是成仙的他亲自下凡，现在看来，其实他是附身我身体上行动罢了",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 54,
+    "title": "游老爷",
+    "synopsis": "忍着头晕，李火旺迅速跟游老爷交谈，结果得知了一些意外的信息；看着眼前的游老爷的两道残影，李火旺似乎明白了什么，再次加大力度晃动了起来",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 55,
+    "title": "愈合",
+    "synopsis": "再者说了......”\n　　说道这，李火旺回想起丹阳子用人炼丹，以及正德和尚那些怪异的“修炼”方式",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 56,
+    "title": "关外",
+    "synopsis": "李火旺甚至心中忽然有种冲动，现在马上掉头回正德寺，不管之后要遭遇什么磨难，先让那些和尚举行普渡大斋，解决掉丹阳子再说\n　；李火旺心中暗暗下定了这个决定，这也是他目前唯一拿的出的筹码",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 57,
+    "title": "跳大神",
+    "synopsis": "话音刚落，那双秀花鞋不紧不慢地从黑暗中走出，来到那老男人身边",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 58,
+    "title": "李志",
+    "synopsis": "那人上下打量了一会眼前一脸警惕的道士，讪讪地点了点头后转身离开；昨个晚上，我想了半宿，我想明白了，我这是把真人吓着了是吧",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 59,
+    "title": "出马弟子",
+    "synopsis": "李志手中的筷子在空中划拉了几下，“想要出马啊，要得大病，最好是快要死了的那种，你要运气好，仙家就会给你托梦；从男人，女人，畜生，然后再到最后的“大佛”，和尚的修炼方式处于一种循序渐进的过程",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 60,
+    "title": "跳大神",
+    "synopsis": "当他来到人群中央后，看得更清楚了，那八仙桌上的行为怪异的女人明显非常的不对劲",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 61,
+    "title": "二神",
+    "synopsis": "嗖～”的一声，她被某种力量猛地拉进入白烟当中去，里面还在不断传来李志的唱词",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 62,
+    "title": "夜谈",
+    "synopsis": "她往外走，李火旺就往外退，一个进一个退，最终来到院子外面这才停了下来；第二天，等李火旺醒来，来到大堂，就看到李志正在喝粥",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 63,
+    "title": "红盖头",
+    "synopsis": "说完，笑眯眯的李志用手拍了拍李火旺红色道袍，带着他的妻子转身离开了",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 64,
+    "title": "鼓",
+    "synopsis": "随着李志脸上长出那些东西，离开的二神脸上的那些东西已经统统不见，他们两个人居然就这么轻松地交换了位子，李志变成二神，二神；李火旺感觉脖子一疼，不知何时，那二神已经来到了他的身后，满嘴尖牙的血盆大口狠狠地咬在了他肩膀上的肉上",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 65,
+    "title": "我让你敲！",
+    "synopsis": "他们就像一本书，当看到他们的样子的瞬间，李火旺也就理解了它们；随着他不断靠近，渐渐的铃声开始压过鼓声，游老爷那边防守开始突破",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 66,
+    "title": "善人",
+    "synopsis": "都要死了，你还跟我装，这会摆好脸，刚刚要杀我的难道是别人不成；呵呵……你要不信也没辙，从出马的那天起，我就成为了它们手中的傀儡",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 67,
+    "title": "包裹",
+    "synopsis": "首先李火旺明白了，正德寺的和尚图谋不轨的原因，\n　　“心素者，太始变而成形，形而有质，而未成体，是曰心素；李火旺对古文不太懂，但是凭借着学校里的模糊记忆，他还是对意思理解出一个大概",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 68,
+    "title": "过节",
+    "synopsis": "很快他们就来到了，镇上的十字路口，那里同样有不少人正在给远方的家人烧纸钱；李师兄，你这说的什么瞎话，人死了不变成鬼，那变成什么了",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 69,
+    "title": "吃饭",
+    "synopsis": "他把我妹妹也卖了，我妹妹被卖给了一个五十多岁的老头，她年初刚难产死了；我娘劝我，说他不管怎么样都是我爹，说杀亲爹要遭天谴的，可是我宁愿遭天谴，我也要杀了他",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 70,
+    "title": "湖",
+    "synopsis": "本章围绕湖展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 71,
+    "title": "水匪",
+    "synopsis": "事已至此，多说无益，我们的命是贱，但是甭管哪个人杀了我们元家这么多口人就想走，恐怕没那么容易",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 72,
+    "title": "龙门寨",
+    "synopsis": "兜兜转转了一会，最终这点小舢船，来到了一片由芦苇编织而成小岛面前；最终元二跟着自己的祖爷爷来到了，一间由巨大鱼骨做成骨架，用芦苇编织而成的大堂内",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 73,
+    "title": "杀人",
+    "synopsis": "到了这时，他才明白过来，自己到底惹到了一个多么恐怖的存在；那是他们祖祖辈辈的祭拜的河伯，它居然就这么被那道人给杀了",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 74,
+    "title": "死亡",
+    "synopsis": "孙师弟水性比我好，我们拼了命去湖里捞人，可是也只找到这几个，而且傻子.....也淹死了；最终他定格在傻子那张国子脸上，李火旺没想到连他也死了，这个忠心耿耿的傻子",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 75,
+    "title": "库房",
+    "synopsis": "现在当务之急，是从这地方找到自己想要的，然后带着其他人离开这里",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 76,
+    "title": "竹简",
+    "synopsis": "对比第一次的喜神，到第二次佛陀，再到今天的第三次，李火旺发现了明显的规律；当李火旺重新来到那些财物面前时，就看到狗娃带着其他人，兴冲冲地把所有装宝物的箱子用力地向屋外拖着",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 77,
+    "title": "巴虺",
+    "synopsis": "通过这一极其奇特的感知能力，李火旺等人突破了人类的感知界限；还没等李火旺想明白这到底发生了什么，他表情一凝，果断提剑以最快的速度，向着外面的元二冲去",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 78,
+    "title": "善后",
+    "synopsis": "这似乎是一个非常好的选择，这竹简不管是谁写出来的，巴虺的力量不是那么好借用的，留在世上，只会其他人带来无尽的苦难；把船推过来吧，然后把死人跟金子都准备好，我们离开这个破地方",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 79,
+    "title": "集市",
+    "synopsis": "狗娃显然没听明白李火旺的意思，兴奋的双手一拍，一蹦老高；而其他人自然没有明白，这名字背后的含义，纷纷起身恭喜",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 80,
+    "title": "姑子",
+    "synopsis": "两辆马车在密集的人群中挤了很久，终于来到了客栈的面前；本来按照他的理解，这镇离尼姑庵那么近，不管好坏应该都会对附近的人有一定影响才对",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 81,
+    "title": "安慈庵",
+    "synopsis": "兜兜转转的一会后，李火旺跟着那胖尼姑来到了一间带烟筒的土房子面前",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 82,
+    "title": "静心师太",
+    "synopsis": "本章围绕静心师太展开",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 83,
+    "title": "心素",
+    "synopsis": "最重要的是，自己记不清是怎么来到这个世界的，或许他们记得，也许自己可以通过他们回到原来的世界也说不定；可我这个当娘的清楚啊，他从我肚子里出来，就一直没有离开我身边，他从来没有去过什么别的大千世界，那都是他瞎想出来的",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 84,
+    "title": "迷惘",
+    "synopsis": "那你也不算门外人了，应该也知晓一些修炼无形之术的事情，任何门派除了外在物件外，最主要的就是自己的心境；通过这话，李火旺才明白过来，人类的情感在这个世界并不是虚无缥缈的存在，而是可以影响到现实的东西",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 85,
+    "title": "下山",
+    "synopsis": "既然目标已经确定，李火旺也不再墨迹，再次跟静心确认了腊月十八的方位后，李火旺对着她拱了拱手，转身就准备离开了；来到屋内的白灵淼掀开被子，脸上带着一丝俏皮钻了进去，双手牢牢搂着被子里面的人",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 86,
+    "title": "出发",
+    "synopsis": "带着沉重的心情，小满等人再次踏上了行程，在这件事情上，说起来没有什么决定权；来到一片幽静的草地，小满掏出一本书，掏出腰间长刀摆出架势就开始跟书上学",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 87,
+    "title": "林子",
+    "synopsis": "当月亮高高挂起时，赶路的李火旺等人也终于来到了目的地",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 88,
+    "title": "规矩",
+    "synopsis": "过了一会，当游老爷来到李火旺面前，表示没有任何问题后，李火旺的心这才稍稍放下；来到了门口牌坊下面，村长双手拢着，看着眼前的这些外人",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 89,
+    "title": "吴家",
+    "synopsis": "李火旺想了一想后，点头说道：“那劳烦老丈了”\n　　看到老人背着手离开，李火旺对着小满使了一个眼色，“你去厨房帮帮主家的忙",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 90,
+    "title": "丫头",
+    "synopsis": "当他们来到墙的另外一侧时，就看到瑟瑟发抖的狗娃正在哭嚎着跪在地上不断磕头，裤子都已经湿透了；李火旺左右看了看四周黑漆漆的巷子，来到狗娃身边，一把把他揪了起来，夺回了自己的铃铛",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 91,
+    "title": "李火旺",
+    "synopsis": "到这时候，李火旺等人这反应过来，那些眼睛并不多什么邪祟，而是林子里的动物，猞猁，刺猬，狐狸什么都有，只不过它们现在都死了；不知不觉中，自己确实越来越不把别人当人看了，就跟那拿人炼丹的癞子头一模一样",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 92,
+    "title": "上架感言",
+    "synopsis": "本章围绕上架感言展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 93,
+    "title": "腊月十八",
+    "synopsis": "目送着那少女进入吴家大院，他发现院子里还有不少人都没见过的生面孔；拄着拐，他慢悠悠来到了生活了一辈子的小院里，在摇椅上缓缓坐了下来，安静地看着院子里的树落叶，回忆着自己这平凡的一生",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 94,
+    "title": "红色",
+    "synopsis": "之前自己的身份变成老翁的时候，估计如果当时自己真的认为自己死了，恐怕就真的死了吧；好在李火旺手中并不是没有别的牌，经过之前两次事情，他已经明白了幻觉里发生的同样也会在现实发生，同样也也对腊月十八有了一定",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 95,
+    "title": "迷惘",
+    "synopsis": "当孙晓琴来到栅栏边，她身体几乎是贴着栅栏，向着李火旺缓缓地滑跪了下来",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 96,
+    "title": "痛楚",
+    "synopsis": "可是当他看到孙晓琴隔着栅栏向着自己跪下时，他才明白静心师太的话中的真正含义；心素就是心素，无论他们选择哪一边当成现实，他们始终都被迷惘包裹",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 97,
+    "title": "巴虺再临",
+    "synopsis": "但是仅仅这一瞬间，它就被那股极其剧烈的痛楚感知给淹没了，以最快的速度绝望的自杀了；死了就再也不痛了，我真的好累啊……可是为什么偏偏是我啊……其实……我不想死……我想跟别人一样感受到…………”\n　　陷入濒",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 98,
+    "title": "李医生",
+    "synopsis": "你差点就死了，肠子也切掉了一些，需要造瘘洞半年才能恢复",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 99,
+    "title": "回溯",
+    "synopsis": "当李火旺发现自己躺在老式的木床上，看着头顶的布满灰尘的房梁时，马上明白过来，自己回来了；李火旺想逃避，可是他心里明白，自己又开始猜疑起来了，他想抛弃掉这些猜疑，却始终做不到",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 100,
+    "title": "夜谈",
+    "synopsis": "李火旺当然明白，那是自己，丢失了名字的自己，只不过在他的视角里，那一刻的自己处于大马路的中央，对着一辆红色汽车大吼；就是就是，你要找的东西不是都找到了吗?”\n　　“缓几天吧，李师兄，我们不急你急什么",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 101,
+    "title": "杨小孩",
+    "synopsis": "忽然，远处的朦胧晨雾中涌出一大团黑影；等杨小娃出来第三趟的时候，他看到有些叫花子们都打起来了，也不知道在抢些什么",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 102,
+    "title": "打仗",
+    "synopsis": "李火旺不知道，但是他不管怎么样，还是决定先尝试了之后，再根据最终结果想办法；一分一秒的时间过去了，李火旺安静等待着结果降临，这种感觉并不好受，他感觉到了度日如年的感觉",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 103,
+    "title": "好处",
+    "synopsis": "脑子里冒出来的这个念头忽然让李火旺浑身战栗；他仔仔细细的摸遍了全身，发现身上并没有多出一块玉佩后，他这才彻底松了一口气",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 104,
+    "title": "婚",
+    "synopsis": "但是不是拿玉佩，而是拿一些绝对不可能出现在这边的东西，比如吊瓶，比如手铐；李火旺明白自己走进去代表着什么，这不单单代表自己有了一个妻子，同样还代表了重重的责任跟承诺",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 105,
+    "title": "二神",
+    "synopsis": "趁着这个短暂的时间，他把屋子里的所有的红色都全部给清理干净，以免对方发现自己在不知道的情况下莫名其妙的成婚了；现在回想起来，李火旺后知后觉的发现了很多疑点",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 106,
+    "title": "贪婪",
+    "synopsis": "看着眼前的白灵淼，李火旺此刻显得有些犹豫，他不知道该不该带她一同上去；对方的跳大神的能力，确实可以在某种程度上帮助自己，但是他又不想让对方有危险",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 107,
+    "title": "开始",
+    "synopsis": "说完，她一手拿着一个鸡蛋大小的红色眼球，猛地向着自己脸上那双眼黑漆漆的眼眶之中拍去；”静心说完，李火旺就听到身后有动静，扭头一看就发现是一排东倒西歪，打着饱嗝的胖尼姑",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 108,
+    "title": "佛",
+    "synopsis": "当诵经声到达了最顶点之时，肉身菩萨猛地睁开黑漆漆的双眼，猛地向下一降；人知道了苍蝇的想法，苍蝇也知道了人的想法",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 109,
+    "title": "丹阳子",
+    "synopsis": "在地上的丹阳子的帮助下，受困的丹阳子摆脱束缚，双方局面瞬间发生了倒转；李火旺过去一直以为丹阳子只是从精神上不断侵蚀自己，结果怎么也没想到，他肉体层面也没有放过",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 110,
+    "title": "伤",
+    "synopsis": "迷迷糊糊中白灵淼清醒了过来，等她彻底回过神来之后，发现自己居然趴在一大锅油腻腻的炒饭前，双手抓住炒饭拼命向着自己嘴里塞；张望一会后，她这才发现自己正常坐在了安慈庵的伙房内，四周全是吃饭的胖尼姑，咀嚼吞咽声不断钻入了她的耳朵",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 111,
+    "title": "疯子",
+    "synopsis": "静心的话逗笑了李火旺，“没想到师太还这么会讲笑话；“这不能怪我们，我也不知道你师父居然还有一半没死干净，我们安慈庵对于空我界方面比较擅长，可涉及到皮肉，正德寺那些不守戒律",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 112,
+    "title": "办法",
+    "synopsis": "李火旺明白，这代表着自己跟丹阳子越来越像了；“这葫芦跟道铃他们知道怎么用，至于这天书嘛，就当给他们留个念想吧",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 113,
+    "title": "路上",
+    "synopsis": "就在他刚准备拿着这些东西要走的时间，李火旺察觉到了自己的东西发现了一些变化；“妙心师父，你这连牙印都啃出来了，有弄明白这天书是什么东西吗",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 114,
+    "title": "他乡遇故知",
+    "synopsis": "看到儿子脸上露出原来如此的表情，吕状元脸上露出满满的得意；马车走着走着，他们忽然看到前方路上有几个黑球滚",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 115,
+    "title": "骑兵",
+    "synopsis": "吕状元本来看到那压得很深的车轱辘印，就知道那些马车上肯定运的是什么重东西，可是怎么也没想到，那些都是银子；一个相对瘦一点的尼姑不知道怎么的，来到了他们身边，垂涎欲滴的盯着赵五手中的咸鸭蛋",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 116,
+    "title": "狗",
+    "synopsis": "自从他从清风观彻底清醒过来后，一直是跟其他人一起生活，现在忽然一个人待着属实有点不适应；一直走到圆月高挂高空，终于乏了",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 117,
+    "title": "袄景教",
+    "synopsis": "前几天晚上的时候，他还以为这狗有问题，但是经过了幻觉的洗礼，李火旺发现自己想错了；暂时看起来，它就是一条狗，一条非常普通的狗，虽然还是不知道它是从哪跑来的",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 118,
+    "title": "巴虺",
+    "synopsis": "看起来袄景教的十字庙建造非常密集，李火旺没过多久又发现了一处；看到这人的第一眼，李火旺就知道，这人是袄景教错不了，因为他那满是伤疤的脸上压根没皮",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 119,
+    "title": "痛楚",
+    "synopsis": "哪怕李火旺现在已经无法回忆起它的样子，可是他依然能明白巴虺到底有多强大，这绝对不是几个凡人能做到的；“你们这些牛鼻子道士都想成仙想疯了，把自己练的人不人鬼不鬼的，只在乎表面功夫，一点都不知道力量的本质是什么",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 120,
+    "title": "英子",
+    "synopsis": "看起来她以为自己早已经是袄景教的自己人，结果却被当成工具给丢出来用；“我也不知道……也是听别人说的……我进来的时候，两种教已经合并了……”",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 121,
+    "title": "伤口",
+    "synopsis": "“有，但是恩公你要我现在教给你，实在办不到，它们都跟《大千录》一样，都必须手边有东西才能用；李火旺顿时心中一紧，紧接装作语气平静地说到到：“你也知道我在跟他们做交易，我这是第一次跟袄景教接触，所以就想多了解一下，",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 122,
+    "title": "杨娜",
+    "synopsis": "“我一直以为牺牲如此多，我已经彻底融入进去，可是没想到，并不是这么一回事，在他们眼中，我根本不是家人，只是一个随时可以丢；李火旺明白，自己轻飘飘的一句话什么都解决不了，她开始不了，她的人生已经彻底毁啦",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 123,
+    "title": "巧克力",
+    "synopsis": "“我不要你来决定我的选择，我的思想是我自己的；“切，挨着一下就怕痛，那你脸上中枪的时候，怎么不知道痛啊",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 124,
+    "title": "是谁？",
+    "synopsis": "当看到这些东西被自己吐出来，李火旺马上明白过来，自己刚刚吃的“酒心巧克力”就是这些东西；李火旺颤抖向着自己的胳膊看去，发现上面上出现了一道可以看到森森白骨的伤口",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 125,
+    "title": "治疗",
+    "synopsis": "“不行，这心素跟别的心素还不太一样，你之前也看过他的能力，他比其他心素危险得多，先稳住他，我花时间仔细瞧瞧后，摸清底细再；虽然英子有些不理解李火旺说的是什么意思，但是她还是照办了",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 126,
+    "title": "为什么",
+    "synopsis": "他马上知道自己是想错了，姜英子口中说的不是真经，而是箴经；虽说治疗过程中十分的痛苦，可李火旺同样明白这东西的巨大用处",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 127,
+    "title": "恶人",
+    "synopsis": "“呵呵……”面对李火旺说着这些话，英子忽然笑了起来；李火旺在这一刻才明白过来，姜英子为什么总是从来不跟自己对视，因为她怕自己会忍不住动手",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 128,
+    "title": "是谁？",
+    "synopsis": "这一刻，李火旺开始感觉到害怕，极度地害怕，他猛地推倒英子尸体，连忙后退一大步；看着眼前越发惊恐的红袍道人，一旁的手叁继续解释：“按理来说，老夫本来是不想跟你有过多接触的，谁能知道你会不会半路发疯，不",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 129,
+    "title": "不是我",
+    "synopsis": "不知道吃进去丹药的原因，还是因为浑身火焰的原因，李火旺看到的一切都开始产生畸变；然而很快，事情并没有如他所想的一样发展，一切的异变刚开始很激烈，但是很快趋于平静",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 130,
+    "title": "起",
+    "synopsis": "就在他感觉到一筹莫展的时候，却忽然听到身后有动静；长针刺入的瞬间，李火旺立马从那边清醒了过来，脑子里忽然出现的各种血腥一幕，让他不由自主地捂住肚子开始呕吐",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 131,
+    "title": "死",
+    "synopsis": "”一种不知道从哪来的声音，瞬间占据了所有人的心房，四周一切刹那间黯然失色；也许这很痛，但是此时的李火旺已经感觉不到了",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 132,
+    "title": "新的",
+    "synopsis": "李火旺茫然地环绕四周，发现自己还在死镇之中，不过倒塌的房屋有点多；昨天自己昏过去后，似乎还发生了很多事情",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 133,
+    "title": "是真是假？",
+    "synopsis": "他颤抖地抬起右脚，向着他们靠近，不过很快李火旺发现自己根本办不到；听到这些话，李火旺他发现，自己对自己身体非常的陌生",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 134,
+    "title": "路上",
+    "synopsis": "瑟瑟发抖的吕秀才被冻醒了，他迷迷糊糊地看向篝火堆，发现火心几乎快要熄灭了，顿时有些不满地看向负责守夜的狗娃；可过了几天后，发现这样实在麻烦，而且费时费力，最后吕状元索性提议，一起吃大锅饭算了，一边出一餐粮食",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 135,
+    "title": "找到",
+    "synopsis": "当他们来到二神身边时，终于知道刚刚那些声音是哪来的了；不知道过了多久，当李火旺重新睁开眼睛时，映入眼帘的是一张梨花带雨的熟悉面孔",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 136,
+    "title": "山下",
+    "synopsis": "虽然说安慈庵就在眼前，但是李火旺现在却不像之前那样急了；当那随时可能被丹阳子替换的压迫感消失后，他现在终于也可以适当缓缓了",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 137,
+    "title": "剑",
+    "synopsis": "当他艰难地迈着沉重的双腿来到山门时，李火旺发现馒头已经蹲坐在那里等自己了，狗比人的体力好多了；不过庵内之前半腐烂的吃食沼泽已经不剩多少了，也不知道是吃完了还是烂完了",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 138,
+    "title": "坐忘道",
+    "synopsis": "“我知道你一时半会拿不出钱来，这么着吧，以后每次你手头富裕的时候，你就让驿站送过来些，千两黄金不嫌多，半吊铜钱我也不嫌少；虽然早就知道，可是当从静心嘴里得知了这个消息后，李火旺还是感到非常的沮丧",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 139,
+    "title": "佛门五界",
+    "synopsis": "突然而来的消息让他有些猝不及防；他知道这个世界上存在着一些古怪的东西，可是他真的没想到",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 140,
+    "title": "镖局",
+    "synopsis": "“知道了，我下次一定注意，师姐，那这次你能让我跟着吗；听到小满得如此直白的话，面前的镖师顿时一愣，这种事情过去也遇到过，但是女人上门要求以武会友的，还真是头一回",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 141,
+    "title": "中邪",
+    "synopsis": "这一切都发生得太快了，快到不但出乎小满的意料，甚至也出乎一旁观战的王兴德的预料；刚刚发生的一切让她感到极强的挫败感，自己这些天练的东西估计在他们眼中恐怕就跟笑话一样",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 142,
+    "title": "大神",
+    "synopsis": "听到这话，赵秦眉头猛地一皱，把手中端着的茶碟往一旁桌子上不轻不重地一砸；说道这，她仿佛想起了什么，脸上忽然变得十分难过",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 143,
+    "title": "师娘",
+    "synopsis": "这下，老妇人忽然不动了，身体猛地摔在了地上，身体不停地颤抖起来，表情十分的痛苦；三通鼓停歇，发生在白灵淼身上的异象马上停了下来",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 144,
+    "title": "治疗",
+    "synopsis": "震惊得他侧身向着自己的妻子看去，惊讶的发现自己中邪了三十年的妻子眼中第一次有了清明；这么小了就知道孝顺娘，知道我喜欢吃现炸的油条，一大早专去买去了",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 145,
+    "title": "绿林",
+    "synopsis": "“你看看，这不就是瞌睡遇到了枕头，咱们可以请他们教咱们押镖当镖师啊；对方这话说得非常的坚决，可是李火旺却知道当不得真",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 146,
+    "title": "醉",
+    "synopsis": "虽然说李火旺已经来这地方好几个月了，但是这些事情，他还是第一次听说；只是不知道这帮人是宫内特意训练的，还是从外面特意诏安的",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 147,
+    "title": "练",
+    "synopsis": "他本以为丹阳子死后，自己丢失的知识会重新回来，但是现在看来，根本就不是这么一回事；“磕磕~”木质的房门被忽然敲响了",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 148,
+    "title": "后蜀",
+    "synopsis": "“师傅，不知道您有没有瞧见那人身后背的那把剑，那剑不一般啊，感觉杀气很重的样子；老夫当然知道，那把剑的来历我知道，是子雄将军的佩剑",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 149,
+    "title": "傩戏",
+    "synopsis": "“到那时候……”就在他畅想未来时，忽然感觉到身后有人；盯着一处看得李火旺清了清嗓子，忽然对着那边大声喊道：“三老四少道上靠，河里游出闹海蛟",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 150,
+    "title": "故知",
+    "synopsis": "之所以要带杨小孩，是因为他跟那死去的道童玩得好，他知道那人的家住在哪里；“哎……也是可怜人啊，眼看着都从清风观里逃出来了，结果被淹死了",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 151,
+    "title": "麻烦",
+    "synopsis": "当听到杨小孩的声音，李火旺回过神来，发现现在他们已经在这小镇的边缘；面对李火旺忽然到访，强壮的男人明显没有直接信任，可当杨小孩说出了那道童的名字，还有她的一些细节后，他们终于相信了",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 152,
+    "title": "皮影戏",
+    "synopsis": "经历了这么多，李火旺当然明白，别人用这个称呼来喊自己，代表着什么；“呵呵，来到我的地盘，不知道我是谁",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 153,
+    "title": "猜疑",
+    "synopsis": "“小道爷，你也知道，论唱戏，老汉我唱了三十多年，我能被三个二十来岁的后生吓唬住；“哎呀，你是不知道当时他们看我的样子哦～那叫一个毕恭毕敬",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 154,
+    "title": "四合院",
+    "synopsis": "就在李火旺说这话不久，忽然看到那三人收拾东西的举动开始快了起来，而且神色也带着些许的凝重，时不时还向着自己这边偷看；刚开始还好，但是渐渐地，李火旺看到远处那托着箱子的骆驼居然开始跑了起来，有人正在拿鞭子抽它",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 155,
+    "title": "戈壁",
+    "synopsis": "李火旺仔细地观察对方脸上的变化，却是没有发现任何不对劲的地方；“我真不知道你在说啥啊，咱们不是朋友吗",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 156,
+    "title": "天性",
+    "synopsis": "”李火旺十分的诧异，这让跟之前自己遭遇到相比，完全跟闹着玩一样；不知道从哪来的声音话音刚落，铜面人的腹部被捅破，一道寒光向着李火旺的心口扎了过来",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 157,
+    "title": "彭质",
+    "synopsis": "”李火旺本能的抗拒，可是仔细琢磨后，发现确实有很多疑点；“还有，你是不是想不起来之前小时候发生什么事情",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 158,
+    "title": "彭矫",
+    "synopsis": "无比委屈地说道：“可是，李师兄，您平时有事没事也经常跟看不见的人聊天啊，我怎么知道我你哪次是真的哪次是假的；和尚的话说到一半时忽然停下，他缓缓低下头来，微微瞪大的眼睛看向自己的腹部，只见那里有一把长剑没入其中",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 159,
+    "title": "二饼",
+    "synopsis": "可是此刻，他的那种能力完全派不上用场，对方不知道用什么办法隐藏起了自己的气息；躲藏之下，看到已经实在没法躲了，二饼嘻笑了一声，忽然反身就冲了过来",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 160,
+    "title": "骗子",
+    "synopsis": "姜英子看着眼前发生的一切，她显得有些慌乱，似乎在思考什么；突如其来的声音让李火旺停下了，他扭头望去，发现那并不是自己的师兄妹，而是自己的幻觉，姜英子",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 161,
+    "title": "死亡",
+    "synopsis": "作为幻觉说的话，李火旺本来应该无视才对，可是当仔细琢磨这个可能性后，李火旺忽然发现一切都变得合理了起来；坐忘道并不是忽然来到自己身边的，他们早就来了，早在袄景教就来了",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 162,
+    "title": "回去",
+    "synopsis": "然而李火旺忽然发现自己现在只有一只手了，根本做不到这种动作；五位坐忘道，凭借着自己一人之力无法解决，但是李火旺赶路时仔细琢磨后，发现自己并不需要孤军奋战",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 163,
+    "title": "意外收获",
+    "synopsis": "掏出一根锋利的小铲子，李火旺轻轻地在那人形脸上描着，没过一会，一张简陋但是又带有几分熟悉的脸出现在他的面前；当他回来后，发现其他人都吃饱了",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 164,
+    "title": "抵达",
+    "synopsis": "随着逐渐靠近湖多河多的四齐，路边的草木也重新散发生机起来，甚至连空气都湿润了；春小满似乎想劝说什么，可是却发现自己不知道从哪里下口",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 165,
+    "title": "再见师太",
+    "synopsis": "终于在一个拐角处，李火旺实在撑不住了，把糕点放下来，靠着一棵歪脖树大口大口喘着气；外酥里绵的糕点抚慰着李火旺那饥饿的胃，他过去从来没吃过这种糕点，但是下嘴之后，居然发现意外的好吃",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 166,
+    "title": "还没赢",
+    "synopsis": "李火旺忽然站了起来，呼吸急促的他向着黑塔里面冲去；然而他很快看到了令人震惊的一幕，里面的那些黑老鼠同样都死了，死去的老鼠跟其他人一样，没有腐烂没有发臭",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 167,
+    "title": "置闰五行",
+    "synopsis": "五位坐忘道长老明白过来后，迅速双腿盘坐；伴随着一声低吼，李火旺猛地向下一拉",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 168,
+    "title": "混战",
+    "synopsis": "李火旺双手抓住自己胸口那伤口的两侧，猛地一拉；话音刚落，幺鸡就感觉到不对劲，他低头一看，好几条蠕虫居然不知道什么时候钻入了自己的小腿",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 169,
+    "title": "合作",
+    "synopsis": "然而李火旺把他的话直接当成了耳边风，双脚猛地在地上一踩，就打算去替远处的三位坐忘道解围；就在丹阳子张开那血盆大口，几乎要把一位坐忘道的方形脑袋整个咬下来，这千钧一发之际，李火旺终于及时赶到了",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 170,
+    "title": "成了",
+    "synopsis": "“我现在有点能理解你们坐忘道为什么喜欢这么干了，原来耍人真好玩啊；忽然三位喜神蠕动着从溶洞那光滑的墙体内钻了出来",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 171,
+    "title": "丹阳子",
+    "synopsis": "站在血肉之上的丹阳子咧着嘴巴疯狂地笑着，此刻他终于明白了；他彻底想明白了在天外天，那寿星前辈跟自己讲的斩三尸是怎么回事了，他之前一直以为，要把李火旺变成三尸，然后再斩死，是理解错",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 172,
+    "title": "心素",
+    "synopsis": "等丹阳子回过神来时，发现自己应该断掉的左臂居然重新长出来了；他刚要动弹，却愕然发现自己居然被困住一张铁床上，坚韧的宽布带牢牢捆住四肢，让他根本不能动弹一下",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 173,
+    "title": "弟子",
+    "synopsis": "“师傅.....”这声音响起的瞬间，丹阳子梦猛地一转身，紧接着他就看到一张熟悉的面孔；口中的话戛然而止，丹阳子缓缓地抬起头来，震惊地看着面前的正坤",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 174,
+    "title": "南天门",
+    "synopsis": "过去不管遇到任何问题，丹阳子永远都是用抢用骗用偷来解决；独臂青年拼命挣扎了许久，终于逐渐趋于平淡",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 175,
+    "title": "门开了",
+    "synopsis": "一时间他都不知道自己接下来该干什么，仿佛在这一瞬间，所有的一切都没有了意义；一道熟悉的声音忽然出现，让丹阳子猛地一扭头，然而在声音的那边并没有出现任何东西",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 176,
+    "title": "疯了",
+    "synopsis": "话音刚落，他们终于穿过了那一层看不见摸不透的膜，他们进到门后了；在进门的瞬间，李火旺跟丹阳子的身体忽然分开了",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 177,
+    "title": "说",
+    "synopsis": "当然，诡异的还不止这些，还包括，他的身体忽然从坟堆里来到外面，胡言乱语几句世界疯了之后，又忽然昏了过去；这一切发生得太快了，快的他们根本消化不过来",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 178,
+    "title": "马车",
+    "synopsis": "除了白灵淼的手外，忽然另外一双手身后缓了过去，勒住李火旺的额头；李火旺知道，那不是大傩，大傩疯了，它不可能注意自己，注意到自己的是一些别的东西",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 179,
+    "title": "村子",
+    "synopsis": "他们现在还在四齐国境内，原来的地图还好没扔掉，依然可以用；又走了一个时辰，走的每个人都口干舌燥之时，终于在路边看到了一片片开拓出来的田",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 180,
+    "title": "回来了",
+    "synopsis": "白灵淼张了张嘴，一时间不知道该怎么说了，毕竟这种事情还真没做过几次；“我知道仙家现在催得紧了，再不干活他们会找我们麻烦，可这家也许没有......哎.....那好吧，我知道了，我再去试试",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 181,
+    "title": "稀奇",
+    "synopsis": "“我知道凡事不能靠李师兄，我没想靠他，你别说了；“我知道了，你别说了好吧，而且他跟你也没有关系",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 182,
+    "title": "问米",
+    "synopsis": "李火旺努力回想当时发生的事情，但是却半点印象都没有；听到这话的瞬间，李火旺忽然感觉到自己脑海中有什么东西断掉了一般",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 183,
+    "title": "大尊",
+    "synopsis": "”她声音慌张，仿佛真的不知道到底发生了什么；不知道她到底是装的还是真的，按理来说，如果说他们真的对自己心素感兴趣，不应该这种表现才对",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 184,
+    "title": "守村人",
+    "synopsis": "“要知道兵过如剃，那些大头兵可不会讲什么规矩，不过祖师爷保佑，已经停战了；“镖头，可否知道发生了什么，忽然停战的吗",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 185,
+    "title": "成昏",
+    "synopsis": "在李火旺震惊的目光中，那对新人被欢声笑语的亲戚们，迎进了大堂，对着墙上一个圆形的红色囍字，行跪拜大礼；虽然不知道着习俗是怎么来的，但是可以肯定得是，这些拜的人根本就不知道他们拜的到底是什么东西",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 186,
+    "title": "敬酒",
+    "synopsis": "李火旺不想知道这是为什么，他只想带着自己身边的人，安安稳稳的活下去；“行，我知道你不是守村人了，那你是哪来的",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 187,
+    "title": "红颜",
+    "synopsis": "疑惑的李火旺刚要下楼询问，但是仔细琢磨了一会后，便把窗户关上，向着已经铺好的床走去；等到了白灵淼的老家牛心山，这长途跋涉的也终于要结束了，自己也可以扎根下来了",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 188,
+    "title": "面对",
+    "synopsis": "“我给她们看咱俩照片了，结果她们居然认为那是合成的，哎，那三个疯女人真的是；”杨娜的问题实在让李火旺有些不知道怎么接",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 189,
+    "title": "兵",
+    "synopsis": "哪怕暂时没什么异常，可是他还是感觉到那人的眼神有些不对劲，不知道什么时间起，他仿佛迷糊辨别出别人目光里的含义了；就在他勉强地把那些白蜡成功凝聚成一团的时候，忽然敏锐地察觉到外面有人在盯着自己住的地方看",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 190,
+    "title": "路上",
+    "synopsis": "当天晚上依然没有发生任何事情，一觉睡到大天亮后，养精蓄锐的他们重新开始出发；等走近了，他才发现对方是一位拄着一根竹竿，书生模样的老者",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 191,
+    "title": "土匪",
+    "synopsis": "一旁的孙宝禄手里拿着一个东西走了过来，李火旺望过去，居然发现那是一根磨发亮的老烟杆；就在他的左手被磨的只剩下手腕之后，满脸鼻涕眼泪的他终于彻底招了",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 192,
+    "title": "兵家",
+    "synopsis": "“这位真人，别急啊，有什么事情，商量着来啊，能遇到那就是缘分，一起坐下来喝杯酒吧；桌子上最后一位表情阴郁的男人，端起海碗猛地喝了一大口",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 193,
+    "title": "清扫",
+    "synopsis": "“行了，别敲了，这一看就知道事先提前准备好，彻底封死了路；这一切说到底都是因为这把剑引起的，到了现在，李火旺也已经明白过来了",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 194,
+    "title": "怜悯",
+    "synopsis": "忽然想到了什么，吕状元身体猛地一个激灵，语气非常坚定的说到：“小道爷，以后我们哪也不去了，就跟着你了；在这一刻，《火袄真经》他缺失的那一块终于补齐了",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 195,
+    "title": "乔装",
+    "synopsis": "“快点剃，别耽误时间，谁也不知道那些人到底还有多久赶过来；说实在的，她自己也不知道自己长什么样",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 196,
+    "title": "戏",
+    "synopsis": "随着李火旺一顿解释，又在其他人的帮助下，终于让金山找心中的火降了下来；至于李火旺口中瞎编出来的所谓的理由，信不信只有金山找自己知道了",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 197,
+    "title": "杀",
+    "synopsis": "他当然知道罗绢花在土匪窝子里遭遇了什么，只是这种事情，他帮不了什么；忽然吕举人手一伸，直接把对方手中的烟杆子抢了过来",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 198,
+    "title": "龙腾",
+    "synopsis": "看着那些向着冲来的贼配军，李火旺瞬间明白过来；那样做成功率太低了，而且敌我不明，也不知道这女人有什么实力",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 199,
+    "title": "动了",
+    "synopsis": "忽然一位高大的人影从旁边涌出，那是高智坚；不知道是不是眼花了，李火旺居然感觉马身上也有眼睛在看自己",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 200,
+    "title": "变化",
+    "synopsis": "自己的身体动了，这一句话很容易理解，但是出现在李火旺身上却是变得异常的费解；相比这东西是什么，李火旺现在更想弄明白这东西是怎么来的，该怎么解决",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 201,
+    "title": "双方",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 202,
+    "title": "庄子",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 203,
+    "title": "收获",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 204,
+    "title": "真？假？",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 205,
+    "title": "王韦",
+    "synopsis": "发现重要线索或物品；进行交易或交涉",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 206,
+    "title": "打",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 207,
+    "title": "金山找",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 208,
+    "title": "有人看",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 209,
+    "title": "危险",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 210,
+    "title": "血",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 211,
+    "title": "彭龙腾",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 212,
+    "title": "收",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 213,
+    "title": "黑痂烂肉",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 214,
+    "title": "收获",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 215,
+    "title": "杨小孩",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 216,
+    "title": "师兄弟",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 217,
+    "title": "思考",
+    "synopsis": "发生战斗或死亡事件；返回或离开某地",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 218,
+    "title": "兔子",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 219,
+    "title": "女人山",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 220,
+    "title": "二神",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 221,
+    "title": "集市",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 222,
+    "title": "集市下",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 223,
+    "title": "宝禄",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 224,
+    "title": "离开",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 225,
+    "title": "河边",
+    "synopsis": "发生战斗或死亡事件；面临危险或恐惧情境",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 226,
+    "title": "回家了",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 227,
+    "title": "吴玥",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 228,
+    "title": "美人",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 229,
+    "title": "癔症",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 230,
+    "title": "意外",
+    "synopsis": "发生战斗或死亡事件；返回或离开某地",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 231,
+    "title": "源头",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 232,
+    "title": "宝禄的秘密",
+    "synopsis": "发现重要线索或物品；面临危险或恐惧情境",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 233,
+    "title": "鼎",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 234,
+    "title": "舞狮",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 235,
+    "title": "死亡",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 236,
+    "title": "黑太岁",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 237,
+    "title": "黑暗",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 238,
+    "title": "绳儿子",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 239,
+    "title": "送终",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 240,
+    "title": "道士",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 241,
+    "title": "舞狮宫",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 242,
+    "title": "出口",
+    "synopsis": "发生战斗或死亡事件；发现重要线索或物品",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  }
+]

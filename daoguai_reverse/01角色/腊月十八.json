@@ -1,17 +1,10 @@
 {
   "name": "腊月十八",
+  "first_ch": 175,
+  "identity": "腊月庙神",
   "aka": [],
-  "identity": "年祭型邪祟/身份替换型",
-  "first_ch": 84,
-  "status": "major_antagonist",
-  "abilities": [
-    "身份替换（替换真实人类身份）",
-    "认知污染",
-    "分裂增殖"
-  ],
   "key_scenes": [
-    "身份替换全员（Ch90）",
-    "李火旺用巴虺之力对抗（Ch95）"
+    "第175章腊月庙"
   ],
-  "fate": "被击败但未完全消灭"
+  "status": "中段神祇"
 }

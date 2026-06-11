@@ -1,12 +1,10 @@
 {
   "name": "金山找",
+  "first_ch": 200,
+  "identity": "江湖武者，同伴",
   "aka": [],
-  "identity": "镖师",
-  "first_ch": 188,
-  "status": "minor_supporting",
   "key_scenes": [
-    "镖局同行",
-    "Ch207被大姥姥杀死"
+    "第200章初见"
   ],
-  "fate": "Ch207死亡"
+  "status": "贯穿中段"
 }

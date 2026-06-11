@@ -1,0 +1,37 @@
+{
+  "chapter": 1,
+  "template": "plot",
+  "stage": "early",
+  "weights_used": {
+    "core": 0.48,
+    "scene": 0.39,
+    "global": 0.13
+  },
+  "sections": {
+    "included": [
+      "core",
+      "story_contract",
+      "runtime_status",
+      "latest_commit",
+      "prewrite_validation",
+      "scene",
+      "user_prompts",
+      "reader_signal",
+      "genre_profile",
+      "writing_guidance",
+      "override_hints",
+      "plot_structure",
+      "story_skeleton",
+      "memory",
+      "long_term_memory",
+      "preferences",
+      "alerts"
+    ],
+    "excluded": [
+      "global"
+    ]
+  },
+  "ranker": {
+    "enabled": true
+  }
+}

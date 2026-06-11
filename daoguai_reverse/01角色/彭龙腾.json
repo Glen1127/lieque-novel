@@ -1,20 +1,11 @@
 {
   "name": "彭龙腾",
+  "first_ch": 270,
+  "identity": "后蜀将军",
   "aka": [],
-  "identity": "贼配军将领/持续威胁",
-  "first_ch": 196,
-  "status": "major_antagonist",
-  "origin": "贼配军（囚犯组成的军队）",
-  "personality": [
-    "残忍",
-    "执着",
-    "不认输"
-  ],
-  "appearance": "女性/脸上有被烫出的花纹",
   "key_scenes": [
-    "持续追击李火旺（Ch196-210）",
-    "屠城支付军饷",
-    "被击败后身首异处继续战斗（Ch210）"
+    "第270章初见",
+    "战争戏份"
   ],
-  "fate": "Ch210被团队联合杀死"
+  "status": "中段反派"
 }

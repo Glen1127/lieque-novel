@@ -1,0 +1,492 @@
+{
+  "meta": {
+    "chapter": 1,
+    "context_contract_version": "v3",
+    "ranker": {
+      "enabled": true,
+      "recency_weight": 0.7,
+      "frequency_weight": 0.3,
+      "hook_bonus": 0.2
+    },
+    "context_weight_stage": "early"
+  },
+  "core": {
+    "chapter_outline": "⚠️ 大纲文件不存在：第 1 章",
+    "protagonist_snapshot": {},
+    "recent_summaries": [],
+    "recent_meta": []
+  },
+  "story_contract": {
+    "master_setting": {
+      "genre": "都市/克苏鲁/民俗",
+      "genre_tags": [
+        "双世界",
+        "阴间民俗",
+        "整理型主角",
+        "执念与代价",
+        "克苏鲁"
+      ],
+      "tone": "压抑/阴郁/民俗恐怖",
+      "target_audience": "18+男性网文读者",
+      "writing_constraints": {
+        "protagonist_type": "整理型（先分类再行动）",
+        "antagonist": "无绝对反派，敌人是系统规则和自己无法分清的代价",
+        "no_combat": true,
+        "代价必须有情节体现": true,
+        "禁止战斗型行为": true,
+        "禁止直接质问权威": true
+      },
+      "world_structure": {
+        "layer_A": {
+          "id": "real_world",
+          "name": "人间",
+          "desc": "大剧院仓库/现实世界"
+        },
+        "layer_B": {
+          "id": "archive",
+          "name": "档案室",
+          "desc": "阴阳交界/亡魂暂存地"
+        },
+        "layer_C": {
+          "id": "deep",
+          "name": "深层",
+          "desc": "阴间/地狱/聆听者所在地"
+        }
+      },
+      "core_concepts": {
+        "回声": "亡魂的意识残留，完成遗愿方能流转",
+        "传递者": "能在两界携带回声的人，代价不可逆",
+        "聆听者": "深层管理者，系统守护者",
+        "名单制度": "十二孔位，已满，需替换",
+        "阳寿": "亡魂等待时间，完成遗愿可缩短"
+      }
+    },
+    "chapter_brief": {},
+    "volume_brief": {
+      "volume_id": "volume_001",
+      "book_id": "lieque",
+      "title": "第一卷：日常",
+      "chapters": "1-30",
+      "phase": "发现",
+      "synopsis": "仓库整理员沈念在工作中发现回声——亡魂的意识残留。遇到小陶，了解到档案室和深层。在陈姐引导下进入深层，见到母亲，接受传递者身份。",
+      "core_conflict": "发现回声能力 → 理解名单制度 → 进入深层 → 接受命运",
+      "key_events": [
+        {
+          "ch": 1,
+          "event": "仓库日常工作"
+        },
+        {
+          "ch": 5,
+          "event": "发现第一个回声"
+        },
+        {
+          "ch": 7,
+          "event": "第一次听到小陶的声音"
+        },
+        {
+          "ch": 10,
+          "event": "发现自己能传递回声"
+        },
+        {
+          "ch": 17,
+          "event": "小陶容器身份揭示"
+        },
+        {
+          "ch": 18,
+          "event": "名单制度揭示"
+        },
+        {
+          "ch": 23,
+          "event": "三人共同抚养真相"
+        },
+        {
+          "ch": 25,
+          "event": "进入深层，见到母亲"
+        },
+        {
+          "ch": 29,
+          "event": "发现第1032号线索"
+        },
+        {
+          "ch": 30,
+          "event": "接受传递者身份"
+        }
+      ],
+      "twist_points": [
+        {
+          "ch": 17,
+          "event": "小陶是容器，不是普通亡魂"
+        },
+        {
+          "ch": 23,
+          "event": "三人共同抚养——小陶与沈念和陈姐的关系"
+        },
+        {
+          "ch": 25,
+          "event": "母亲在深层，是前任传递者"
+        }
+      ],
+      "character_development": {
+        "沈念": "从普通整理员到发现特殊能力",
+        "小陶": "从神秘存在到被理解的容器",
+        "陈姐": "从陌生管理者到导师"
+      },
+      "ending_summary": "沈念进入深层，见到母亲沈敏，了解到自己是新一任传递者。小陶是容器，需要被守护。他决定接受这个身份。"
+    },
+    "review_contract": {},
+    "anti_patterns": {
+      "anti_patterns": [
+        {
+          "pattern": "主角直接质问反派动机",
+          "why": "破坏悬念，让反派直接说出计划",
+          "替代方案": "通过行动和后果揭示动机"
+        },
+        {
+          "pattern": "主角突然获得新能力解决当前困境",
+          "why": "能力应该提前埋线",
+          "替代方案": "用已建立的能力+智谋解决困境"
+        },
+        {
+          "pattern": "战斗型行为（硬冲、正面对抗）",
+          "why": "沈念是整理型，不是战斗型",
+          "替代方案": "用分类、整理、拖延、迂回解决问题"
+        },
+        {
+          "pattern": "不分类就行动",
+          "why": "整理型主角的决策方式是先分类再行动",
+          "替代方案": "先观察、分类、整理信息，再决定行动"
+        },
+        {
+          "pattern": "投票/民主决策",
+          "why": "投票机制突兀，前文无铺垫（历史教训）",
+          "替代方案": "用情节冲突和角色立场差异推进"
+        },
+        {
+          "pattern": "代价只是内心感受没有情节体现",
+          "why": "携带回声的代价必须是具体冲突",
+          "替代方案": "代价体现在具体事件中——声音干扰、记忆混乱、认错人"
+        },
+        {
+          "pattern": "直接告诉读者规则",
+          "why": "应该通过情节展示规则",
+          "替代方案": "让角色在事件中理解规则"
+        }
+      ]
+    }
+  },
+  "runtime_status": {
+    "chapter": 1,
+    "contracts": {
+      "master": {
+        "genre": "都市/克苏鲁/民俗",
+        "genre_tags": [
+          "双世界",
+          "阴间民俗",
+          "整理型主角",
+          "执念与代价",
+          "克苏鲁"
+        ],
+        "tone": "压抑/阴郁/民俗恐怖",
+        "target_audience": "18+男性网文读者",
+        "writing_constraints": {
+          "protagonist_type": "整理型（先分类再行动）",
+          "antagonist": "无绝对反派，敌人是系统规则和自己无法分清的代价",
+          "no_combat": true,
+          "代价必须有情节体现": true,
+          "禁止战斗型行为": true,
+          "禁止直接质问权威": true
+        },
+        "world_structure": {
+          "layer_A": {
+            "id": "real_world",
+            "name": "人间",
+            "desc": "大剧院仓库/现实世界"
+          },
+          "layer_B": {
+            "id": "archive",
+            "name": "档案室",
+            "desc": "阴阳交界/亡魂暂存地"
+          },
+          "layer_C": {
+            "id": "deep",
+            "name": "深层",
+            "desc": "阴间/地狱/聆听者所在地"
+          }
+        },
+        "core_concepts": {
+          "回声": "亡魂的意识残留，完成遗愿方能流转",
+          "传递者": "能在两界携带回声的人，代价不可逆",
+          "聆听者": "深层管理者，系统守护者",
+          "名单制度": "十二孔位，已满，需替换",
+          "阳寿": "亡魂等待时间，完成遗愿可缩短"
+        }
+      },
+      "volume": {
+        "volume_id": "volume_001",
+        "book_id": "lieque",
+        "title": "第一卷：日常",
+        "chapters": "1-30",
+        "phase": "发现",
+        "synopsis": "仓库整理员沈念在工作中发现回声——亡魂的意识残留。遇到小陶，了解到档案室和深层。在陈姐引导下进入深层，见到母亲，接受传递者身份。",
+        "core_conflict": "发现回声能力 → 理解名单制度 → 进入深层 → 接受命运",
+        "key_events": [
+          {
+            "ch": 1,
+            "event": "仓库日常工作"
+          },
+          {
+            "ch": 5,
+            "event": "发现第一个回声"
+          },
+          {
+            "ch": 7,
+            "event": "第一次听到小陶的声音"
+          },
+          {
+            "ch": 10,
+            "event": "发现自己能传递回声"
+          },
+          {
+            "ch": 17,
+            "event": "小陶容器身份揭示"
+          },
+          {
+            "ch": 18,
+            "event": "名单制度揭示"
+          },
+          {
+            "ch": 23,
+            "event": "三人共同抚养真相"
+          },
+          {
+            "ch": 25,
+            "event": "进入深层，见到母亲"
+          },
+          {
+            "ch": 29,
+            "event": "发现第1032号线索"
+          },
+          {
+            "ch": 30,
+            "event": "接受传递者身份"
+          }
+        ],
+        "twist_points": [
+          {
+            "ch": 17,
+            "event": "小陶是容器，不是普通亡魂"
+          },
+          {
+            "ch": 23,
+            "event": "三人共同抚养——小陶与沈念和陈姐的关系"
+          },
+          {
+            "ch": 25,
+            "event": "母亲在深层，是前任传递者"
+          }
+        ],
+        "character_development": {
+          "沈念": "从普通整理员到发现特殊能力",
+          "小陶": "从神秘存在到被理解的容器",
+          "陈姐": "从陌生管理者到导师"
+        },
+        "ending_summary": "沈念进入深层，见到母亲沈敏，了解到自己是新一任传递者。小陶是容器，需要被守护。他决定接受这个身份。"
+      },
+      "chapter": {},
+      "review": {}
+    },
+    "latest_commit": null,
+    "latest_accepted_commit": null,
+    "fallback_sources": [
+      "missing_chapter_contract",
+      "missing_review_contract",
+      "missing_accepted_commit"
+    ],
+    "primary_write_source": "chapter_commit"
+  },
+  "latest_commit": {},
+  "prewrite_validation": {
+    "chapter": 1,
+    "blocking": true,
+    "blocking_reasons": [
+      "缺少 Story System 合同: chapter_brief, review_contract"
+    ],
+    "missing_contracts": [
+      "chapter_brief",
+      "review_contract"
+    ],
+    "related_placeholders": [],
+    "forbidden_zones": [],
+    "disambiguation_domain": {
+      "pending_count": 0,
+      "warning_count": 0,
+      "allowed_mentions": []
+    },
+    "fulfillment_seed": {
+      "planned_nodes": [],
+      "prohibitions": []
+    }
+  },
+  "scene": {
+    "location_context": {},
+    "appearing_characters": []
+  },
+  "user_prompts": "",
+  "reader_signal": {
+    "recent_reading_power": [],
+    "pattern_usage": {},
+    "hook_type_usage": {},
+    "review_trend": {
+      "count": 0,
+      "overall_avg": 0.0,
+      "dimension_avg": {},
+      "severity_totals": {},
+      "recent_ranges": []
+    },
+    "low_score_ranges": [],
+    "next_chapter": 1
+  },
+  "genre_profile": {
+    "genre": "shuangwen",
+    "genre_raw": "shuangwen",
+    "genres": [
+      "shuangwen"
+    ],
+    "composite": false,
+    "secondary_genres": [],
+    "profile_excerpt": "",
+    "taxonomy_excerpt": "",
+    "secondary_profile_excerpts": [],
+    "secondary_taxonomy_excerpts": [],
+    "reference_hints": [],
+    "composite_hints": [],
+    "mode": "fallback_only"
+  },
+  "writing_guidance": {
+    "chapter": 1,
+    "guidance_items": [
+      "最近审查均分0.0低于阈值75.0，建议先保稳：减少跳场、每段补动作结果闭环。",
+      "题材锚定：按“shuangwen”叙事主线推进，保持题材读者预期稳定兑现。",
+      "网文节奏基线：章首300字内给出目标与阻力，章末保留未闭合问题。",
+      "兑现密度基线：每600-900字给一次微兑现，并确保本章至少1处可量化变化。",
+      "题材加权：维持高爽点密度，主爽点外叠加一个副轴反差。",
+      "方法论策略（通用/shuangwen）：本章以铺压为主，优先做威胁与代价的可感知铺垫。"
+    ],
+    "checklist": [
+      {
+        "id": "readability_loop",
+        "label": "段落可读性闭环（动作→结果→情绪）",
+        "weight": 1.1,
+        "required": true,
+        "source": "reader_signal.review_trend",
+        "verify_hint": "抽查3段，均包含动作结果闭环。"
+      },
+      {
+        "id": "genre_anchor_consistency",
+        "label": "题材锚定一致性（shuangwen）",
+        "weight": 1.1,
+        "required": true,
+        "source": "genre_profile.genre",
+        "verify_hint": "主冲突与题材核心承诺保持一致。"
+      },
+      {
+        "id": "methodology_next_reason",
+        "label": "方法论：下章动机需可复述（章末或后段均可）",
+        "weight": 1.0,
+        "required": false,
+        "source": "methodology.next_reason",
+        "verify_hint": "提炼一句“为什么要点下一章”的动机句。"
+      },
+      {
+        "id": "methodology_power_guard",
+        "label": "方法论：越级与破局给出机制理由与代价",
+        "weight": 1.0,
+        "required": false,
+        "source": "methodology.power_guard",
+        "verify_hint": "至少写清1个机制理由与1个代价。"
+      },
+      {
+        "id": "methodology_antagonist_pressure",
+        "label": "方法论：反派行动具备目标-手段-代价",
+        "weight": 1.0,
+        "required": false,
+        "source": "methodology.antagonist",
+        "verify_hint": "反派不是工具人推进，需有可解释行动逻辑。"
+      },
+      {
+        "id": "guidance_item_1",
+        "label": "最近审查均分0.0低于阈值75.0，建议先保稳：减少跳场、每段补动作结果闭环。",
+        "weight": 1.0,
+        "required": false,
+        "source": "writing_guidance.guidance_items",
+        "verify_hint": "完成后可在正文中定位对应段落。"
+      }
+    ],
+    "checklist_score": {
+      "chapter": 1,
+      "score": 61.4,
+      "completion_rate": 0.6667,
+      "weighted_completion_rate": 0.6613,
+      "required_completion_rate": 0.5,
+      "total_items": 6,
+      "required_items": 2,
+      "completed_items": 4,
+      "completed_required": 1,
+      "total_weight": 6.2,
+      "completed_weight": 4.1,
+      "pending_items": [
+        "段落可读性闭环（动作→结果→情绪）",
+        "最近审查均分0.0低于阈值75.0，建议先保稳：减少跳场、每段补动作结果闭环。"
+      ],
+      "trend_window": 10
+    },
+    "methodology": {
+      "enabled": true,
+      "framework": "digital-serial-v1",
+      "pilot": "shuangwen",
+      "genre_profile_key": "shuangwen",
+      "chapter_stage": "build_up",
+      "emotion_anchor": {
+        "pressure_source": "生存目标/资源竞争",
+        "release_target": "主角完成阶段目标并留下新的行动理由",
+        "position_hint": "前段设压，中后段释放，避免固定字位打点"
+      },
+      "long_arc_controls": {
+        "map_transition": "阶段切换承接既有资产与关系账本，避免能力与收益归零",
+        "power_guard": "关键胜利必须给机制理由（信息/资源/代价/策略）",
+        "antagonist_model": "反派需具备目标-手段-代价三要素，避免工具人推进"
+      },
+      "serialization_ops": {
+        "next_reason": "章末或后段给出可复述的下一章动机句",
+        "interaction_note": "保留一个可讨论分歧点，便于连载互动反馈"
+      },
+      "observability": {
+        "next_reason_clarity": 78.0,
+        "anchor_effectiveness": 64.0,
+        "rhythm_naturalness": 65.0
+      },
+      "signals": {
+        "dominant_hook": "",
+        "dominant_pattern": "",
+        "risk_flags": []
+      }
+    },
+    "signals_used": {
+      "has_low_score_ranges": false,
+      "hook_types": [],
+      "top_patterns": [],
+      "genre": "shuangwen",
+      "methodology_enabled": true
+    }
+  },
+  "override_hints": "",
+  "plot_structure": {},
+  "story_skeleton": [],
+  "memory": {},
+  "long_term_memory": {},
+  "preferences": {},
+  "alerts": {
+    "disambiguation_warnings": [],
+    "disambiguation_pending": []
+  }
+}

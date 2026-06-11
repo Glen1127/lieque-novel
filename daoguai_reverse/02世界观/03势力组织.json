@@ -1,0 +1,51 @@
+[
+  {
+    "id": "袄景教",
+    "title": "袄景教",
+    "first_ch": 1,
+    "type": "organization",
+    "description": "供奉巴虺的宗教组织"
+  },
+  {
+    "id": "监天司",
+    "title": "监天司",
+    "first_ch": 220,
+    "type": "organization",
+    "description": "朝廷机构，处理邪祟"
+  },
+  {
+    "id": "白莲教",
+    "title": "白莲教",
+    "first_ch": 330,
+    "type": "organization",
+    "description": "宗教组织"
+  },
+  {
+    "id": "法教",
+    "title": "法教",
+    "first_ch": 600,
+    "type": "organization",
+    "description": "后段主要反派"
+  },
+  {
+    "id": "坐忘道",
+    "title": "坐忘道",
+    "first_ch": 100,
+    "type": "organization",
+    "description": "伪装成各种人的邪教"
+  },
+  {
+    "id": "大齐",
+    "title": "大齐",
+    "first_ch": 400,
+    "type": "nation",
+    "description": "另一个国家，李火旺曾去"
+  },
+  {
+    "id": "大梁",
+    "title": "大梁",
+    "first_ch": 600,
+    "type": "nation",
+    "description": "后段主要背景国"
+  }
+]

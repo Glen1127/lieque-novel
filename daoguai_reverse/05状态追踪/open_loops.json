@@ -1,60 +1,60 @@
 {
   "open_loops": [
     {
-      "id": "xinsu_cure",
-      "question": "心素能治愈吗？",
-      "first_raised": 48,
-      "status": "unresolved",
-      "hints": ["Ch202 有坐忘道高层活了190年摆脱幻觉"],
-      "book_status": "未解决"
+      "id": "cross_world_validate",
+      "question": "糖块和玉佩真的可以跨世界携带吗？",
+      "first_raised": 3,
+      "status": "resolved",
+      "book_status": "第5章验证有效"
     },
     {
-      "id": "li_huowang_identity",
-      "question": "李火旺的真实身份是什么？",
-      "first_raised": 154,
-      "status": "partial",
-      "hints": ["Ch154 他可能是彭质/三尸", "Ch170 丹阳子认为他是自己的心魔"],
-      "book_status": "未完全解决"
+      "id": "dan_yangzi_identity",
+      "question": "丹阳子的真实意图是什么？",
+      "first_raised": 1,
+      "status": "resolved",
+      "book_status": "第43章以新形式存续"
     },
     {
-      "id": "zuowangdao_leader",
-      "question": "坐忘道北风在哪里？",
-      "first_raised": 202,
-      "status": "unresolved",
-      "hints": ["据说治愈了心素"],
-      "book_status": "未出现"
-    },
-    {
-      "id": "bailinmiao_erosion",
-      "question": "二神对白灵淼的侵蚀会如何发展？",
-      "first_raised": 103,
+      "id": "two_worlds_reality",
+      "question": "哪个世界是真实的？",
+      "first_raised": 1,
       "status": "ongoing",
-      "hints": ["Ch218 蛇鳞出现", "Ch241 跳大绳能力"],
-      "book_status": "进行中，结局时仍在继续"
+      "book_status": "贯穿全书"
     },
     {
-      "id": "daqiu_nature",
-      "question": "大傩到底是什么？",
-      "first_raised": 151,
-      "status": "unresolved",
-      "hints": ["Ch176 世界生病了"],
-      "book_status": "未完全揭示"
+      "id": "xinsu_nature",
+      "question": "心素的本质是什么？",
+      "first_raised": 300,
+      "status": "resolved",
+      "book_status": "中后段揭示"
     },
     {
-      "id": "real_world_ending",
-      "question": "李火旺能回到现实世界吗？",
-      "first_raised": 1,
-      "status": "open",
-      "hints": ["两边世界都无法确认真实"],
-      "book_status": "开放式结局"
+      "id": "zuowangdao_identity",
+      "question": "坐忘道的真实身份？",
+      "first_raised": 100,
+      "status": "resolved",
+      "book_status": "340章揭露"
     },
     {
-      "id": "yangna_fate",
-      "question": "杨娜在现实世界会怎样？",
-      "first_raised": 1,
-      "status": "unknown",
-      "hints": ["Ch185 李火旺给她无法兑现的承诺"],
-      "book_status": "未交代"
+      "id": "bailinmiao_origin",
+      "question": "白灵淼的家人去哪了？",
+      "first_raised": 301,
+      "status": "resolved",
+      "book_status": "后段揭示"
+    },
+    {
+      "id": "zuowangdao_fake",
+      "question": "身边的人是不是坐忘道伪装的？",
+      "first_raised": 340,
+      "status": "resolved",
+      "book_status": "贯穿中后段"
+    },
+    {
+      "id": "final_war",
+      "question": "能否彻底击败法教？",
+      "first_raised": 600,
+      "status": "resolved",
+      "book_status": "第818章胜利"
     }
   ]
 }

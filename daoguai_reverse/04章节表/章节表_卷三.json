@@ -1,565 +1,2546 @@
-{
-  "volume": "卷三",
-  "chapters": [
-    {
-      "ch": 163,
-      "title": "腐烂消失",
-      "synopsis": "腐烂离开世界",
-      "type": "element",
-      "tension": "normal"
-    },
-    {
-      "ch": 164,
-      "title": "袄景教",
-      "synopsis": "进入袄景教",
-      "type": "plot",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 165,
-      "title": "三方混战",
-      "synopsis": "李火旺/坐忘道/丹阳子三方混战",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 166,
-      "title": "五脏牺牲",
-      "synopsis": "献祭五脏给《大千录》",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 167,
-      "title": "喜神",
-      "synopsis": "喜神的威胁",
-      "type": "element",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 168,
-      "title": "丹阳子视角",
-      "synopsis": "丹阳子视角展现",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 169,
-      "title": "南天门",
-      "synopsis": "南天门出现",
-      "type": "element",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 170,
-      "title": "丹阳子认知",
-      "synopsis": "丹阳子：李火旺是他的三尸",
-      "type": "reversal",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 171,
-      "title": "进入",
-      "synopsis": "进入南天门",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 172,
-      "title": "牦之门",
-      "synopsis": "南天门=牦之门/白玉京=寄生",
-      "type": "reversal",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 173,
-      "title": "丹阳子被吃",
-      "synopsis": "丹阳子被白玉京分解",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 174,
-      "title": "死亡",
-      "synopsis": "李火旺死亡",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 175,
-      "title": "复活",
-      "synopsis": "三天后从坟墓复活",
-      "type": "resolution",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 176,
-      "title": "大傩",
-      "synopsis": "大傩揭示：世界生病了",
-      "type": "discovery",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 177,
-      "title": "村庄疗养",
-      "synopsis": "在村庄疗养",
-      "type": "recovery",
-      "tension": "normal"
-    },
-    {
-      "ch": 178,
-      "title": "驱邪",
-      "synopsis": "驱邪场景",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 179,
-      "title": "白灵淼驱邪",
-      "synopsis": "白灵淼独自驱邪",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 180,
-      "title": "问米",
-      "synopsis": "崔仙姑问米/大尊",
-      "type": "element",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 181,
-      "title": "拒绝答案",
-      "synopsis": "李火旺拒绝知道真相",
-      "type": "cognitive",
-      "tension": "normal"
-    },
-    {
-      "ch": 182,
-      "title": "镖师旅程",
-      "synopsis": "镖师旅程开始",
-      "type": "transition",
-      "tension": "normal"
-    },
-    {
-      "ch": 183,
-      "title": "婚礼",
-      "synopsis": "路上遇到的婚礼",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 184,
-      "title": "囍神",
-      "synopsis": "婚礼崇拜囍神",
-      "type": "element",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 185,
-      "title": "幻觉通话",
-      "synopsis": "幻觉中与杨娜通话",
-      "type": "emotional",
-      "tension": "crisis"
-    },
-    {
-      "ch": 186,
-      "title": "镖局任务",
-      "synopsis": "镖局任务开始",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 187,
-      "title": "土匪巢穴",
-      "synopsis": "进入土匪巢穴",
-      "type": "conflict",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 188,
-      "title": "金山找",
-      "synopsis": "金山找出场",
-      "type": "character",
-      "tension": "normal"
-    },
-    {
-      "ch": 189,
-      "title": "吕班主存活",
-      "synopsis": "吕班主在土匪窝存活",
-      "type": "reversal",
-      "tension": "normal"
-    },
-    {
-      "ch": 190,
-      "title": "王德裘",
-      "synopsis": "王德裘出场",
-      "type": "antagonist",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 191,
-      "title": "王德裘死",
-      "synopsis": "王德裘死亡/剑来源揭示",
-      "type": "climax",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 192,
-      "title": "怜悯",
-      "synopsis": "怜悯=火袄真经完成",
-      "type": "breakthrough",
-      "tension": "normal"
-    },
-    {
-      "ch": 193,
-      "title": "解救妇女",
-      "synopsis": "解救被掳妇女",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 194,
-      "title": "春小满冲突",
-      "synopsis": "春小满与李火旺冲突",
-      "type": "conflict",
-      "tension": "normal"
-    },
-    {
-      "ch": 195,
-      "title": "屠城",
-      "synopsis": "贼配军屠城",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 196,
-      "title": "彭龙腾",
-      "synopsis": "彭龙腾追击开始",
-      "type": "antagonist",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 197,
-      "title": "被围困",
-      "synopsis": "被彭龙腾围困",
-      "type": "conflict",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 198,
-      "title": "分离能力",
-      "synopsis": "身体意识分离能力",
-      "type": "breakthrough",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 199,
-      "title": "平顶山",
-      "synopsis": "平顶山庄园",
-      "type": "transition",
-      "tension": "normal"
-    },
-    {
-      "ch": 200,
-      "title": "镖局",
-      "synopsis": "镖局正式加入",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 201,
-      "title": "验证现实",
-      "synopsis": "验证现实尝试",
-      "type": "cognitive",
-      "tension": "normal"
-    },
-    {
-      "ch": 202,
-      "title": "治愈可能",
-      "synopsis": "心素治愈可能性",
-      "type": "discovery",
-      "tension": "normal"
-    },
-    {
-      "ch": 203,
-      "title": "精神病院辩论",
-      "synopsis": "精神病院辩论",
-      "type": "cognitive",
-      "tension": "normal"
-    },
-    {
-      "ch": 204,
-      "title": "哲学问题",
-      "synopsis": "继续哲学探讨",
-      "type": "cognitive",
-      "tension": "normal"
-    },
-    {
-      "ch": 205,
-      "title": "实用主义",
-      "synopsis": "接受实用主义",
-      "type": "resolution",
-      "tension": "normal"
-    },
-    {
-      "ch": 206,
-      "title": "大姥姥夜袭",
-      "synopsis": "大姥姥夜袭",
-      "type": "conflict",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 207,
-      "title": "金山找死",
-      "synopsis": "金山找被大姥姥杀死",
-      "type": "emotional",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 208,
-      "title": "山口战斗",
-      "synopsis": "山口与彭龙腾战斗",
-      "type": "climax",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 209,
-      "title": "激战继续",
-      "synopsis": "激战继续",
-      "type": "climax",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 210,
-      "title": "彭龙腾死",
-      "synopsis": "彭龙腾被击败（身首异处继续战斗）",
-      "type": "climax",
-      "tension": "max_tension"
-    },
-    {
-      "ch": 211,
-      "title": "青丘",
-      "synopsis": "进入青丘",
-      "type": "recovery",
-      "tension": "normal"
-    },
-    {
-      "ch": 212,
-      "title": "疗养",
-      "synopsis": "在青丘疗养",
-      "type": "recovery",
-      "tension": "normal"
-    },
-    {
-      "ch": 213,
-      "title": "青丘生活",
-      "synopsis": "青丘日常生活",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 214,
-      "title": "不同规则",
-      "synopsis": "青丘的规则不同",
-      "type": "world",
-      "tension": "normal"
-    },
-    {
-      "ch": 215,
-      "title": "青丘市集",
-      "synopsis": "青丘市集",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 216,
-      "title": "罗教喇嘛",
-      "synopsis": "罗教喇嘛提及",
-      "type": "world",
-      "tension": "normal"
-    },
-    {
-      "ch": 217,
-      "title": "继续疗养",
-      "synopsis": "继续疗养",
-      "type": "recovery",
-      "tension": "normal"
-    },
-    {
-      "ch": 218,
-      "title": "白灵淼蛇鳞",
-      "synopsis": "白灵淼脸上长出蛇鳞",
-      "type": "reversal",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 219,
-      "title": "馒头吃骨头",
-      "synopsis": "馒头吃人骨头",
-      "type": "element",
-      "tension": "normal"
-    },
-    {
-      "ch": 220,
-      "title": "孙宝禄撒谎",
-      "synopsis": "孙宝禄撒谎（假骨头）",
-      "type": "reversal",
-      "tension": "normal"
-    },
-    {
-      "ch": 221,
-      "title": "孙宝禄回家",
-      "synopsis": "孙宝禄回家",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 222,
-      "title": "身体畸形",
-      "synopsis": "孙宝禄身体畸形揭示",
-      "type": "reversal",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 223,
-      "title": "舞狮宫潜伏",
-      "synopsis": "舞狮宫威胁潜伏",
-      "type": "element",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 224,
-      "title": "离开青丘",
-      "synopsis": "决定连夜离开",
-      "type": "transition",
-      "tension": "normal"
-    },
-    {
-      "ch": 225,
-      "title": "梁国信息",
-      "synopsis": "梁国信息揭示",
-      "type": "world",
-      "tension": "normal"
-    },
-    {
-      "ch": 226,
-      "title": "美人纸",
-      "synopsis": "梁国=美人纸羞辱地狱",
-      "type": "reversal",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 227,
-      "title": "幻觉发作",
-      "synopsis": "大规模幻觉发作",
-      "type": "emotional",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 228,
-      "title": "切断手指",
-      "synopsis": "切断手指证明真实",
-      "type": "desperate_act",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 229,
-      "title": "黑太岁追求",
-      "synopsis": "追求黑太岁作为药",
-      "type": "plot",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 230,
-      "title": "死亡崇拜",
-      "synopsis": "死亡崇拜洞穴",
-      "type": "element",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 231,
-      "title": "青铜鼎",
-      "synopsis": "巨大青铜鼎和人羊尸体",
-      "type": "element",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 232,
-      "title": "舞狮战斗",
-      "synopsis": "与舞狮生物战斗",
-      "type": "conflict",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 233,
-      "title": "代价",
-      "synopsis": "战斗代价",
-      "type": "cost",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 234,
-      "title": "继续前进",
-      "synopsis": "继续追求黑太岁",
-      "type": "plot",
-      "tension": "normal"
-    },
-    {
-      "ch": 235,
-      "title": "酆都",
-      "synopsis": "进入酆都迷宫",
-      "type": "world",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 236,
-      "title": "绳儿子",
-      "synopsis": "绳儿子出现",
-      "type": "element",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 237,
-      "title": "韩符=双头",
-      "synopsis": "韩符=双头道人揭示",
-      "type": "reversal",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 238,
-      "title": "被骗",
-      "synopsis": "被假出口骗入舞狮宫",
-      "type": "conflict",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 239,
-      "title": "舞狮真相",
-      "synopsis": "舞狮宫=白穗蛇聚合体",
-      "type": "reversal",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 240,
-      "title": "逃脱",
-      "synopsis": "试图逃脱",
-      "type": "plot",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 241,
-      "title": "跳大绳",
-      "synopsis": "白灵淼用跳大绳能力救人",
-      "type": "breakthrough",
-      "tension": "high_tension"
-    },
-    {
-      "ch": 242,
-      "title": "被捕获",
-      "synopsis": "被白穗蛇捕获（开放结局）",
-      "type": "ending",
-      "tension": "max_tension"
-    }
-  ]
-}
+[
+  {
+    "ch": 501,
+    "title": "结拜",
+    "synopsis": "李火旺与医生讨论现实与幻觉的辩证关系，确认两边都是真的；李火旺埋葬诸葛渊的尸身，决定好好修真来复活好友",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 502,
+    "title": "新东西",
+    "synopsis": "李火旺练习使用诸葛渊的脊骨剑；脊骨剑能产生扭曲时空的剑气，可把东西分成三段或丢到大齐",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 503,
+    "title": "梦见",
+    "synopsis": "李岁击退假冒土匪搭救被劫女眷；李火旺教导李岁人心险恶不能轻信",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 504,
+    "title": "见梦",
+    "synopsis": "李火旺陷入梦中噩梦循环难以分辨真假；李岁始终等待二神回来",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 505,
+    "title": "诸葛",
+    "synopsis": "李火旺修真能力提升可以短暂触碰幻觉中的诸葛渊；骰子在梦中与李火旺交易，要求帮助姬林登基",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 506,
+    "title": "骰子",
+    "synopsis": "诸葛渊以脊骨剑形态复活但只剩半截身体；骰子揭露李火旺可能亲手杀死了二神",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 507,
+    "title": "真假",
+    "synopsis": "骰子要求李火旺帮助姬林登基作为救白灵淼的条件；李火旺决定暂时配合骰子寻找机会",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 508,
+    "title": "路上",
+    "synopsis": "吕家班前往上京城一路上议论纷纷；吕状元梦想在上京买戏楼扎根",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 509,
+    "title": "道士",
+    "synopsis": "吕秀才发现道士持有李火旺的铜钱剑；道士开坛做法击退邪祟救活张家独子",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 510,
+    "title": "不可能",
+    "synopsis": "狗娃用朽木如意抵抗道士攻击；吕秀才神打功夫无法抵挡被暴打",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 511,
+    "title": "活",
+    "synopsis": "狗娃吕秀才成功逃脱道士；李火旺抵达上京城进入皇宫",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 512,
+    "title": "姬林",
+    "synopsis": "姬林变得阴郁扭曲服用灵孽后五官下垂；李火旺被封为金吾卫骑曹参军正式加入姬林派系",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 513,
+    "title": "上京",
+    "synopsis": "监天司大量诛杀坐忘道成员战果丰厚；李火旺了解当前政治局势复杂",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 514,
+    "title": "屋内",
+    "synopsis": "坐忘道幻觉建议李火旺修假被拒绝；李火旺发现可以通过修真让幻觉短暂获得肉身",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 515,
+    "title": "自己人",
+    "synopsis": "李火旺赴约遭遇其他王爷派人伏击；李火旺展示实力杀死董仲寿震慑全场",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 516,
+    "title": "差事",
+    "synopsis": "李火旺获知皇太后明日去普谭寺上香长宁公主作陪；姬林暗示要李火旺在普谭寺动手除掉长公主",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 517,
+    "title": "提升",
+    "synopsis": "李火旺实力进一步提升准备执行任务；彭龙腾出现展示兵家杀伐能力",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 518,
+    "title": "菩萨",
+    "synopsis": "李火旺接到暗杀长公主的任务；白莲教菩萨表示会提供帮助",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 519,
+    "title": "杀",
+    "synopsis": "李火旺准备动手清除障碍；杀意已决",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 520,
+    "title": "长公主",
+    "synopsis": "长公主成为目标；涉及皇族内部斗争",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 521,
+    "title": "袄景",
+    "synopsis": "李火旺参与姬林夺嫡行动；涉及袄景教和足一等人",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 522,
+    "title": "足一",
+    "synopsis": "李火旺参与姬林夺嫡行动；涉及袄景教和足一等人",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 523,
+    "title": "登阶",
+    "synopsis": "李火旺参与姬林夺嫡行动；涉及袄景教和足一等人",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 524,
+    "title": "信",
+    "synopsis": "李火旺参与姬林夺嫡行动；涉及袄景教和足一等人",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 525,
+    "title": "上京",
+    "synopsis": "李火旺参与姬林夺嫡行动；涉及袄景教和足一等人",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 526,
+    "title": "老牛",
+    "synopsis": "李火旺参与姬林夺嫡行动；涉及袄景教和足一等人",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 527,
+    "title": "办法",
+    "synopsis": "李火旺参与姬林夺嫡行动；涉及袄景教和足一等人",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 528,
+    "title": "仁王府",
+    "synopsis": "李火旺参与姬林夺嫡行动；涉及袄景教和足一等人",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 529,
+    "title": "斩",
+    "synopsis": "李火旺参与姬林夺嫡行动；涉及袄景教和足一等人",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 530,
+    "title": "大齐",
+    "synopsis": "李火旺参与姬林夺嫡行动；涉及袄景教和足一等人",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 531,
+    "title": "寓",
+    "synopsis": "大齐相关内容出现；法教活动频繁",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 532,
+    "title": "诸葛渊",
+    "synopsis": "大齐相关内容出现；法教活动频繁",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 533,
+    "title": "回来了",
+    "synopsis": "大齐相关内容出现；法教活动频繁",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 534,
+    "title": "医生",
+    "synopsis": "大齐相关内容出现；法教活动频繁",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 535,
+    "title": "上极灌口",
+    "synopsis": "大齐相关内容出现；法教活动频繁",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 536,
+    "title": "天灾",
+    "synopsis": "大齐相关内容出现；法教活动频繁",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 537,
+    "title": "大齐",
+    "synopsis": "大齐相关内容出现；法教活动频繁",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 538,
+    "title": "法教",
+    "synopsis": "大齐相关内容出现；法教活动频繁",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 539,
+    "title": "吃饱",
+    "synopsis": "大齐相关内容出现；法教活动频繁",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 540,
+    "title": "困",
+    "synopsis": "大齐相关内容出现；法教活动频繁",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 541,
+    "title": "灌口",
+    "synopsis": "灌口相关情节；大齐小皇帝出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 542,
+    "title": "秘密",
+    "synopsis": "灌口相关情节；大齐小皇帝出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 543,
+    "title": "上门",
+    "synopsis": "灌口相关情节；大齐小皇帝出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 544,
+    "title": "盘活",
+    "synopsis": "灌口相关情节；大齐小皇帝出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 545,
+    "title": "交易",
+    "synopsis": "灌口相关情节；大齐小皇帝出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 546,
+    "title": "东门",
+    "synopsis": "灌口相关情节；大齐小皇帝出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 547,
+    "title": "追",
+    "synopsis": "灌口相关情节；大齐小皇帝出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 548,
+    "title": "司天监",
+    "synopsis": "灌口相关情节；大齐小皇帝出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 549,
+    "title": "大齐",
+    "synopsis": "灌口相关情节；大齐小皇帝出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 550,
+    "title": "虚字辈",
+    "synopsis": "灌口相关情节；大齐小皇帝出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 551,
+    "title": "龙",
+    "synopsis": "龙相关内容出现；皇甫天罡成为关键人物",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 552,
+    "title": "年",
+    "synopsis": "龙相关内容出现；皇甫天罡成为关键人物",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 553,
+    "title": "死",
+    "synopsis": "龙相关内容出现；皇甫天罡成为关键人物",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 554,
+    "title": "出发",
+    "synopsis": "龙相关内容出现；皇甫天罡成为关键人物",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 555,
+    "title": "大齐",
+    "synopsis": "龙相关内容出现；皇甫天罡成为关键人物",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 556,
+    "title": "上官玉婷",
+    "synopsis": "龙相关内容出现；皇甫天罡成为关键人物",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 557,
+    "title": "回",
+    "synopsis": "龙相关内容出现；皇甫天罡成为关键人物",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 558,
+    "title": "皇帝",
+    "synopsis": "龙相关内容出现；皇甫天罡成为关键人物",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 559,
+    "title": "气运",
+    "synopsis": "龙相关内容出现；皇甫天罡成为关键人物",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 560,
+    "title": "皇甫天罡",
+    "synopsis": "龙相关内容出现；皇甫天罡成为关键人物",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 561,
+    "title": "交易",
+    "synopsis": "骰子继续操纵局势；局中局情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 562,
+    "title": "雷法",
+    "synopsis": "骰子继续操纵局势；局中局情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 563,
+    "title": "局",
+    "synopsis": "骰子继续操纵局势；局中局情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 564,
+    "title": "骰子",
+    "synopsis": "骰子继续操纵局势；局中局情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 565,
+    "title": "局中局",
+    "synopsis": "骰子继续操纵局势；局中局情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 566,
+    "title": "诸葛渊",
+    "synopsis": "骰子继续操纵局势；局中局情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 567,
+    "title": "昼禁",
+    "synopsis": "骰子继续操纵局势；局中局情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 568,
+    "title": "死",
+    "synopsis": "骰子继续操纵局势；局中局情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 569,
+    "title": "找",
+    "synopsis": "骰子继续操纵局势；局中局情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 570,
+    "title": "大齐小皇帝",
+    "synopsis": "骰子继续操纵局势；局中局情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 571,
+    "title": "皇帝",
+    "synopsis": "皇帝登基情节；变天局势转变",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 572,
+    "title": "登基",
+    "synopsis": "皇帝登基情节；变天局势转变",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 573,
+    "title": "变天",
+    "synopsis": "皇帝登基情节；变天局势转变",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 574,
+    "title": "骰子",
+    "synopsis": "皇帝登基情节；变天局势转变",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 575,
+    "title": "玄牝",
+    "synopsis": "皇帝登基情节；变天局势转变",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 576,
+    "title": "心蟠",
+    "synopsis": "皇帝登基情节；变天局势转变",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 577,
+    "title": "计划",
+    "synopsis": "皇帝登基情节；变天局势转变",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 578,
+    "title": "无生老母",
+    "synopsis": "皇帝登基情节；变天局势转变",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 579,
+    "title": "鼓",
+    "synopsis": "皇帝登基情节；变天局势转变",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 580,
+    "title": "序幕",
+    "synopsis": "皇帝登基情节；变天局势转变",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 581,
+    "title": "合",
+    "synopsis": "李火旺前往上京城；皇宫内情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 582,
+    "title": "秘密",
+    "synopsis": "李火旺前往上京城；皇宫内情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 583,
+    "title": "司命",
+    "synopsis": "李火旺前往上京城；皇宫内情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 584,
+    "title": "李火旺",
+    "synopsis": "李火旺前往上京城；皇宫内情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 585,
+    "title": "上京城",
+    "synopsis": "李火旺前往上京城；皇宫内情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 586,
+    "title": "皇宫",
+    "synopsis": "李火旺前往上京城；皇宫内情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 587,
+    "title": "高智坚",
+    "synopsis": "李火旺前往上京城；皇宫内情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 588,
+    "title": "季灾",
+    "synopsis": "李火旺前往上京城；皇宫内情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 589,
+    "title": "谈",
+    "synopsis": "李火旺前往上京城；皇宫内情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 590,
+    "title": "精神病院",
+    "synopsis": "李火旺前往上京城；皇宫内情节展开",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 591,
+    "title": "麻烦",
+    "synopsis": "精神病相关情节；吴成等角色出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 592,
+    "title": "浮现",
+    "synopsis": "精神病相关情节；吴成等角色出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 593,
+    "title": "王韦",
+    "synopsis": "精神病相关情节；吴成等角色出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 594,
+    "title": "自保",
+    "synopsis": "精神病相关情节；吴成等角色出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 595,
+    "title": "转院",
+    "synopsis": "精神病相关情节；吴成等角色出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 596,
+    "title": "精神病",
+    "synopsis": "精神病相关情节；吴成等角色出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 597,
+    "title": "吴成",
+    "synopsis": "精神病相关情节；吴成等角色出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 598,
+    "title": "药",
+    "synopsis": "精神病相关情节；吴成等角色出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 599,
+    "title": "陷阱",
+    "synopsis": "精神病相关情节；吴成等角色出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 600,
+    "title": "面对面",
+    "synopsis": "精神病相关情节；吴成等角色出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 601,
+    "title": "吃药",
+    "synopsis": "第601章 吃药\n　　康宁医院内，一处墙壁天花板地面都裹上厚厚泡沫层的抑制房内，躺在床上混身被束缚的李火旺跟吴成两人四目；听到了李火旺刚刚说的话，吴成笑了笑，“你想跟老板说话？当然可以，只不过你要先答应下来就行，否则你见不到老板",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 602,
+    "title": "情报",
+    "synopsis": "第602章 情报\n　　能带金子，那自然也能带别的，当李火旺通过锯子划开束缚衣，只是正常人的吴成就彻底没有胜算了；李火旺没打算弄死他，要是真打算弄死他，刚刚就拿锯子抹他脖子了",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 603,
+    "title": "抵达",
+    "synopsis": "第603章 抵达\n　　神情有些紧张的李火旺坐在公交车的塑料车座上，用牙齿咬着手背，看着外面飞快掠过的街景，脑子里快速思考；此刻他的脸上戴着白色口罩，刻意用来遮挡他的脸上的伤疤，以免被别人认出来",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 604,
+    "title": "木船",
+    "synopsis": "第604章 木船\n　　刚过完年，天气还很冷，海水之中更是冰冷刺骨；但是这点寒冷对于身经百战的李火旺来说不算甚么",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 605,
+    "title": "八仙",
+    "synopsis": "第605章 八仙\n　　昏暗空旷的船舱内，此刻在李火旺的面前，暗褐的根雕八仙，那扭曲盘结的木质身体在那荧光绿的光芒下，显得；跟铁拐李还有吕洞宾相比，其他八仙的模样一个赛一个骇人，在保留相同根下，各自都有各自的怪异特点",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 606,
+    "title": "心素心蟠",
+    "synopsis": "第606章 心素心蟠\n　　漆黑的船地下，随着充分的氧气灌入李火旺的肺中，此刻的李火旺已经没有了短板；而海水之中的八仙的下场自然是显而易见的",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 607,
+    "title": "真假",
+    "synopsis": "第607章 真假\n　　木质的船舱不大，看起来只有教室大小，但是整个船舱墙壁如同虫蚁的洞穴一般，是圆形的；而且这种不规则的墙壁上同样布满了各种浮雕",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 608,
+    "title": "徐",
+    "synopsis": "第608章 徐\n　　虽然不知道怎么回事，但是此刻自己确确实实重新变成真的了；生怕对方再次用那古怪的能力再次把自己虚化，李火旺立马开始进行反击",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 609,
+    "title": "假真",
+    "synopsis": "第609章 假真\n　　“徐儿”\n　　虽然过去了很久，但是李火旺还记得，这是安慈庵的静心师太给自己儿子取得小名；但是他怎么也没有想到，这个所谓的徐儿居然是眼前对付自己的徐寿",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 610,
+    "title": "杨娜",
+    "synopsis": "第610章 杨娜\n　　康定医院的接待大厅内，无论是来探望的病人家属还是工作人员都不由的看向大厅的东南角，只因为那里安静的；一般在这种地方，这种模样的姑娘可不多见",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 611,
+    "title": "玉佩",
+    "synopsis": "第611章 玉佩\n　　“有吗？李师兄，哪里有玉佩啊？”\n　　白家大院的院子里，白灵淼疑惑地看着李火旺，似乎有些不理解对方；当听到白灵淼居然说出这样的话来，李火旺一时间顿时愣在当场",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 612,
+    "title": "李岁",
+    "synopsis": "第612章 李岁\n　　“人之初，性本善，性相近，习相远～苟不教，性乃迁，教之道，贵以专～.......”\n　　端坐在最前；趁着先生喝茶的功夫，李岁她得意地向着身边过来学认字的乡兵炫耀，“我学过这一段，我知道什么意思，我爹教过我呢！”\n　　然而",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 613,
+    "title": "牛心村",
+    "synopsis": "第613章 牛心村\n　　“哎~~我可告诉你们，那上京城啊，那大得很！就靠脚走啊，哪怕是走上几天几夜都没走完呢！！”\n　　；”\n　　“那家伙，别说上京城的人啊，天天跟过年吃的跟过年一样，就是路边养得狗都有肉吃！”\n　　牛心村村头的大树之下，端着",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 614,
+    "title": "杨小孩",
+    "synopsis": "第614章 杨小孩\n　　“哐～”震颤的敲锣声远远的穿出去老远，伙房的门背猛地被推开，提着裤子的杨小孩慌慌张张往着声音方向；悠长的锣声很快把整个牛心村的人都吸引了过去，当杨小孩赶到的时候，就看到，在整齐车队的前面，一帮太监正在把各种东西往着村里",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 615,
+    "title": "人",
+    "synopsis": "第615章 人\n　　“小孩，真要走啊？咱们好不容易从那边过来的，结果你又回去，没必要吧；”\n　　“小孩，后蜀可远了，更别提后蜀南边的海了，你这一来一去的，一年半载怕是最起码的",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 616,
+    "title": "来人",
+    "synopsis": "第616章 来人\n　　面对凭白无故忽然出现在牛心村的人，李火旺自然是充满怀疑；“李岁，帮我探探他的底细",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 617,
+    "title": "灾民",
+    "synopsis": "第617章 灾民\n　　稀里哗啦声不断，牛三蹲在人群中，抱着个大碗吸溜吸溜地喝里面的粥；小米高粱粥不稠，其中还夹杂着野菜，萝卜英子，红薯山药蛋",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 618,
+    "title": "白莲",
+    "synopsis": "第618章 白莲\n　　听到李火旺这么问，白灵淼脸上微微一愣，“李师兄，我为什么要骗你呢，咱们一路辛辛苦苦走过来了，我怎么；”\n　　听到这话，白灵淼轻轻地叹了一口气",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 619,
+    "title": "慈悲",
+    "synopsis": "第619章 慈悲\n　　“哒哒哒”木鱼的敲打声一下接着一下，听得李火旺的心中火气直冒；“李岁，走了！看看究竟是什么妖魔鬼怪！”李火旺摸出枕头下的几把剑，带着李岁踩着瓦片就向着声音那边冲去",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 620,
+    "title": "来者",
+    "synopsis": "第620章 来者\n　　昏暗的树林中，李火旺跟正德寺方丈的交谈还在继续，只是跟之前的气氛相比，显得缓和了很多；“你们的司命是谁？”李火旺盯着眼前的老和尚问道",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 621,
+    "title": "集合",
+    "synopsis": "第621章 集合\n　　穿着人皮的李岁双膝并拢，坐在白家大院长满青苔的台阶上；她看着眼前的小孩手中的猪油糖，大大的眼中全是好奇",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 622,
+    "title": "法教",
+    "synopsis": "第622章 法教\n　　空无一人的县城外面，佛玉炉开始唱起来佛经；随着佛玉炉不断吟唱，本来鸦雀无声的县城内居然渐渐地产生了回声",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 623,
+    "title": "佛",
+    "synopsis": "第623章 佛\n　　“这不对劲，这很不对劲！我马上就要出院了，结果却出了这档子事来！”\n　　空荡荡的走廊里，李火旺拿着手；“别跟我谈思维破裂，我不是自闭症，我的思维没破裂！而且我也没有幻觉，我病早好了！”\n　　当听到电话里的话，李火旺叹了一口",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 624,
+    "title": "棋",
+    "synopsis": "第624章 棋\n　　“不过......这些鸟，我好像在哪见过.....”\n　　眉头微皱的李火旺，看着地上的秃鹫努力回忆着；忽然他表情一凝，当即想到了就在几年前，自己从青丘离开的时候，遇见过带着秃鹫的喇嘛！\n　　“是他们？是青丘的那些祭奠死亡的",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 625,
+    "title": "埋伏",
+    "synopsis": "第625章 埋伏\n　　“吴成！再来！”\n　　“啪！”“跑跳兵！”\n　　“啪！““相吃炮！”\n　　“啪！““拱卒！”\n　　；虽然兵器受损，然而眼前的法教巫祝握着武器的手迅速一扭，错开紫穗剑的交锋，举起手中的断刃狠狠地插入李火旺的左胸",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 626,
+    "title": "合",
+    "synopsis": "第626章 合\n　　自己的背上莫名其妙的居然受伤了；感觉到不对劲何信来扭头望去的时候，却发现自己身后什么都没有",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 627,
+    "title": "治疗",
+    "synopsis": "第627章 治疗\n　　一处茂密的林地里，带着吸盘跟倒刺的触手从李火旺的左臂处钻出，死死地缠一颗树干上，而另外一根触手从他；“抓牢了，抓紧了！”李火旺说着，掏出一把短刀贴着触手根部的边缘缓缓划开，殷红的鲜血裹着剧痛从伤口处喷了出来",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 628,
+    "title": "树花",
+    "synopsis": "第628章 树花\n　　天上红似火的夕阳，映红了天边的云彩，也盈红了李岁的侧脸；此刻的他侧坐在马背上靠着爹的背，低头专心致志地看着自己的新身体",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 629,
+    "title": "妮儿",
+    "synopsis": "第629章 妮儿\n　　“妮儿，来，坐炕上，喝砂糖水吃柿饼啊，你小时候最喜欢吃甜的了，我这都给你留着呢；”\n　　“吃肉吗？你不是喜欢吃肉吗？我现在就去给你割肉去！让你娘现在就给你炖！”\n　　打树花的老头跟着一旁的老婆子围着李",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 630,
+    "title": "死亡",
+    "synopsis": "第630章 死亡\n　　两巴掌打的李岁脑袋有点歪，但是她并没有感觉到疼，因为这脑袋不是她的；虽然没有感觉到疼，但是李岁却感觉到了某种新的情感",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 631,
+    "title": "道人",
+    "synopsis": "第631章 道人\n　　“哒哒哒”马蹄声渐渐地变缓，拉着缰绳的李火旺抬头看向面前巨大充满着压抑的城墙；赶了一天的路，银陵城终于到了",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 632,
+    "title": "答案",
+    "synopsis": "第632章 答案\n　　听到银陵城内的监天司对自己这么客气，正德寺方丈显得有些受宠若惊，连忙双手合十；“阿弥陀佛，施主大德之人，贫僧谢过了，不过这礼实在是太大了",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 633,
+    "title": "中阴庙",
+    "synopsis": "第633章 中阴庙\n　　“青丘的喇嘛？”\n　　李火旺脑海中回想起那位三头六臂的黑皮袄喇嘛，以及他那代表着不同死亡方法的三；“你是说……这次法教跟青丘的喇嘛早已经狼狈为奸了？”想到这种可能，李火旺的表情顿时变得非常凝重",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 634,
+    "title": "院内",
+    "synopsis": "第634章 院内\n　　洁白的病房内李火旺举起装有水的塑料杯子在吴成面前晃了晃，紧接着又举起手中的黄黄绿绿的药向他面前展示；把药一个一个放进嘴里，李火旺端塑料杯子，用杯子里的水把药冲了下去",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 635,
+    "title": "钱福",
+    "synopsis": "第635章 钱福\n　　“彭！彭！”随着李火旺的不断靠近，那撞击声变得越来越响了；终于等到李火旺带着小心地透过那带着铁网的厚玻璃，他瞧见了声音的由来",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 636,
+    "title": "胡子",
+    "synopsis": "第636章 胡子\n　　听到钱福口中的话，李火旺没有马上回复\n　　他先是端起南瓜粥碗喝了一口，把嘴里的莴笋冲了下去，再上下；”\n　　“双重人格？完了还另外一个人格正常，另外一个人格患有精神病？”李火旺越琢磨越觉得怪，不由地在心中暗道：“这家伙该",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 637,
+    "title": "法教",
+    "synopsis": "第637章 法教\n　　“刺啦”一声，李火旺面前的男人瞬间被削铁如泥的紫穗剑斩成两节；然而还没等李火旺半点歇息，从村口处络绎不绝的法教百姓毫无畏惧地向着他扑了过来",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 638,
+    "title": "虚年",
+    "synopsis": "第638章 虚年\n　　李火旺不敢大意，尤其是这其中任何一次都可能是虚年的攻击；面对虚年，李火知道自己要开始动真格的了，毕竟自己葫芦里的阳寿丹都吃完了，要再被虚年碰到，自己怕是要老死当场",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 639,
+    "title": "变化",
+    "synopsis": "第639章 变化\n　　昏暗的溶洞内，浑身焦黑的李火旺眉头微皱看着眼前这位叫右子雄的黑甲汉子；通过方才的讲述，他已经大致了解到了这人来历",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 640,
+    "title": "抄手摊",
+    "synopsis": "第640章 抄手摊\n　　很快两碗红油抄手被放在两人的面前，杨小孩用筷子从油光光的红汤中，夹起如同白色小船的抄手；带着葱花的抄手放进嘴里一嚼，杨小孩不由得点了点头，虽然裹着红油，可吃起来却一点都不腻，反而满口的微辣浓香，好吃得很",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 641,
+    "title": "婆子",
+    "synopsis": "第641章 婆子\n　　看到眼前的老婆子拿着块石头，小心地把对方粘连的猴皮给刮下来，杨小孩不由瞪大了眼睛；他怎么也没想到，眼前这个饿得骨瘦如柴，却偏偏喜欢吮吸石头的老婆子居然是个神秘莫测的高人！\n　　“当家的，死人了！真死人了",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 642,
+    "title": "衙门",
+    "synopsis": "第642章 衙门\n　　“难看死了，家里又没死人，披啥白；”杨小孩记得过去只有家里死人才会头上挂白布",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 643,
+    "title": "逃",
+    "synopsis": "第643章 逃\n　　县城的衙门内嘶喊怒吼声还有惨叫声不断，此刻这里已经彻底乱套了；所有人都忘记了自己来的目的，纷纷冲进去，极度兴奋着干着他们过去想干但是又不敢干的事情",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 644,
+    "title": "善意",
+    "synopsis": "第644章 善意\n　　“怎么这么热呢？”\n　　就在杨小孩这么想的时候，忽然鼻子闻到了一股熟悉的味道，那是木材点燃的味道，；当这种柴火味越来越浓，并且其中夹杂着肉香的时候，他顿时心中格登一下",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 645,
+    "title": "好人",
+    "synopsis": "第645章 好人\n　　“啊~原来是李兄啊，认识认识当然认识，小时候每次过年过节他爹还带着他经常来我家串门呢；”\n　　听到对方说这话，杨小孩都懵了，这家伙到底是认识还是不认识李师兄啊？\n　　要说不认识吧，这家伙说的这么斩钉截铁，可",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 646,
+    "title": "帮忙",
+    "synopsis": "第646章 帮忙\n　　不知道为什么，只要是跟季灾说话，李火旺总感觉到心中那团火怎么都熄灭不了；“我不管你知道不知道！不能让大梁重蹈大齐的复辙！我需要你帮我！别忘了当初你让我帮忙的时候，我可一句废话都没说！”\n　　“",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 647,
+    "title": "精神病人",
+    "synopsis": "第647章 精神病人\n　　听到门外传来的声音，李火旺猛地站了起来，恼怒把被子一掀，向着门口气势汹汹地走去；等大门一开，李火旺就看到两个身穿病号服的男人，背靠着墙壁一边吃着零食一边辩经",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 648,
+    "title": "针",
+    "synopsis": "第648章 针\n　　康定医院食堂的中午饭菜还行，一荤一素一汤，虽然是大锅饭但也不难下咽；但是此刻李火旺对于吃饭，有些心不在焉的",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 649,
+    "title": "出院",
+    "synopsis": "第649章 出院\n　　康宁医院的这场风波很快就过去了；钱福被关进去了，之后的一段时间内，李火再也没有吃到针了",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 650,
+    "title": "回来",
+    "synopsis": "第650章 回来\n　　刚刚在医院里，李火旺还没有感觉到什么，但是走在外面的时候，李火旺仿佛后知后觉般，忽然感觉到非常的高；自己自由了，自己再也不是神经病了，自己可以重新回学校读书了！过正常人的生活！\n　　“来，坐车回家吧，你爸把他那破出租开过",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 651,
+    "title": "狼烟起",
+    "synopsis": "第651章 狼烟起\n　　“玄牝？你怎么来了？”李火旺盯着对方红色袍子里面的黑影瞧着；“如今天下大乱，须合官家监天司之力，一同渡过难关，我身为天监，不能来宫里吗？”玄凭宽大袍子飘着，距离两人更近了一些",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 652,
+    "title": "戏台子",
+    "synopsis": "第652章 戏台子\n　　“好了好了，我不笑了，当家的你别走；”在罗娟花的拉拽下，吕举人最终坐在了靠椅上",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 653,
+    "title": "死亡",
+    "synopsis": "第653章 死亡\n　　属于吕家班的戏园子内，整个园子全都是木头，是非常好的燃料；红黄的火焰熊熊地烧着，裹噬着园子内的一切，伴随着噼里啪啦的声音，刺鼻的烟味飘进了李火旺的鼻腔",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 654,
+    "title": "不见",
+    "synopsis": "第654章 不见\n　　上京城不止有高智坚，同样监天司同样也在此地；看起来这次死了很多人，而且还把上京城弄地乱成一团，但是死掉的法教信众更多",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 655,
+    "title": "星",
+    "synopsis": "第655章 星\n　　刚刚经历过一场劫难的上京城内，李火旺低着头，表情十分复杂地看着自己的影子；季灾他是真实存在的，可是他的存在与否取决于自己",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 656,
+    "title": "视线",
+    "synopsis": "第656章 视线\n　　赶走了孙晓琴，有些凌乱的卧室中，独自一人的李火旺呼了一口气，在凳子上坐了下来；他打开日历瞧着上面杨娜的生日，已经没几天了",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 657,
+    "title": "监视",
+    "synopsis": "第657章 监视\n　　“儿子，记得别忘了吃药啊！”\n　　等到屋外的声音消失，李火旺叹了一口气，他终于得空整理清楚思绪，昨；首先现在不能定义太死，因为昨天晚上太模糊了，也许是自己看错了",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 658,
+    "title": "答案",
+    "synopsis": "第658章 答案\n　　李火旺麻木地坐在原地，思索着自己刚刚经历的事情；明明自己接了母亲的电话，明明对方跟知道自己的名字，然而等接通过后，这手机居然是坏的，甚至连电都没有，那刚刚自己是在跟谁打",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 659,
+    "title": "新",
+    "synopsis": "第659章 新\n　　因为失去了血液而变得煞白的两截手指就这么摆在了调解室的桌子上；在场的人，除了李火旺外，脸色此刻都变得很难看",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 660,
+    "title": "孙宝禄",
+    "synopsis": "第660章 孙宝禄\n　　“于儿国？”杨小孩一脸的疑惑，他也是一路跟着李师兄走过来的，可是他从来没有听过哪个地方叫什么于儿；瞧见杨小孩脸上的表情，孙包禄诧异地询问道：“怎么？你不知道？四齐还有南平那边都被灭国了，都是被法教灭国的",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 661,
+    "title": "地龙",
+    "synopsis": "第661章 地龙\n　　孙宝禄的话把激动的杨小孩拉了回来；“白师姐认了不少干女儿干儿子，差不多住满了，宝禄哥怎么了？你要来牛心村住吗？”\n　　孙宝禄看了一眼远处的族人，放低声音说",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 662,
+    "title": "熟人",
+    "synopsis": "第662章 熟人\n　　“吕....举人？”杨小孩瞪大着眼睛，瞧见眼前这人；杨小孩当然认识眼前这人，毕竟他那一家子跟了自己一路，\n　　不过这人不是跟着吕班主一块去上京城享福了吗？高师兄还送了他们一",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 663,
+    "title": "酆都",
+    "synopsis": "第663章 酆都\n　　“李师兄？你真是李师兄？李师兄你是来救我的吗？”\n　　瞧见李火旺出现在自己眼前，杨小孩仿佛找到了主；等杨小孩说完，他就瞧见李师兄在打量着自己，那眼神让他有点怪怪的",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 664,
+    "title": "青丘",
+    "synopsis": "第664章 青丘\n　　倒挂在岩层之上的杨小孩仰着头，他不知道头顶上的那些涌动的怪水是什么，他此刻只感觉到身体正在融化，自；“快！快走！”李火旺拉着杨小孩继续狂奔着，他们的身体也在逐渐变小，此刻他们的身下已经彻底变成了一片活过来的汪洋大海",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 665,
+    "title": "散朝",
+    "synopsis": "第665章 散朝\n　　煞气冲天的李火旺牵着马，缓缓走进了上京城内，他身上的红色道袍变得越发的血红了；只要他走过的道路，没有人敢靠近，纷纷避让三分",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 666,
+    "title": "高智坚",
+    "synopsis": "第666章 高智坚\n　　当高智坚离开了人多口杂的朝堂，走入安静的内宫，看着远处翠绿色的御花园，心情总算是好了一些；他走进了御花园内，在一处石凳上坐了下来，享受着这份短暂的安静",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 667,
+    "title": "红颜",
+    "synopsis": "第667章 红颜\n　　“李师兄，李师兄你先等等！”瞧见李火旺如此毅然决然地样子，高智坚连忙阻拦；“李师兄，你独自一人跑青丘去，实在是太危险了，要不还是留在这里吧",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 668,
+    "title": "上路",
+    "synopsis": "第668章 上路\n　　屋内的气氛刚刚好，可就在李火旺继续往下吻的时候，杨娜忽然噗嗤一声笑出声来；“你笑什么？”困惑的李火旺问道",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 669,
+    "title": "李岁",
+    "synopsis": "第669章 李岁\n　　黎明前的那段黑暗，一只灰色的野兔子正在树林灌木间快速地跳跃着，昏暗的环境，搭配上它那黯淡的毛色，看；但是此刻它显得有些慌张，有一次甚至慌不择路差点撞树上，地面传来的颤动声，证明有东西在追着它",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 670,
+    "title": "变强",
+    "synopsis": "第670章 变强\n　　“拜拜那莲花，就能变得更利害吗？”有些懵懂的李岁走了过去，跟着他们有样学样；然而过了一会，李岁并没有感觉到自己的任何变化，她有些气馁了",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 671,
+    "title": "镔铁城",
+    "synopsis": "第671章 镔铁城\n　　包了一层铁皮的车轱辘缓缓地滚动着，在有些枯黄色的草地上留下两道深深的车轮印；坐在马车上的李火旺看着眼前的草地，脑海中回想着上一次自己来这地方的经历",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 672,
+    "title": "麻烦",
+    "synopsis": "第672章 麻烦\n　　“你是青丘的司天监？”\n　　“李火旺的大名我晓得，我知道你是谁，你来青丘干什么？”\n　　“玄牝告诉；“不管谁告诉我的，你现在必须回答我一个问题，你来青丘做什么",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 673,
+    "title": "疍家人",
+    "synopsis": "第673章 疍家人\n　　“不止于儿神？”听到这话，李火旺混身顿时一冷，之前自己一直在大梁，根本就没有注意这一边；现在回想起来，玄牝说的确实没错，法教刚出现的时候，明明被各地监天司围追堵截，甚至为了对付他们，连兵家都用上了",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 674,
+    "title": "船",
+    "synopsis": "第674章 船\n　　“什么规矩？”听到船老大这么说，杨小孩不由的好奇起来，岸上的耕田人可没这么多规矩；“还有什么规矩，海里的规矩呗，我们这些船家规矩也有几条，比如一些姓氏不能上船吗，一些字眼不能在船上说，可疍家人比船家的规",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 675,
+    "title": "水席",
+    "synopsis": "第675章 水席\n　　“娘，这个也好吃，你尝尝这个，这是我专门给你从大梁带过来的；”\n　　“对了，还有这密啦枣，我路上恰好瞧见了，觉得味不错，也给你买了两斤",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 676,
+    "title": "龙户",
+    "synopsis": "第676章 龙户\n　　听到自己的大姐马上要回娘家，杨小孩牵挂的心落下来一些，如今这世道，相比岸上还是海上安全一些；”\n　　听到这话从船篷里的二哥说这话，杨小孩连忙应了一声，匍下身子把双手放水里洗了洗后，站起来向着船篷内走去",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 677,
+    "title": "大姐",
+    "synopsis": "第677章 大姐\n　　“疼”这是杨小孩惟一能感受到的感觉，随着那些锋利的骨刺不断插入他的皮肤，疼痛深入骨髓，偏偏他想要晕；就在这种度日如年的折磨中，杨小孩的意志开始变得昏昏沉沉",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 678,
+    "title": "爹",
+    "synopsis": "第678章 爹\n　　“对了，差点忘了，这是你五弟，昨天刚自己回来；”池白水向着自己长女介绍着刚回来的儿子",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 679,
+    "title": "家人",
+    "synopsis": "第679章 家人\n　　“愣住干什么，快点吧，赶紧给你爹赔个礼，这大晚上的，多闹腾；”\n　　“就是，这要是我儿子，早就吊起来打了",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 680,
+    "title": "离开",
+    "synopsis": "第680章 离开\n　　“大姐，能出来一下吗？我有些事情想问问你；”站在树立在海面上的台子上，杨小孩向着拴在那的木船喊到",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 681,
+    "title": "杀",
+    "synopsis": "第681章 杀\n　　“彭”池白水的脑袋落到地上滚了滚，最终滚到了杨小孩大姐的小脚脚边；她的表情由冷漠变成了惊愕，再有惊愕变成了惊恐，泪水在她眼眶中凝聚，“爹！！”\n　　这话一出，仿佛打开了某种开关，四周嗡地",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 682,
+    "title": "接触",
+    "synopsis": "第682章 接触\n　　听到杨小孩这话，吕秀才脸色一僵，之前的惨痛记忆涌上他的心头，但是紧接着又努力压制下来，装做轻描淡写；”\n　　“什么？！举人真的死了？”杨小孩顿时瞪大了眼睛",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 683,
+    "title": "水",
+    "synopsis": "第683章 水\n　　没过一会，从额头上流淌下来的血水就布满了吕秀才的满脸，他嘴里快速地念着起乩咒；本坛尊神速降临，身化神，神化身，化起山河开光路！步步来接引！寸寸来扶童！扶起乩童发灵光，开金口报分明，神兵神火急急如律令",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 684,
+    "title": "十情",
+    "synopsis": "第684章 十情\n　　当站在海水中的李火旺察觉到自己的情绪被人操控时，果断地闭上了眼睛，在心中不断地默念，“不！我不怒，；他可以进行自由的思考，但是他的情绪不是他所控制的",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 685,
+    "title": "八苦",
+    "synopsis": "第685章 八苦\n　　闭着眼睛的李火旺当感觉到自己的伤到了对方时，果断举起火镰在自己皮肤上划过，冲天的火焰包裹住李火旺全；不管这东西是什么，对方身体那么大，不动真格是不行的",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 686,
+    "title": "康宁",
+    "synopsis": "第686章 康宁\n　　虽然李火旺是街道办事处重点帮扶走访对象，一般情况下是不让出小区的；但是精神病去精神病院复诊，这个理由非常的合理，没理由拒绝，毕竟要是不让复诊，这小子又发病可就麻烦大了",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 687,
+    "title": "钱福",
+    "synopsis": "第687章 钱福\n　　对于这答复，李火旺自然是不可能是善罢甘休，那护工越说钱福病情很重不适合探视，李火旺就越觉得其中有猫；不过李火旺表现出来的情绪并没有那么激烈，他知道这里是精神病院，如果自己表现太过反常，只会适得其反",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 688,
+    "title": "办法",
+    "synopsis": "第688章 办法\n　　康宁医院的男厕所内，喘着粗气的李火旺把脑袋伸在水龙头下面，任由冰凉的冷水冲刷着自己的脑袋；“季灾....季灾！你是季灾！”\n　　刚刚钱福的声音再次从耳边幻起，李火旺表情痛苦闭上了眼睛",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 689,
+    "title": "括苍城",
+    "synopsis": "第689章 括苍城\n　　后蜀，四齐跟青丘之间的地界，无论是跟水多湖多的四齐比较，还是遍地牛羊的青丘比较，后蜀都显得贫瘠了；他这里永远看不到头的怪石嶙峋，还有地面干枯开裂的戈壁滩，绿色是有一些，但是不多，更多是那些跟戈壁融为一体的耐旱植物",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 690,
+    "title": "司天监",
+    "synopsis": "第690章 司天监\n　　李火旺面前这个人，面具很大，几乎盖住了他整个上半身，面具下面露出穿着绿裤子的两条腿，看起来非常的；“这位是后蜀的监天司，你可以叫他掌坛，既然你过来帮忙，那自然要认识认识本地人",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 691,
+    "title": "地龙翻身",
+    "synopsis": "第691章 地龙翻身\n　　“记住了啊，都给我念，只要念对了，就有稀糖吃；”一位白莲信徒半蹲着，对着眼前这些乞丐说道",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 692,
+    "title": "云泽",
+    "synopsis": "第692章 云泽\n　　“十六个时辰？这个世界原先一天有三十二小时？”\n　　听到这个李火旺感觉到脑子乱得很，有些常识性的东；”\n　　“那你过去怎么不告诉我？”\n　　“怎么？大街上一两银子一本的历书记的东西，你没看过？你不是道士吗？莫非连四书五经",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 693,
+    "title": "兵解",
+    "synopsis": "第693章 兵解\n　　泥泞异常的云泽之内，雨水还在不断地落着，李火旺带着其他人沿着一些勉强能走的地方艰难地往前冲着\n　　；除了这些人外，李火旺还看到了那些东倒西歪的人像，看起来他们形态各异，然而他们不是石像，他们的体内都是蠕动的绿色虫子",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 694,
+    "title": "开",
+    "synopsis": "第694章 开\n　　兵解仙这种东西，怎么看都不像是法教的东西，越看越觉得是兵家；这似乎证明随着龙脉的易主，南平，四齐的兵家也倒戈了",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 695,
+    "title": "书生",
+    "synopsis": "第695章 书生\n　　颜色，色泽，李火旺失去了自己身上的所有颜色；低头看着只剩下黑白的自己，李火旺掏出匕首往着手掌处一割，从里面流出来的血液不是鲜红的，而且是漆黑的",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 696,
+    "title": "天灾",
+    "synopsis": "第696章 天灾\n　　混乱的战场中，就在李火旺一时间弄不明白，恢复自由的龙脉要干什么的时候，就瞧见他对着四周的战场激动的；“快跑！快跑啊！！这是一个陷井！！法教想要拿龙脉当诱饵，把你一网打尽！！”\n　　话音刚落，不知道从哪来传来的震天巨响不绝",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 697,
+    "title": "胃",
+    "synopsis": "第697章 胃\n　　“别瞎想！你死不了！”李火旺厉声反驳了自己女儿悲观的想法；“来！跟着我一起想！我体内没虫子！我体内没虫子！！”\n　　随着李火旺动用先天一炁，他体内的虫子渐渐重新变成了他的血肉",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 698,
+    "title": "新",
+    "synopsis": "第698章 新\n　　顺着李火旺挤开的裂隙，所有人都从里面冲了出来，当感觉到四周瞬间变得无比空旷，每个人的脸上都露出由衷喜；他们逃出来了！\n　　看起来地龙并没有在土中，而是来到了地表，这里看起来很黑，空荡荡似乎天灾还没有过去",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 699,
+    "title": "登阶",
+    "synopsis": "第699章 登阶\n　　当那些白家人出现不久，二神当即就感觉到了自己另外一边的上半身的不稳定情绪；“这些都是假的！都是幻象！咱们还在地龙的肚子里呢！都是这地方引起的幻象！！”二神一边感受着对方同样的情感，一边在脑海中疯",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 700,
+    "title": "天上",
+    "synopsis": "第700章 天上\n　　不，那不是鹤叫！当李火旺的五官融为一体，用着全新的感知器官再次感受那深空之中的鹤叫声时，感受到那鹤；那不是声音，那就是于儿神一只手！又或者是于儿神的树枝！于儿神无形无色无望无前，当自己听到鹤叫声时，于儿神碰到自己了！\n　",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 701,
+    "title": "救人",
+    "synopsis": "李火旺与玄牝商议击败法教后续，白莲圣女因皮肉缺失严重受伤",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 702,
+    "title": "自由",
+    "synopsis": "杨娜帮李火旺寻找钱福地址，遭遇钱福家人激烈争吵",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 703,
+    "title": "信你",
+    "synopsis": "钱福被捆绑企图逃脱，李火旺通过手机与其实时沟通",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 704,
+    "title": "两边",
+    "synopsis": "李火旺在现实与袄景两界间穿梭处理事务",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 705,
+    "title": "陈红瑜",
+    "synopsis": "陈红瑜相关角色或信息出现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 706,
+    "title": "动手",
+    "synopsis": "李火旺前往医院住院部准备行动",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 707,
+    "title": "新帮手",
+    "synopsis": "新帮手加入协助",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 708,
+    "title": "清旺来",
+    "synopsis": "清旺来角色登场",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 709,
+    "title": "投影",
+    "synopsis": "投影能力展现",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 710,
+    "title": "帮忙",
+    "synopsis": "相关角色提供帮助",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 711,
+    "title": "危机",
+    "synopsis": "遭遇危机情况",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 712,
+    "title": "信众",
+    "synopsis": "法教信众相关描写",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 713,
+    "title": "时辰",
+    "synopsis": "时辰/时机相关",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 714,
+    "title": "礼",
+    "synopsis": "礼仪或献祭仪式",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 715,
+    "title": "突破",
+    "synopsis": "能力或境界突破",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 716,
+    "title": "城墙",
+    "synopsis": "攻城或防御战",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 717,
+    "title": "门神",
+    "synopsis": "门神相关设定",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 718,
+    "title": "埋伏",
+    "synopsis": "遭遇敌方埋伏",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 719,
+    "title": "来啊",
+    "synopsis": "挑战或应战场景",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 720,
+    "title": "阵",
+    "synopsis": "布阵或破阵",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 721,
+    "title": "泰山石",
+    "synopsis": "泰山石相关仪式",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 722,
+    "title": "办法",
+    "synopsis": "寻找解决方案",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 723,
+    "title": "解除",
+    "synopsis": "解除危机或束缚",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 724,
+    "title": "车",
+    "synopsis": "交通工具相关",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 725,
+    "title": "五姐",
+    "synopsis": "五姐角色登场",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 726,
+    "title": "烂尾楼",
+    "synopsis": "烂尾楼场景",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 727,
+    "title": "动手",
+    "synopsis": "李火旺前往医院住院部准备行动",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 728,
+    "title": "俘虏",
+    "synopsis": "俘虏相关情节",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 729,
+    "title": "手办",
+    "synopsis": "手办或人偶相关",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 730,
+    "title": "赵雷",
+    "synopsis": "赵雷角色登场",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 731,
+    "title": "休",
+    "synopsis": "休整或休息",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 732,
+    "title": "他们",
+    "synopsis": "他人相关",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 733,
+    "title": "虚",
+    "synopsis": "虚界或幻觉相关",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 734,
+    "title": "实",
+    "synopsis": "实界或真实相关",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 735,
+    "title": "大黑天",
+    "synopsis": "大黑天出现/相关",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 736,
+    "title": "进",
+    "synopsis": "进入某处",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 737,
+    "title": "魂魄",
+    "synopsis": "魂魄相关设定",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 738,
+    "title": "红中",
+    "synopsis": "红中相关",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 739,
+    "title": "司命",
+    "synopsis": "司命相关设定",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 740,
+    "title": "红中",
+    "synopsis": "红中相关",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 741,
+    "title": "坐忘道",
+    "synopsis": "第741章坐忘道情节推进",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 742,
+    "title": "“小子，别死读书，要是按照骗经上学啊，那啥也学不会，我来教教你，咱们坐忘道呢不能骗人。”",
+    "synopsis": "第742章“小子，别死读书，要是按照骗经上学啊，那啥也学不会，我来教教你，咱们坐忘道呢不能骗人。”情节推进",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 743,
+    "title": "坐忘道",
+    "synopsis": "第743章坐忘道情节推进",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 744,
+    "title": "真的假的",
+    "synopsis": "第744章真的假的情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 745,
+    "title": "坐忘道",
+    "synopsis": "第745章坐忘道情节推进",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 746,
+    "title": "情报",
+    "synopsis": "第746章情报情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 747,
+    "title": "放下",
+    "synopsis": "第747章放下情节推进",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 748,
+    "title": "帮忙",
+    "synopsis": "相关角色提供帮助",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 749,
+    "title": "选择",
+    "synopsis": "第749章选择情节推进",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 750,
+    "title": "修",
+    "synopsis": "第750章修情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 751,
+    "title": "追",
+    "synopsis": "第751章追情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 752,
+    "title": "算计",
+    "synopsis": "第752章算计情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 753,
+    "title": "出发",
+    "synopsis": "第753章出发情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 754,
+    "title": "精神病",
+    "synopsis": "第754章精神病情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 755,
+    "title": "帮手",
+    "synopsis": "帮手协助",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 756,
+    "title": "神像",
+    "synopsis": "第756章神像情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 757,
+    "title": "鸡脚",
+    "synopsis": "第757章鸡脚情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 758,
+    "title": "破局点",
+    "synopsis": "第758章破局点情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 759,
+    "title": "死",
+    "synopsis": "第759章死情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 760,
+    "title": "东西",
+    "synopsis": "第760章东西情节推进",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 761,
+    "title": "妈陀",
+    "synopsis": "第761章妈陀情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 762,
+    "title": "变",
+    "synopsis": "第762章变情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 763,
+    "title": "累",
+    "synopsis": "第763章累情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 764,
+    "title": "俘虏",
+    "synopsis": "俘虏相关情节",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 765,
+    "title": "武器",
+    "synopsis": "第765章武器情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 766,
+    "title": "巴",
+    "synopsis": "第766章巴情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 767,
+    "title": "女",
+    "synopsis": "第767章女情节推进",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 768,
+    "title": "觉醒",
+    "synopsis": "第768章觉醒情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 769,
+    "title": "巴虺",
+    "synopsis": "第769章巴虺情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 770,
+    "title": "投影",
+    "synopsis": "投影能力展现",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 771,
+    "title": "白",
+    "synopsis": "第771章白情节推进",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 772,
+    "title": "宴",
+    "synopsis": "第772章宴情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 773,
+    "title": "办法",
+    "synopsis": "寻找解决方案",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 774,
+    "title": "办法",
+    "synopsis": "寻找解决方案",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 775,
+    "title": "监天司",
+    "synopsis": "第775章监天司情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 776,
+    "title": "地下",
+    "synopsis": "第776章地下情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 777,
+    "title": "寻找",
+    "synopsis": "第777章寻找情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 778,
+    "title": "方丈",
+    "synopsis": "第778章方丈情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 779,
+    "title": "佛",
+    "synopsis": "第779章佛情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 780,
+    "title": "法会",
+    "synopsis": "第780章法会情节推进",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 781,
+    "title": "秘密",
+    "synopsis": "第781章秘密情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 782,
+    "title": "司命",
+    "synopsis": "司命相关设定",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 783,
+    "title": "衣服",
+    "synopsis": "第783章衣服情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 784,
+    "title": "摩托",
+    "synopsis": "第784章摩托情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 785,
+    "title": "斫龙诛仙",
+    "synopsis": "第785章斫龙诛仙情节推进",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 786,
+    "title": "皇帝",
+    "synopsis": "第786章皇帝情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 787,
+    "title": "旨",
+    "synopsis": "第787章旨情节推进",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 788,
+    "title": "爆",
+    "synopsis": "第788章爆情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 789,
+    "title": "蓐收",
+    "synopsis": "第789章蓐收情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 790,
+    "title": "信了",
+    "synopsis": "第790章信了情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 791,
+    "title": "天吴",
+    "synopsis": "第791章天吴情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 792,
+    "title": "天道",
+    "synopsis": "天道揭示",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 793,
+    "title": "死亡",
+    "synopsis": "死亡情节",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 794,
+    "title": "改变",
+    "synopsis": "第794章改变情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 795,
+    "title": "白灵淼4600字番外",
+    "synopsis": "第795章白灵淼4600字番外情节推进",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 796,
+    "title": "为什么",
+    "synopsis": "第796章为什么情节推进",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 797,
+    "title": "交易",
+    "synopsis": "第797章交易情节推进",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 798,
+    "title": "帮",
+    "synopsis": "第798章帮情节推进",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 799,
+    "title": "线索",
+    "synopsis": "第799章线索情节推进",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 800,
+    "title": "舞狮宫",
+    "synopsis": "舞狮宫相关",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 801,
+    "title": "帮手",
+    "synopsis": "帮手协助",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 802,
+    "title": "海",
+    "synopsis": "海域场景",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 803,
+    "title": "龙王庙",
+    "synopsis": "龙王庙相关",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 804,
+    "title": "敖摩揭",
+    "synopsis": "敖摩揭角色登场",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 805,
+    "title": "龙脉",
+    "synopsis": "龙脉相关",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 806,
+    "title": "破",
+    "synopsis": "破坏或突破",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": true
+  },
+  {
+    "ch": 807,
+    "title": "起",
+    "synopsis": "升起或开始",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": true
+  },
+  {
+    "ch": 808,
+    "title": "升天",
+    "synopsis": "升天情节",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 809,
+    "title": "心象",
+    "synopsis": "心象能力展现",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": true
+  },
+  {
+    "ch": 810,
+    "title": "入世",
+    "synopsis": "入世经历",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 811,
+    "title": "梦",
+    "synopsis": "梦境相关",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 812,
+    "title": "白玉京",
+    "synopsis": "白玉京设定",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 813,
+    "title": "天道",
+    "synopsis": "天道揭示",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 814,
+    "title": "司命",
+    "synopsis": "司命相关设定",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 815,
+    "title": "龙气",
+    "synopsis": "龙气相关",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  },
+  {
+    "ch": 816,
+    "title": "死亡",
+    "synopsis": "死亡情节",
+    "type": "plot",
+    "tension": "max_tension",
+    "reversal": false
+  },
+  {
+    "ch": 817,
+    "title": "亡",
+    "synopsis": "死亡或灭亡",
+    "type": "plot",
+    "tension": "high_tension",
+    "reversal": false
+  },
+  {
+    "ch": 818,
+    "title": "赢了",
+    "synopsis": "最终胜利",
+    "type": "plot",
+    "tension": "normal",
+    "reversal": false
+  }
+]

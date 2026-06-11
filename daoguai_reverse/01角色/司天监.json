@@ -1,8 +1,8 @@
 {
   "name": "司天监",
+  "first_ch": 220,
+  "identity": "监天司成员",
   "aka": [],
-  "identity": "朝廷机构",
-  "first_ch": 39,
-  "status": "organization",
-  "role": "处理超自然事务/监视修炼者"
+  "key_scenes": [],
+  "status": "中段组织"
 }
