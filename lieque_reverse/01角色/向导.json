@@ -1,0 +1,31 @@
+{
+  "id": 18,
+  "name": "向导",
+  "aka": [],
+  "first_ch": 73,
+  "vol": 1,
+  "role": "local_guide",
+  "identity": "对某个区域熟悉的当地人，引导主角进入特定回声区域",
+  "personality": "狡猾但有情义",
+  "abilities": [
+    "熟悉地形"
+  ],
+  "daoguai_ref": "孙宝禄",
+  "daoguai_role": "deformed_guide/local_guide",
+  "core_arc": "区域向导→引主角进入危险→主角应对",
+  "key_scenes": [
+    {
+      "ch": 73,
+      "event": "第一次出现"
+    },
+    {
+      "ch": 80,
+      "event": "引主角进入回声密集区"
+    },
+    {
+      "ch": 90,
+      "event": "主角发现其另有目的"
+    }
+  ],
+  "fate": "引路角色，有自己的 agenda"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 22,
+  "name": "深层守卫",
+  "aka": [
+    "审判者"
+  ],
+  "first_ch": 270,
+  "vol": 2,
+  "role": "warrior_villain",
+  "identity": "深层军事力量，负责执行审判和驱逐",
+  "personality": "忠诚，冷酷",
+  "abilities": [
+    "战斗",
+    "审判"
+  ],
+  "daoguai_ref": "彭龙腾",
+  "daoguai_role": "warrior_villain/military_foe",
+  "core_arc": "审判者→与主角冲突→被击败/说服",
+  "key_scenes": [
+    {
+      "ch": 270,
+      "event": "第一次出现"
+    },
+    {
+      "ch": 300,
+      "event": "与主角对峙"
+    },
+    {
+      "ch": 400,
+      "event": "被打败或说服"
+    }
+  ],
+  "fate": "中段主要对手之一"
+}

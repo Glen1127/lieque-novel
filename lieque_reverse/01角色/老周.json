@@ -1,24 +1,37 @@
 {
+  "id": 5,
   "name": "老周",
   "aka": [
     "仓库主管"
   ],
   "first_ch": 1,
-  "identity": "大剧院仓库主管，沈念的第一个同事",
-  "daoguai_mapping": "金山找（第一个朋友/引导者）",
-  "personality": {
-    "核心": "普通好人",
-    "特点": [
-      "务实",
-      "不多话"
-    ]
-  },
+  "vol": 1,
+  "role": "colleague_betrayer",
+  "identity": "档案室派遣在仓库的监视者，表面是仓库主管",
+  "personality": "表面随和，实际监视主角",
+  "abilities": [
+    "普通人体能"
+  ],
+  "daoguai_ref": "正坤（清风观叛徒）",
+  "daoguai_role": "betrayer/inner_betrayal",
+  "core_arc": "表面友好→被发现真实身份→背叛→被处理",
   "key_scenes": [
     {
       "ch": 1,
-      "event": "评价沈念工作"
+      "event": "日常工作互动"
+    },
+    {
+      "ch": 17,
+      "event": "异常行为被察觉"
+    },
+    {
+      "ch": 30,
+      "event": "真实身份揭示"
+    },
+    {
+      "ch": 43,
+      "event": "背叛主角"
     }
   ],
-  "core_arc": "普通人视角，见证异常事件",
-  "fate": "普通人，不知道深层存在"
+  "fate": "背叛主角后被揭露（Ch43）"
 }

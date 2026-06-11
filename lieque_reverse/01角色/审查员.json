@@ -1,0 +1,34 @@
+{
+  "id": 14,
+  "name": "审查员",
+  "aka": [
+    "监察者"
+  ],
+  "first_ch": 200,
+  "vol": 2,
+  "role": "double_agent",
+  "identity": "表面是名单系统监察员，实际另有目的",
+  "personality": "隐藏很深，两面三刀",
+  "abilities": [
+    "检查档案",
+    "操控信息"
+  ],
+  "daoguai_ref": "高志坚",
+  "daoguai_role": "double_agent/hidden_identity",
+  "core_arc": "表面盟友→真实身份揭露→敌对",
+  "key_scenes": [
+    {
+      "ch": 200,
+      "event": "第一次出现"
+    },
+    {
+      "ch": 300,
+      "event": "看似帮助主角"
+    },
+    {
+      "ch": 400,
+      "event": "身份揭露——双重身份"
+    }
+  ],
+  "fate": "中段揭露双重身份"
+}

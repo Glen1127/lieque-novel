@@ -1,0 +1,42 @@
+{
+  "id": 10,
+  "name": "记录员",
+  "aka": [
+    "档案官"
+  ],
+  "first_ch": 30,
+  "vol": 1,
+  "role": "late_companion",
+  "identity": "档案室高层，负责管理名单和流转记录",
+  "personality": "冷静，记录一切，对规则极度忠诚",
+  "abilities": [
+    "查看所有档案",
+    "操控名单信息"
+  ],
+  "daoguai_ref": "白灵淼",
+  "daoguai_role": "partner_late/companion_journey",
+  "core_arc": "规则执行者→与主角同行→价值冲突→分离",
+  "key_scenes": [
+    {
+      "ch": 30,
+      "event": "第一次出现"
+    },
+    {
+      "ch": 200,
+      "event": "开始与主角同行"
+    },
+    {
+      "ch": 300,
+      "event": "价值观念冲突"
+    },
+    {
+      "ch": 400,
+      "event": "分离或对立"
+    },
+    {
+      "ch": 500,
+      "event": "再次相遇"
+    }
+  ],
+  "fate": "贯穿中后段，复杂的同行者"
+}

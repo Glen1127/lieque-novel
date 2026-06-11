@@ -1,0 +1,202 @@
+[
+  {
+    "ch": 11,
+    "title": "代价",
+    "type": "plot",
+    "tension": "medium",
+    "synopsis": "传递后，小陶的声音留在了沈念的脑子里。代价开始了。",
+    "pov": "shen_nian",
+    "word_count": 1300,
+    "status": "pending"
+  },
+  {
+    "ch": 12,
+    "title": "回家",
+    "type": "character",
+    "tension": "low",
+    "synopsis": "沈念回到租住处，第一次感受到身体里的异常。他开始分不清哪些是自己的念头。",
+    "pov": "shen_nian",
+    "word_count": 1200,
+    "status": "pending"
+  },
+  {
+    "ch": 13,
+    "title": "第二天",
+    "type": "plot",
+    "tension": "low",
+    "synopsis": "仓库日常工作，异常开始影响沈念的生活。小陶的声音出现的频率在增加。",
+    "pov": "shen_nian",
+    "word_count": 1100,
+    "status": "pending"
+  },
+  {
+    "ch": 14,
+    "title": "第二次",
+    "type": "plot",
+    "tension": "medium",
+    "synopsis": "小陶再次出现，带来更多回声需要传递。沈念开始意识到这不是普通的罐子。",
+    "pov": "shen_nian",
+    "word_count": 900,
+    "status": "pending"
+  },
+  {
+    "ch": 15,
+    "title": "分类",
+    "type": "revelation",
+    "tension": "medium",
+    "synopsis": "陈姐教沈念分类回声的方式——不是所有回声都能传递，需要先了解它们的遗愿。",
+    "pov": "shen_nian",
+    "word_count": 800,
+    "status": "pending"
+  },
+  {
+    "ch": 16,
+    "title": "遗愿",
+    "type": "plot",
+    "tension": "high",
+    "synopsis": "小陶告诉沈念，她的遗愿是找到一个人。但她已经死了很久，找到那个人已经没有意义。",
+    "pov": "shen_nian",
+    "word_count": 800,
+    "status": "pending"
+  },
+  {
+    "ch": 17,
+    "title": "容器",
+    "type": "revelation",
+    "tension": "high",
+    "synopsis": "小陶的真实身份揭示——她不是普通的回声，是容器。用来装其他回声的容器。",
+    "pov": "shen_nian",
+    "word_count": 700,
+    "status": "pending"
+  },
+  {
+    "ch": 18,
+    "title": "名单",
+    "type": "revelation",
+    "tension": "high",
+    "synopsis": "陈姐揭示名单制度——十二个孔位，已经满了。满了意味着什么？需要替换旧人才能进入深层。",
+    "pov": "shen_nian",
+    "word_count": 700,
+    "status": "pending"
+  },
+  {
+    "ch": 19,
+    "title": "替换",
+    "type": "plot",
+    "tension": "high",
+    "synopsis": "名单已满意味着什么？需要替换旧人才能进入深层。沈念开始理解这个系统的残酷。",
+    "pov": "shen_nian",
+    "word_count": 600,
+    "status": "pending"
+  },
+  {
+    "ch": 20,
+    "title": "沈念的名字",
+    "type": "revelation",
+    "tension": "high",
+    "synopsis": "沈念发现自己的名字在名单上。他不知道自己是什么时候被写上去的。",
+    "pov": "shen_nian",
+    "word_count": 500,
+    "status": "pending"
+  },
+  {
+    "ch": 21,
+    "title": "母亲",
+    "type": "mystery",
+    "tension": "high",
+    "synopsis": "陈姐暗示沈念，他的母亲与档案室有关。沈念开始回想关于母亲的记忆。",
+    "pov": "shen_nian",
+    "word_count": 500,
+    "status": "pending"
+  },
+  {
+    "ch": 22,
+    "title": "调查",
+    "type": "plot",
+    "tension": "medium",
+    "synopsis": "沈念开始调查母亲的过去。他回到租住处，翻找母亲留下的旧物。",
+    "pov": "shen_nian",
+    "word_count": 500,
+    "status": "pending"
+  },
+  {
+    "ch": 23,
+    "title": "三人",
+    "type": "revelation",
+    "tension": "high",
+    "synopsis": "真相揭示：小陶、陈姐、沈念，三人共同守护什么。他们不是偶然相遇的。",
+    "pov": "shen_nian",
+    "word_count": 600,
+    "status": "pending"
+  },
+  {
+    "ch": 24,
+    "title": "准备",
+    "type": "plot",
+    "tension": "medium",
+    "synopsis": "沈念准备进入深层。他整理了所有需要的信息，确认了自己的遗愿。",
+    "pov": "shen_nian",
+    "word_count": 600,
+    "status": "pending"
+  },
+  {
+    "ch": 25,
+    "title": "深层",
+    "type": "revelation",
+    "tension": "high",
+    "synopsis": "沈念第一次进入深层。他看到了一个不属于人间的地方。",
+    "pov": "shen_nian",
+    "word_count": 600,
+    "status": "pending"
+  },
+  {
+    "ch": 26,
+    "title": "沈敏",
+    "type": "character",
+    "tension": "high",
+    "synopsis": "沈念在深层里见到了母亲沈敏。她不是他记忆中的样子了。",
+    "pov": "shen_nian",
+    "word_count": 500,
+    "status": "pending"
+  },
+  {
+    "ch": 27,
+    "title": "任务",
+    "type": "plot",
+    "tension": "high",
+    "synopsis": "沈敏交给沈念一个任务：找到第1032号。第1032号是深层里的关键节点。",
+    "pov": "shen_nian",
+    "word_count": 600,
+    "status": "pending"
+  },
+  {
+    "ch": 28,
+    "title": "代价加深",
+    "type": "plot",
+    "tension": "high",
+    "synopsis": "在深层里，传递的代价加深了。沈念开始混淆自己的记忆和回声的记忆。",
+    "pov": "shen_nian",
+    "word_count": 500,
+    "status": "pending"
+  },
+  {
+    "ch": 29,
+    "title": "线索",
+    "type": "plot",
+    "tension": "high",
+    "synopsis": "沈念发现了第1032号的线索。它不是一个数字，是一个名字。",
+    "pov": "shen_nian",
+    "word_count": 500,
+    "status": "pending"
+  },
+  {
+    "ch": 30,
+    "title": "接受",
+    "type": "character",
+    "tension": "high",
+    "synopsis": "沈念接受传递者身份。他决定继续母亲的任务，找到第1032号。",
+    "pov": "shen_nian",
+    "word_count": 600,
+    "status": "pending"
+  }
+]

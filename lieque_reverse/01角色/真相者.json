@@ -1,0 +1,38 @@
+{
+  "id": 23,
+  "name": "真相者",
+  "aka": [
+    "知情者"
+  ],
+  "first_ch": 330,
+  "vol": 2,
+  "role": "sage_ally",
+  "identity": "知道深层真相的存在，愿意帮助主角",
+  "personality": "智慧，牺牲精神",
+  "abilities": [
+    "知晓深层秘密",
+    "特殊传递能力"
+  ],
+  "daoguai_ref": "诸葛渊",
+  "daoguai_role": "sage_ally/sacrifice_ally",
+  "core_arc": "导师角色→揭示真相→在某节点牺牲/消失",
+  "key_scenes": [
+    {
+      "ch": 330,
+      "event": "第一次出现"
+    },
+    {
+      "ch": 350,
+      "event": "给主角关键信息"
+    },
+    {
+      "ch": 400,
+      "event": "为帮助主角牺牲"
+    },
+    {
+      "ch": 500,
+      "event": "以其他形式回归"
+    }
+  ],
+  "fate": "Ch400左右牺牲，后以其他形式出现"
+}

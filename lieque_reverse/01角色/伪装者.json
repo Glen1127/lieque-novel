@@ -1,0 +1,38 @@
+{
+  "id": 11,
+  "name": "伪装者",
+  "aka": [
+    "影"
+  ],
+  "first_ch": 100,
+  "vol": 1,
+  "role": "villain_l2",
+  "identity": "能够伪装成亡魂/活人的势力，混入档案系统",
+  "personality": "不确定，欺骗性强",
+  "abilities": [
+    "伪装成任何人",
+    "刺探情报"
+  ],
+  "daoguai_ref": "坐忘道",
+  "daoguai_role": "villain_l2/fake_identity",
+  "core_arc": "潜伏→被发现→身份揭露→持续威胁",
+  "key_scenes": [
+    {
+      "ch": 100,
+      "event": "第一次被提及"
+    },
+    {
+      "ch": 150,
+      "event": "主角开始怀疑"
+    },
+    {
+      "ch": 200,
+      "event": "揭露主角身边的人"
+    },
+    {
+      "ch": 340,
+      "event": "组织性暴露"
+    }
+  ],
+  "fate": "贯穿中后段，持续威胁"
+}

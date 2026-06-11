@@ -1,0 +1,31 @@
+{
+  "id": 25,
+  "name": "不确定者",
+  "aka": [],
+  "first_ch": 203,
+  "vol": 2,
+  "role": "mystery_identity",
+  "identity": "真实身份不明，可能是多个势力之一",
+  "personality": "难以捉摸",
+  "abilities": [
+    "未知"
+  ],
+  "daoguai_ref": "王韦",
+  "daoguai_role": "mystery_identity/uncertain_loyalty",
+  "core_arc": "谜团→多种可能性→最终揭示真实身份",
+  "key_scenes": [
+    {
+      "ch": 203,
+      "event": "第一次出现"
+    },
+    {
+      "ch": 300,
+      "event": "多次出现，身份成谜"
+    },
+    {
+      "ch": 500,
+      "event": "真实身份揭示"
+    }
+  ],
+  "fate": "真实身份最终揭示"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 21,
+  "name": "年轻回声",
+  "aka": [],
+  "first_ch": 160,
+  "vol": 2,
+  "role": "young_ally",
+  "identity": "年轻亡魂，天真，对人间仍有执念",
+  "personality": "天真，直接，脆弱",
+  "abilities": [],
+  "daoguai_ref": "春小满",
+  "daoguai_role": "young_ally/innocent_ally",
+  "core_arc": "需要帮助的年轻回声→主角帮助→成长/消散",
+  "key_scenes": [
+    {
+      "ch": 160,
+      "event": "第一次出现"
+    },
+    {
+      "ch": 180,
+      "event": "主角帮助其完成遗愿"
+    },
+    {
+      "ch": 200,
+      "event": "成功流转"
+    }
+  ],
+  "fate": "成功流转（正面案例）"
+}

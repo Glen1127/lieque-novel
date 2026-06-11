@@ -1,0 +1,29 @@
+{
+  "id": 6,
+  "name": "档案室同事A",
+  "aka": [],
+  "first_ch": 4,
+  "vol": 1,
+  "role": "minor_victim",
+  "identity": "档案室普通员工",
+  "personality": "普通员工",
+  "abilities": [],
+  "daoguai_ref": "赵五",
+  "daoguai_role": "minor_victim/warning_example",
+  "core_arc": "试图逃离档案室→失败→被碾磨",
+  "key_scenes": [
+    {
+      "ch": 4,
+      "event": "第一次出现"
+    },
+    {
+      "ch": 15,
+      "event": "试图逃跑"
+    },
+    {
+      "ch": 20,
+      "event": "被档案室处理"
+    }
+  ],
+  "fate": "被碾磨（警示主角的代价）"
+}

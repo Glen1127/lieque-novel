@@ -1,29 +1,38 @@
 {
+  "id": 4,
   "name": "沈敏",
   "aka": [
     "母亲",
     "前任传递者"
   ],
   "first_ch": 25,
-  "identity": "沈念的母亲，在深层，传递者前任",
-  "daoguai_mapping": "赵乐蓓（母亲角色）",
-  "personality": {
-    "核心": "为子女留在深层",
-    "特点": [
-      "等待",
-      "传承"
-    ]
-  },
+  "vol": 1,
+  "role": "mother_guide",
+  "identity": "沈念的母亲，前任传递者，在深层等待",
+  "personality": "等待，传承，隐藏着重要真相",
+  "abilities": [
+    "传递者能力（已衰退）"
+  ],
+  "daoguai_ref": "赵乐蓓（医生）→母亲角色",
+  "daoguai_role": "doctor_guide/reality_guide",
+  "core_arc": "深层等待者→与沈念相见→传递真相→完成交接",
   "key_scenes": [
     {
       "ch": 25,
       "event": "沈念进入深层见到母亲"
     },
     {
-      "ch": 99,
-      "event": "母亲留在深层的原因揭示"
+      "ch": 50,
+      "event": "母亲讲述过去"
+    },
+    {
+      "ch": 100,
+      "event": "关于传递者真相"
+    },
+    {
+      "ch": 200,
+      "event": "完成传承"
     }
   ],
-  "core_arc": "留在深层等待 → 沈念接替传递者身份",
-  "fate": "在等一个能接替她的人 (Ch99)"
+  "fate": "为沈念留在深层，等到了接替者（Ch200左右完成交接）"
 }

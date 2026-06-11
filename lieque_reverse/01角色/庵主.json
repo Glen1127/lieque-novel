@@ -1,0 +1,34 @@
+{
+  "id": 17,
+  "name": "庵主",
+  "aka": [
+    "静心师太"
+  ],
+  "first_ch": 140,
+  "vol": 2,
+  "role": "spiritual_guide",
+  "identity": "某个人间宗教场所的主持，与档案室有联系",
+  "personality": "看透世事，有自己的目的",
+  "abilities": [
+    "宗教仪式",
+    "某些特殊能力"
+  ],
+  "daoguai_ref": "静心师太",
+  "daoguai_role": "temple_guide/spiritual_guide",
+  "core_arc": "精神引导→揭示深层联系→成为资源",
+  "key_scenes": [
+    {
+      "ch": 140,
+      "event": "第一次出现"
+    },
+    {
+      "ch": 160,
+      "event": "给主角某种启示"
+    },
+    {
+      "ch": 200,
+      "event": "揭示其真实身份"
+    }
+  ],
+  "fate": "中段引导者角色"
+}

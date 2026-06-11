@@ -1,0 +1,31 @@
+{
+  "id": 16,
+  "name": "戏班成员",
+  "aka": [
+    "艺人"
+  ],
+  "first_ch": 380,
+  "vol": 2,
+  "role": "brother_ally",
+  "identity": "戏班成员，与主角建立类似兄弟的关系",
+  "personality": "义气，豪爽",
+  "abilities": [],
+  "daoguai_ref": "吕秀才",
+  "daoguai_role": "brother_ally/brother_bond",
+  "core_arc": "兄弟情谊→共同经历→在某节点牺牲或离开",
+  "key_scenes": [
+    {
+      "ch": 380,
+      "event": "第一次出现"
+    },
+    {
+      "ch": 400,
+      "event": "建立兄弟情"
+    },
+    {
+      "ch": 450,
+      "event": "为保护主角受伤"
+    }
+  ],
+  "fate": "后段重要情感角色"
+}

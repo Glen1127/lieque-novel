@@ -1,0 +1,33 @@
+{
+  "id": 7,
+  "name": "档案室同事B",
+  "aka": [
+    "管理员助理"
+  ],
+  "first_ch": 7,
+  "vol": 1,
+  "role": "fellow_worker",
+  "identity": "档案室管理员的助手",
+  "personality": "服从，缺乏主动性",
+  "abilities": [
+    "整理档案"
+  ],
+  "daoguai_ref": "何信",
+  "daoguai_role": "fellow_disciple/failed_escape",
+  "core_arc": "忠实员工→暗中帮助主角→被发现",
+  "key_scenes": [
+    {
+      "ch": 7,
+      "event": "第一次出现"
+    },
+    {
+      "ch": 30,
+      "event": "给主角提供信息"
+    },
+    {
+      "ch": 50,
+      "event": "被管理员处理"
+    }
+  ],
+  "fate": "被调离或处理"
+}
