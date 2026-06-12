@@ -1,24 +1,20 @@
 {
-  "chapter": 17,
-  "title": "玉佩的价值",
+  "chapter": 18,
+  "title": "新的希望",
   "metrics": {
     "word_count": 162,
-    "line_count": 162,
-    "character_count": 5601,
-    "avg_line_length": 34.5,
-    "dialogue_ratio": 0.45,
-    "narrative_ratio": 0.55
+    "line_count": 146,
+    "character_count": 5803,
+    "avg_line_length": 39.7
   },
   "structure": {
-    "scenes": 3,
-    "setting_details": ["仓库外咖啡馆", "仓库内部"],
-    "main_locations": ["咖啡馆", "仓库"]
+    "scenes": 1,
+    "main_locations": ["医院花园"]
   },
   "pacing": {
-    "scene_count": 3,
-    "dialogue_heavy_sections": 1,
-    "action_sections": 1,
-    "reflection_sections": 1
+    "scene_count": 1,
+    "reflection_sections": 1,
+    "dialogue_sections": 1
   },
   "characters": {
     "point_of_view": "沈念",
@@ -26,11 +22,10 @@
     "minor_characters": 0
   },
   "quality_indicators": {
-    "repeated_words": ["四十万", "橙", "仓库", "玉佩"],
-    "repeated_phrases": ["算是吧"],
-    "direct_duals": 0
+    "repeated_words": ["四十万", "希望", "一步一步", "玉佩"],
+    "repeated_phrases": ["边缘地带"]
   },
-  "chapter_type": "转折点章节",
+  "chapter_type": "过渡章节",
   "genre_tags": ["悬疑", "都市", "奇幻"],
   "estimated_reading_time_minutes": 3
 }
