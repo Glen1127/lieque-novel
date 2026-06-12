@@ -1,30 +1,38 @@
 {
-  "chapter": 13,
-  "start_chapter": 13,
-  "end_chapter": 13,
-  "overall_score": 99.0,
-  "dimension_scores": {
-    "continuity": 100.0,
-    "setting": 100.0,
-    "character": 100.0,
-    "timeline": 100.0,
-    "ai_flavor": 100.0,
-    "logic": 100.0,
-    "pacing": 98.0,
-    "other": 100.0
+  "chapter": 14,
+  "metrics": {
+    "word_count": 6150,
+    "character_count": 6150,
+    "line_count": 106,
+    "paragraph_count": 107,
+    "scene_count": 6,
+    "dialogue_lines": 8,
+    "major_characters": 2,
+    "pov_character": "沈念",
+    "tense": "现在时",
+    "genre_tags": ["悬疑", "心理", "惊悚", "都市"],
+    "chapter_type": "情节推进"
   },
-  "severity_counts": {
-    "critical": 0,
-    "high": 0,
-    "medium": 0,
-    "low": 2
+  "readability": {
+    "avg_sentence_length": 18.5,
+    "reading_level": "中等",
+    "pacing_rating": "快节奏",
+    "emotional_tone": "紧张、压抑、悬疑"
   },
-  "critical_issues": [],
-  "notes": "2个问题：均为低优(pacing)，0个阻断 | issues=2 | blocking=0 | categories=pacing",
-  "issues_count": 2,
-  "blocking_count": 0,
-  "categories": [
-    "pacing"
-  ],
-  "timestamp": "2026-06-12T14:26"
+  "structural_breaks": {
+    "scene_1": "黑暗洞穴 - 沈念被困",
+    "scene_2": "自我调控 - 呼吸和分类法",
+    "scene_3": "摸索门 - 找到铁门但锁着",
+    "scene_4": "呼救 - 听到人声",
+    "scene_5": "被救出 - 进入仓库",
+    "scene_6": "密室对话 - 档案悬念"
+  },
+  "quality_indicators": {
+    "has_plot_progression": true,
+    "has_character_development": true,
+    "has_reveals": true,
+    "has_foreshadowing": true,
+    "has_dialogue": true,
+    "ends_on_cliffhanger": true
+  }
 }
