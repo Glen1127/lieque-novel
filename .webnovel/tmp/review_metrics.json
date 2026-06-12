@@ -1,38 +1,73 @@
 {
-  "chapter": 14,
-  "metrics": {
-    "word_count": 6150,
-    "character_count": 6150,
-    "line_count": 106,
-    "paragraph_count": 107,
+  "chapter": 15,
+  "title": "晋升与考验",
+  "review_date": "2026-06-12",
+  "source_file": "/Users/glenx/Documents/裂隙/正文/第15章.md",
+  "basic_stats": {
+    "total_lines": 122,
+    "total_characters": 5756,
+    "word_count_approx": 2800,
+    "paragraph_count": 45
+  },
+  "dialogue_stats": {
+    "dialogue_lines": 28,
+    "dialogue_ratio": 0.23,
+    "speaker_count": 2
+  },
+  "pacing": {
     "scene_count": 6,
-    "dialogue_lines": 8,
-    "major_characters": 2,
-    "pov_character": "沈念",
-    "tense": "现在时",
-    "genre_tags": ["悬疑", "心理", "惊悚", "都市"],
-    "chapter_type": "情节推进"
+    "avg_scene_length_lines": 20.3,
+    "fastest_scene": "徐晓揭示真相（约15行对话密集）",
+    "slowest_scene": "沈念独白与思考（第113-122行）"
   },
-  "readability": {
-    "avg_sentence_length": 18.5,
-    "reading_level": "中等",
-    "pacing_rating": "快节奏",
-    "emotional_tone": "紧张、压抑、悬疑"
+  "character_presence": {
+    "沈念": {
+      "POV": true,
+      "scene_count": 6,
+      "dialogue_count": 14,
+      "inner_thought_lines": 18
+    },
+    "徐晓": {
+      "POV": false,
+      "scene_count": 1,
+      "dialogue_count": 10,
+      "first_appearance_line": 11
+    },
+    "徐守元": {
+      "POV": false,
+      "mentioned": true,
+      "dialogue_referenced": 2
+    },
+    "档案室守卫": {
+      "POV": false,
+      "scene_count": 1,
+      "dialogue_count": 1
+    }
   },
-  "structural_breaks": {
-    "scene_1": "黑暗洞穴 - 沈念被困",
-    "scene_2": "自我调控 - 呼吸和分类法",
-    "scene_3": "摸索门 - 找到铁门但锁着",
-    "scene_4": "呼救 - 听到人声",
-    "scene_5": "被救出 - 进入仓库",
-    "scene_6": "密室对话 - 档案悬念"
+  "concept_density": {
+    "new_terms_introduced": ["档案室内部代码", "传递者", "回声", "橙石代价"],
+    "new_terms_count": 4,
+    "callback_chapters": [13],
+    "callback_rate": 1
   },
-  "quality_indicators": {
-    "has_plot_progression": true,
-    "has_character_development": true,
-    "has_reveals": true,
-    "has_foreshadowing": true,
-    "has_dialogue": true,
-    "ends_on_cliffhanger": true
-  }
+  "structural_arc": {
+    "opening": "档案发现",
+    "rising_action": "徐晓揭示真相",
+    "climax": "沈念接受传递者身份",
+    "falling_action": "明日安排与休息",
+    "resolution": "选择活下去"
+  },
+  "repetition_check": {
+    "phrases_repeated_3plus": ["他必须活下来", "他必须找到答案", "他必须搞清楚"],
+    "repetition_count": 3,
+    "note": "重复句式强化主题但可考虑变化"
+  },
+  "progression_metrics": {
+    "chapter_in_sequence": 15,
+    "plot_progress_score": 7,
+    "character_development_score": 7,
+    "mystery_unfold_score": 8,
+    "overall_quality_score": 7.5
+  },
+  "notes": "章节推进核心世界观信息（回声系统、传递者身份），节奏控制良好，新角色徐晓出场自然但稍显突兀。重复句式是本 chapter 主要可改进点。"
 }
