@@ -1,24 +1,73 @@
 {
-  "chapter": 22,
-  "title": "逃离档案室",
-  "word_count": 2100,
-  "line_count": 220,
-  "main_characters": ["沈念", "徐晓", "杨娜", "周明"],
-  "plot_summary": "沈念决定离开档案室，但徐晓告诉他仓库没有真正的出口——每个出口都通向另一个档案室。得知袭击杨娜的人是仓库里有权力的人派来的，沈念决定不再逃跑，而是留下来战斗、找到幕后黑手并摧毁他们。徐晓同意帮助他。",
-  "key_events": [
-    "徐晓告知沈念仓库没有出口，每个出口都通向另一个档案室",
-    "徐晓揭示袭击杨娜的人是仓库里有权力的人派来，针对的是沈念",
-    "沈念决定从逃跑转为战斗",
-    "徐晓提供仓库结构图，标记敌人位置",
-    "沈念做梦梦见橙光和人影，象征使用橙石的代价",
-    "沈念醒来后明确了自己的使命"
+  "chapter": 23,
+  "chapter_title": "新的抉择",
+  "file_path": "/Users/glenx/Documents/裂隙/正文/第23章.md",
+  "line_count": 224,
+  "review_date": "2026-06-12",
+  "forbidden_word_check": {
+    "result": "pass",
+    "details": "串线词未出现在本章正文"
+  },
+  "issues_found": [
+    {
+      "id": 1,
+      "severity": "high",
+      "category": "world_rule_inconsistency",
+      "title": "回声数量与钥匙规则的矛盾",
+      "description": "第19章影子声音说'三份可以换一把钥匙'，第23章115-119行提到沈念身上有一百份回声。按照这个规则，100份可以换33把钥匙，远超需要的12把。但之前沈念一直在四处寻找回声，这个行为显得不合理。",
+      "evidence": {
+        "chapter19": "三份可以换一把钥匙",
+        "chapter23_lines_115_119": "沈念身上有一百份回声（三十年来所有整理者的回声总和）"
+      },
+      "cross_references": ["第17章61行", "第19章141行", "第23章115-119行"],
+      "related_issue_in_review": "问题1（17-23章审阅报告）"
+    },
+    {
+      "id": 2,
+      "severity": "low",
+      "category": "character_behavior",
+      "title": "杨娜的主动性",
+      "description": "杨娜在第23章主动表示要跟沈念走，这是一个积极的角色发展。但她的性格转变在前几章中没有足够的铺垫，显得稍微突兀。",
+      "evidence": {
+        "chapter23_lines_75_91": "杨娜主动表示想跟沈念走，不管去哪里"
+      }
+    },
+    {
+      "id": 3,
+      "severity": "info",
+      "category": "narrative_style",
+      "title": "重复句式过多",
+      "description": "本章中多次出现'某种奇异的平静'（第93、113、127行）和'某种无法命名的东西'（第61、135行）等重复句式，影响阅读体验。",
+      "evidence": {
+        "lines_with_similar_phrasing": [61, 93, 113, 127, 135]
+      }
+    },
+    {
+      "id": 4,
+      "severity": "info",
+      "category": "narrative_structure",
+      "title": "结尾情感转折",
+      "description": "结尾'他终于不再是一个人了'与开头沈念决定一个人走的心理形成呼应，但转折略显仓促。",
+      "evidence": {
+        "opening": "他要离开。一个人。",
+        "closing": "他终于不再是一个人了。"
+      }
+    }
   ],
-  "themes": ["选择与代价", "逃避vs面对", "结盟与信任", "仓库的谜题"],
-  "pacing_notes": "情节推进稳健，对话驱动为主，梦境场景作为过渡。结尾明确为下一章的战斗做铺垫。",
-  "style_notes": "简洁对话为主，心理描写点缀。梦境段落文学性较强，与正文形成对比。",
-  "continuity_check": {
-    "references_previous_chapters": true,
-    "mentioned_events": ["周明之死", "橙石力量", "杨娜被袭"],
-    "foreshadowing": "仓库结构图标记敌人位置，为后续战斗铺垫"
-  }
+  "continuity_notes": {
+    "carries_forward": [
+      "橙石的温热触感作为情感锚点（第217行）",
+      "杨娜与沈念的关系发展",
+      "徐晓作为关键NPC的角色"
+    ],
+    "sets_up": [
+      "新的旅程和未知的前方",
+      "沈念对答案的追求",
+      "两人共同面对危险的设定"
+    ],
+    "inconsistencies_from_prior_chapters": [
+      "回声数量问题（见问题1）"
+    ]
+  },
+  "summary": "第23章是全书的转折点，沈念决定离开档案室去寻求答案，杨娜决定与他同行。本章在人物关系发展上处理得当，但延续了之前审阅报告中指出的回声数量与钥匙规则矛盾的问题。叙事上存在一些重复句式，但整体情感节奏良好，为后续旅程做好铺垫。"
 }

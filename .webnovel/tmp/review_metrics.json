@@ -1,14 +1,65 @@
 {
-  "chapter": 22,
-  "file": "/Users/glenx/Documents/裂隙/正文/第22章.md",
-  "word_count": 2100,
-  "line_count": 220,
-  "paragraph_count": 45,
-  "dialogue_ratio": 0.55,
-  "action_count": 8,
-  "scene_count": 4,
-  "readability_score": 85,
-  "grammar_issues": 0,
-  "pacing_rating": "steady",
-  "emotional_tone": "determined"
+  "chapter": 23,
+  "chapter_title": "新的抉择",
+  "review_metrics": {
+    "word_count_estimate": 6205,
+    "line_count": 224,
+    "forbidden_words": {
+      "count": 0,
+      "result": "pass"
+    },
+    "issues_by_severity": {
+      "high": 1,
+      "medium": 0,
+      "low": 1,
+      "info": 2
+    },
+    "issues_by_category": {
+      "world_rule_inconsistency": 1,
+      "character_behavior": 1,
+      "narrative_style": 1,
+      "narrative_structure": 1
+    },
+    "repetition_score": "medium",
+    "pacing_assessment": "good",
+    "dialogue_ratio": 0.35,
+    "narrative_ratio": 0.65
+  },
+  "character_arcs": {
+    "沈念": {
+      "arc_type": "departure_transformation",
+      "development": "从决定独自一人离开，到接受与杨娜同行",
+      "key_moments": ["决定离开", "拒绝带杨娜", "被杨娜说服", "一起出发"]
+    },
+    "杨娜": {
+      "arc_type": "主动选择",
+      "development": "从被动跟随到主动要求同行，展现独立意志",
+      "key_moments": ["质问沈念为何不问她", "表达同行意愿", "得到肯定答复"]
+    },
+    "徐晓": {
+      "arc_type": "送别导师",
+      "development": "作为沈念的引路人，完成交接",
+      "key_moments": ["被感谢", "给予祝福", "目送离开"]
+    }
+  },
+  "thematic_elements": {
+    "核心主题": "选择与陪伴",
+    "关键意象": [
+      "橙石（温热的、正在呼吸的）",
+      "地图和线条",
+      "橙色光芒"
+    ],
+    "情感基调": "决绝中带着希望"
+  },
+  "technical_quality": {
+    "prose_quality": "good",
+    "consistency": "good",
+    "pacing": "good",
+    "dialogue_authenticity": "good"
+  },
+  "recommendations": [
+    "建议后续章节解释100份回声的来源和使用规则",
+    "建议减少'某种奇异的平静'等重复句式的使用",
+    "建议为杨娜的主动性增加更多性格铺垫"
+  ]
 }
