@@ -1,0 +1,40 @@
+{
+  "issues": [
+    {
+      "severity": "high",
+      "category": "other",
+      "location": "全文多处",
+      "description": "破折号使用超标：检测到25次（上限20次）",
+      "evidence": "破折号: 25次 (上限20)",
+      "fix_hint": "将部分破折号替换为逗号、句号或换行",
+      "blocking": false
+    },
+    {
+      "severity": "high",
+      "category": "other",
+      "location": "全文多处",
+      "description": "但字使用超标：检测到20次（上限6次）",
+      "evidence": "但(非但是): 20次 (上限6)",
+      "fix_hint": "将部分但替换为然而、不过、却等近义词",
+      "blocking": false
+    },
+    {
+      "severity": "high",
+      "category": "other",
+      "location": "第1处:第6段、第2处:第31段、第3处:第37段、第4处:第41段、第5处:第47段",
+      "description": "不是X是Y句式使用超标：检测到5次（上限1次）",
+      "evidence": "不是X是Y: 5次 (上限1); 1.不是因为...而是因为; 2.不是你应该管的; 3.也许他不是被选中，而是被处理; 4.他知道自己不是那种冲动的人; 5.不是腐烂，而是烧焦塑料",
+      "fix_hint": "将5处不是X是Y句式改写，例如：不是因为...而是因为→原因不在于...而在于",
+      "blocking": false
+    }
+  ],
+  "dimension_results": [
+    {"dimension": "setting", "conclusion": "无法校验设定一致性：数据读取失败（实体protagonist不存在）"},
+    {"dimension": "timeline", "conclusion": "pass"},
+    {"dimension": "continuity", "conclusion": "pass"},
+    {"dimension": "character", "conclusion": "pass"},
+    {"dimension": "logic", "conclusion": "pass"},
+    {"dimension": "rules", "conclusion": "发现3个问题：破折号超标25次/但字超标20次/不是X是Y句式超标5次"}
+  ],
+  "summary": "3个问题：0个阻断，3个高优"
+}

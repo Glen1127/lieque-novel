@@ -1,0 +1,31 @@
+{
+  "chapter": 1,
+  "start_chapter": 1,
+  "end_chapter": 1,
+  "overall_score": 100.0,
+  "dimension_scores": {
+    "continuity": 100.0,
+    "setting": 100.0,
+    "character": 100.0,
+    "timeline": 100.0,
+    "ai_flavor": 100.0,
+    "logic": 100.0,
+    "pacing": 100.0,
+    "other": 79.0
+  },
+  "severity_counts": {
+    "critical": 0,
+    "high": 1,
+    "medium": 1,
+    "low": 0
+  },
+  "critical_issues": [],
+  "report_file": "/Users/glenx/Documents/裂隙/审查报告/第1章审查报告.md",
+  "notes": "2个问题：0个阻断，0个高优，1个中优，1个高优（均为rules维度） | issues=2 | blocking=0 | categories=other",
+  "issues_count": 2,
+  "blocking_count": 0,
+  "categories": [
+    "other"
+  ],
+  "timestamp": "2026-06-12T09:50:44"
+}

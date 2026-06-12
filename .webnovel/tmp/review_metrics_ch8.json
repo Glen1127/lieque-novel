@@ -1,0 +1,32 @@
+{
+  "chapter": 8,
+  "start_chapter": 8,
+  "end_chapter": 8,
+  "overall_score": 99.0,
+  "dimension_scores": {
+    "continuity": 100.0,
+    "setting": 94.0,
+    "character": 100.0,
+    "timeline": 100.0,
+    "ai_flavor": 100.0,
+    "logic": 100.0,
+    "pacing": 100.0,
+    "other": 79.0
+  },
+  "severity_counts": {
+    "critical": 0,
+    "high": 1,
+    "medium": 2,
+    "low": 0
+  },
+  "critical_issues": [],
+  "report_file": "/Users/glenx/Documents/裂隙/审查报告/第8章审查报告.md",
+  "notes": "3个问题：0个阻断，1个高优，2个中优 | issues=3 | blocking=0 | categories=other,setting",
+  "issues_count": 3,
+  "blocking_count": 0,
+  "categories": [
+    "other",
+    "setting"
+  ],
+  "timestamp": "2026-06-12T10:19:55"
+}

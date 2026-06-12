@@ -1,0 +1,29 @@
+{
+  "chapter": 5,
+  "start_chapter": 5,
+  "end_chapter": 5,
+  "overall_score": 100.0,
+  "dimension_scores": {
+    "continuity": 100.0,
+    "setting": 100.0,
+    "character": 100.0,
+    "timeline": 100.0,
+    "ai_flavor": 100.0,
+    "logic": 100.0,
+    "pacing": 100.0,
+    "other": 100.0
+  },
+  "severity_counts": {
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "low": 0
+  },
+  "critical_issues": [],
+  "report_file": "/Users/glenx/Documents/裂隙/审查报告/第5章审查报告.md",
+  "notes": "第5章事实审查完成。破折号14个、'但'17次、'不是X是Y'2处、句号密度49.66/千字。 | issues=0 | blocking=0",
+  "issues_count": 0,
+  "blocking_count": 0,
+  "categories": [],
+  "timestamp": "2026-06-12T10:17:26"
+}

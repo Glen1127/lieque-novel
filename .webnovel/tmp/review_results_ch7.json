@@ -1,0 +1,85 @@
+{
+  "issues": [
+    {
+      "type": "rules.butan",
+      "severity": "medium",
+      "message": "“但”字出现27次，超过6次上限",
+      "positions": [
+        92,
+        481,
+        515,
+        650,
+        848,
+        1005,
+        1042,
+        1286,
+        1549,
+        1662,
+        2116,
+        2151,
+        2214,
+        2354,
+        2526,
+        2639,
+        2853,
+        2948,
+        3019,
+        3155,
+        3257,
+        3468,
+        3487,
+        3512,
+        3693,
+        3707,
+        3720
+      ],
+      "fix": "将部分“但”替换为“然而”、“不过”、“只是”、“却”等替词"
+    }
+  ],
+  "dimension_results": {
+    "rules": {
+      "破折号": {
+        "count": 7,
+        "limit": 20,
+        "status": "pass"
+      },
+      "但": {
+        "count": 27,
+        "limit": 6,
+        "status": "fail"
+      },
+      "不是X是Y": {
+        "count": 0,
+        "limit": 1,
+        "status": "pass"
+      },
+      "句号密度": {
+        "value": 48.63,
+        "limit": 70,
+        "unit": "句/千字",
+        "status": "pass"
+      }
+    },
+    "structure": {
+      "status": "pass",
+      "message": "结构完整，分段合理"
+    },
+    "logic": {
+      "status": "pass",
+      "message": "情节连贯，无明显逻转矛盾"
+    },
+    "consistency": {
+      "status": "pass",
+      "message": "人名、地名、术语前后一致"
+    },
+    "worldbuilding": {
+      "status": "pass",
+      "message": "设定自涓"
+    },
+    "grammar": {
+      "status": "pass",
+      "message": "无明显语法错误"
+    }
+  },
+  "summary": "第7章审查完成。字符数3784，句子数184，句号密度48.63/千字。发现问题27处（均为“但”字超限），无障断问题。"
+}

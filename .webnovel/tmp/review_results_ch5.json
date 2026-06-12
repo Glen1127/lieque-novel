@@ -1,0 +1,32 @@
+{
+  "issues": [
+    "'但'出现17次，超过上限6",
+    "'不是X是Y'结构2处，超过上限1"
+  ],
+  "dimension_results": {
+    "rules": {
+      "破折号": {
+        "count": 14,
+        "limit": 20,
+        "pass": true
+      },
+      "但": {
+        "count": 17,
+        "limit": 6,
+        "pass": false
+      },
+      "不是X是Y": {
+        "count": 2,
+        "limit": 1,
+        "pass": false
+      },
+      "句号密度": {
+        "value": 49.66,
+        "unit": "/千字",
+        "limit": 70,
+        "pass": true
+      }
+    }
+  },
+  "summary": "第5章事实审查完成。破折号14个、'但'17次、'不是X是Y'2处、句号密度49.66/千字。"
+}

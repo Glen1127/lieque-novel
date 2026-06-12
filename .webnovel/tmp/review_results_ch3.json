@@ -1,0 +1,58 @@
+{
+  "issues": [
+    {
+      "severity": "high",
+      "category": "rules",
+      "location": "全文多处",
+      "description": "\"不是X是Y\"句式超标：检测到6处，上限1处",
+      "evidence": "全文检测到6处：(1) '材质不是普通的塑料，而是一种特殊的合成材料' (2) '孔洞内部不是血肉，而是一片深邃的黑暗' (3) '不是他在动，而是某种力量在拖拽着他前进' (4) '不是用眼睛，而是用某种奇怪的感知能力' (5) '周德明不是受害者。他是这个转移点的维护者' (6) '不是恐惧，而是一种奇怪的平静'",
+      "fix_hint": "将大部分\"不是...而是...\"句式改写为普通陈述句，如\"材质是...\"、\"孔洞内部是...\"、\"他在被...拖拽\"等",
+      "blocking": false
+    },
+    {
+      "severity": "medium",
+      "category": "rules",
+      "location": "全文多处",
+      "description": "\"但\"字（不含\"但是\"）超标：检测到17处，上限6处",
+      "evidence": "第2段、第4段、第5段、第8段、第12段、第15段、第17段、第19段、第21段、第22段、第23段、第25段、第28段、第31段、第33段、第36段等多处出现",
+      "fix_hint": "将部分\"但\"引导的转折改为并列句或因果句，减少连词密度",
+      "blocking": false
+    },
+    {
+      "severity": "medium",
+      "category": "rules",
+      "location": "第19段",
+      "description": "破折号数量达到上限20次（临界）",
+      "evidence": "检测到破折号20处，刚好达到上限",
+      "fix_hint": "部分破折号可改为逗号或句号，注意不要超标",
+      "blocking": false
+    },
+    {
+      "severity": "medium",
+      "category": "logic",
+      "location": "第10-12段",
+      "description": "沈念刚发现回声实体，立刻判断\"正面冲突毫无胜算\"——但此时他尚未尝试任何对抗手段，结论过于武断",
+      "evidence": "\"首先评估形势：敌方体积庞大，正面冲突毫无胜算。环境封闭，退路已断。\"——敌人刚出现，作者直接让角色下了结论，而非通过观察和试探得出",
+      "fix_hint": "加入更多观察或试探过程，让判断显得更合理（如\"它的移动速度似乎不快\"、\"地面震动频率稳定\"等）",
+      "blocking": false
+    },
+    {
+      "severity": "low",
+      "category": "logic",
+      "location": "第8段",
+      "description": "\"他已经在大脑中飞速运转\"——主语省略突兀，前文无\"运转\"铺垫",
+      "evidence": "\"沈念的大脑飞速运转\"——\"大脑\"作主语，搭配\"飞速运转\"略显生硬",
+      "fix_hint": "改为\"沈念飞速运转思维\"或\"沈念的思维飞速运转\"",
+      "blocking": false
+    }
+  ],
+  "dimension_results": [
+    {"dimension": "setting", "conclusion": "pass"},
+    {"dimension": "timeline", "conclusion": "pass"},
+    {"dimension": "continuity", "conclusion": "pass"},
+    {"dimension": "character", "conclusion": "pass"},
+    {"dimension": "logic", "conclusion": "发现2个问题：评估过于武断、主语搭配生硬"},
+    {"dimension": "rules", "conclusion": "发现3个问题：'不是X是Y'超标(6处)、'但'字超标(17处)、破折号达上限(20处)"}
+  ],
+  "summary": "5个问题：0个阻断，1个高优(句式超标)，4个中低优"
+}

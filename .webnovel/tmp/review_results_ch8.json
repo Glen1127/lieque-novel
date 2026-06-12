@@ -1,0 +1,58 @@
+{
+  "issues": [
+    {
+      "severity": "medium",
+      "category": "other",
+      "location": "全文",
+      "description": "破折号使用次数超标：17次 > 6次（规则上限）",
+      "evidence": "全文共检测到\"但\"字17次（不含\"但是\"），超过规则上限6次",
+      "fix_hint": "将部分\"但\"替换为\"然而\"、\"不过\"、\"可是\"、\"却\"等替代表达",
+      "blocking": false
+    },
+    {
+      "severity": "high",
+      "category": "other",
+      "location": "全文",
+      "description": "\"不是X是Y\"句式使用3次，超过规则上限1次",
+      "evidence": "检测到3处\"不是...是...\"模式：1) 第49行\"这是考验\"前文；2) 第131行\"那不是梦\"；3) 第137行\"是档案室的秘密\"等",
+      "fix_hint": "将\"不是X是Y\"句式改写为\"并非X，而是Y\"或\"X并非Y\"等结构",
+      "blocking": false
+    },
+    {
+      "severity": "medium",
+      "category": "setting",
+      "location": "主角状态",
+      "description": "无法校验设定一致性：主角实体数据不存在于状态系统",
+      "evidence": "webnovel.py state get-entity --id protagonist 返回 NOT_FOUND",
+      "fix_hint": "确认主角状态已正确录入系统，或确认实体ID名称",
+      "blocking": false
+    }
+  ],
+  "dimension_results": [
+    {
+      "dimension": "setting",
+      "conclusion": "发现1个问题：无法校验主角设定（实体未找到），需人工确认"
+    },
+    {
+      "dimension": "timeline",
+      "conclusion": "pass"
+    },
+    {
+      "dimension": "continuity",
+      "conclusion": "pass"
+    },
+    {
+      "dimension": "character",
+      "conclusion": "pass"
+    },
+    {
+      "dimension": "logic",
+      "conclusion": "pass"
+    },
+    {
+      "dimension": "rules",
+      "conclusion": "发现2个问题：但字超标(17>6)、不是X是Y超标(3>1)"
+    }
+  ],
+  "summary": "3个问题：0个阻断，1个高优，2个中优"
+}

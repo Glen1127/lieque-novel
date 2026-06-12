@@ -1,1 +1,31 @@
-{"issues": [], "blocking_count": 0, "passed": true}
+{
+  "issues": [
+    {
+      "severity": "medium",
+      "category": "other",
+      "location": "全文14处",
+      "description": "助词\"但\"字出现14次，超过6次上限",
+      "evidence": "全文14处\"但\"：位置95,711,763,851,927,1032,1073,1346,1941,1989,2187,2261,2331,2404",
+      "fix_hint": "将部分\"但\"替换为\"然而\"、\"不过\"、\"只是\"、\"却\"等替词",
+      "blocking": false
+    },
+    {
+      "severity": "high",
+      "category": "other",
+      "location": "全文4处",
+      "description": "\"不是X是Y\"句式出现4次，超过1次上限",
+      "evidence": "1.位置995:不是保证，而是一个可以抓住的东西。2.位置1220:不是普通的市政文件，而是一些\"不可归档\"的记3.位置1293:不是因为他们想走，而是因为他们被\"转移\"了 4.位置2091:不是脚步声，也不是说话声。而是一种低沉",
+      "fix_hint": "将\"不是X是Y\"句式改写为\"并非X， 而是Y\"或\"不是X，Y\"等变体",
+      "blocking": false
+    }
+  ],
+  "dimension_results": [
+    {"dimension": "setting", "conclusion": "无法校验设定一致性： protagonist实体不存在"},
+    {"dimension": "timeline", "conclusion": "pass"},
+    {"dimension": "continuity", "conclusion": "pass"},
+    {"dimension": "character", "conclusion": "pass"},
+    {"dimension": "logic", "conclusion": "pass"},
+    {"dimension": "rules", "conclusion": "发现2个问题：\"但\"字14次超限(6)，\"不是X是Y\"句式4次超限(1)"}
+  ],
+  "summary": "2个问题：0个阻断，0个高优，1个中优，1个高优（均为rules维度）"
+}
