@@ -1,32 +1,46 @@
 {
-  "chapter": 24,
-  "start_chapter": 24,
-  "end_chapter": 24,
-  "overall_score": 95.0,
-  "dimension_scores": {
-    "continuity": 100.0,
-    "setting": 100.0,
-    "character": 100.0,
-    "timeline": 100.0,
-    "ai_flavor": 100.0,
-    "logic": 100.0,
-    "pacing": 85.0,
-    "other": 80.0
+  "chapter": 25,
+  "title": "林中相遇",
+  "metrics": {
+    "word_count": 2678,
+    "paragraph_count": 46,
+    "line_count": 132,
+    "dialogue_count": 38,
+    "dialogue_ratio": 0.45,
+    "narration_ratio": 0.55,
+    "repetition_score": 0.72,
+    "pacing_score": 0.58,
+    "coherence_score": 0.65,
+    "dialogue_diversity_score": 0.41,
+    "scene_transition_score": 0.38
   },
-  "severity_counts": {
-    "critical": 0,
-    "high": 2,
-    "medium": 1,
-    "low": 3
+  "detailed_metrics": {
+    "repeated_phrases": [
+      "感到某种奇异的",
+      "他们不是...只是普通人",
+      "橙石在他胸口跳动",
+      "等待新的旅程",
+      "他们穿过森林，穿过那些树",
+      "很多我们从未见过的东西"
+    ],
+    "repeated_count": 6,
+    "dialogue_tags_variety": ["说", "问", "看着"],
+    "dialogue_tags_count": 3,
+    "scene_descriptions_count": 4,
+    "scene_transitions_count": 2
   },
-  "critical_issues": [],
-  "report_file": "/Users/glenx/Documents/裂隙/审查报告/第24章审查报告.md",
-  "notes": "6个问题：0个阻断，2个高优，1个中优，3个低优 | issues=6 | blocking=0 | categories=other,pacing",
-  "issues_count": 6,
-  "blocking_count": 0,
-  "categories": [
-    "other",
-    "pacing"
-  ],
-  "timestamp": "2026-06-12T16:43:00"
+  "scores": {
+    "overall_quality": 0.62,
+    "narrative": 0.68,
+    "dialogue": 0.51,
+    "description": 0.55,
+    "pacing": 0.58,
+    "coherence": 0.65
+  },
+  "comparison_with_previous_chapters": {
+    "word_count_trend": "stable",
+    "repetition_trend": "increasing",
+    "pacing_trend": "stable"
+  },
+  "timestamp": "2026-06-12T22:30:00+08:00"
 }
