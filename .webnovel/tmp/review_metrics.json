@@ -1,73 +1,63 @@
 {
-  "chapter": 15,
-  "title": "晋升与考验",
+  "chapter": 16,
+  "title": "现实与虚幻",
   "review_date": "2026-06-12",
-  "source_file": "/Users/glenx/Documents/裂隙/正文/第15章.md",
+  "source_file": "/Users/glenx/Documents/裂隙/正文/第16章.md",
   "basic_stats": {
-    "total_lines": 122,
-    "total_characters": 5756,
-    "word_count_approx": 2800,
-    "paragraph_count": 45
+    "total_lines": 146,
+    "total_characters": 6544,
+    "word_count_approx": 3200,
+    "paragraph_count": 52
   },
   "dialogue_stats": {
-    "dialogue_lines": 28,
-    "dialogue_ratio": 0.23,
+    "dialogue_lines": 18,
+    "dialogue_ratio": 0.12,
     "speaker_count": 2
   },
   "pacing": {
-    "scene_count": 6,
-    "avg_scene_length_lines": 20.3,
-    "fastest_scene": "徐晓揭示真相（约15行对话密集）",
-    "slowest_scene": "沈念独白与思考（第113-122行）"
+    "scene_count": 5,
+    "avg_scene_length_lines": 29.2,
+    "fastest_scene": "库房揭示真相（约20行叙述密集）",
+    "slowest_scene": "沈念独白与思考（第1-40行）"
   },
   "character_presence": {
     "沈念": {
       "POV": true,
-      "scene_count": 6,
-      "dialogue_count": 14,
-      "inner_thought_lines": 18
+      "scene_count": 5,
+      "dialogue_count": 10,
+      "inner_thought_lines": 35
     },
     "徐晓": {
       "POV": false,
-      "scene_count": 1,
-      "dialogue_count": 10,
-      "first_appearance_line": 11
-    },
-    "徐守元": {
-      "POV": false,
-      "mentioned": true,
-      "dialogue_referenced": 2
-    },
-    "档案室守卫": {
-      "POV": false,
-      "scene_count": 1,
-      "dialogue_count": 1
+      "scene_count": 2,
+      "dialogue_count": 8,
+      "first_appearance_line": 65
     }
   },
   "concept_density": {
-    "new_terms_introduced": ["档案室内部代码", "传递者", "回声", "橙石代价"],
-    "new_terms_count": 4,
-    "callback_chapters": [13],
-    "callback_rate": 1
+    "new_terms_introduced": ["橙石库房"],
+    "new_terms_count": 1,
+    "callback_chapters": [14, 15],
+    "callback_rate": 2
   },
   "structural_arc": {
-    "opening": "档案发现",
-    "rising_action": "徐晓揭示真相",
-    "climax": "沈念接受传递者身份",
-    "falling_action": "明日安排与休息",
-    "resolution": "选择活下去"
+    "opening": "失眠与怀疑",
+    "rising_action": "梦境与晨醒验证",
+    "climax": "橙石库房揭示",
+    "falling_action": "回声系统的真相",
+    "resolution": "选择继续前进"
   },
   "repetition_check": {
-    "phrases_repeated_3plus": ["他必须活下来", "他必须找到答案", "他必须搞清楚"],
-    "repetition_count": 3,
-    "note": "重复句式强化主题但可考虑变化"
+    "phrases_repeated_3plus": ["他必须验证", "这是真的吗", "橙石的光芒"],
+    "repetition_count": 5,
+    "note": "核心问题「这是真的吗」出现3次形成主题，但变化较少"
   },
   "progression_metrics": {
-    "chapter_in_sequence": 15,
-    "plot_progress_score": 7,
+    "chapter_in_sequence": 16,
+    "plot_progress_score": 6,
     "character_development_score": 7,
-    "mystery_unfold_score": 8,
-    "overall_quality_score": 7.5
+    "mystery_unfold_score": 7,
+    "overall_quality_score": 6.5
   },
-  "notes": "章节推进核心世界观信息（回声系统、传递者身份），节奏控制良好，新角色徐晓出场自然但稍显突兀。重复句式是本 chapter 主要可改进点。"
+  "notes": "章节以心理描写为主，对话比例偏低（12%）。主要功能是深化世界观（橙石库房、回声系统），同时确立沈念的主动验证姿态。徐晓角色延续第15章但形象仍较单薄。重复句式和核心问题反复使用强化主题但略显单调。库房场景是视觉亮点，悲伤情绪传达成功。"
 }
