@@ -1,8 +1,8 @@
 {
-  "chapter": 12,
-  "start_chapter": 12,
-  "end_chapter": 12,
-  "overall_score": 100.0,
+  "chapter": 13,
+  "start_chapter": 13,
+  "end_chapter": 13,
+  "overall_score": 99.0,
   "dimension_scores": {
     "continuity": 100.0,
     "setting": 100.0,
@@ -10,20 +10,21 @@
     "timeline": 100.0,
     "ai_flavor": 100.0,
     "logic": 100.0,
-    "pacing": 100.0,
+    "pacing": 98.0,
     "other": 100.0
   },
   "severity_counts": {
     "critical": 0,
     "high": 0,
     "medium": 0,
-    "low": 0
+    "low": 2
   },
   "critical_issues": [],
-  "report_file": null,
-  "notes": "0个问题：0个阻断，0个高优，0个中优 | issues=0 | blocking=0 | categories=[]",
-  "issues_count": 0,
+  "notes": "2个问题：均为低优(pacing)，0个阻断 | issues=2 | blocking=0 | categories=pacing",
+  "issues_count": 2,
   "blocking_count": 0,
-  "categories": [],
-  "timestamp": "2026-06-12T10:35:00"
+  "categories": [
+    "pacing"
+  ],
+  "timestamp": "2026-06-12T14:26"
 }
