@@ -1,32 +1,104 @@
 {
-  "chapter": 19,
-  "title": "冲突与抉择",
-  "metrics": {
-    "word_count": 107,
-    "line_count": 158,
-    "character_count": 5791,
-    "avg_line_length": 36.7
+  "chapter": 20,
+  "title": "代价",
+  "source_file": "/Users/glenx/Documents/裂隙/正文/第20章.md",
+
+  "basic_stats": {
+    "line_count": 172,
+    "word_count": 5460,
+    "character_count": 5449,
+    "paragraph_count": 86,
+    "dialogue_paragraphs": 65,
+    "narration_paragraphs": 21,
+    "estimated_reading_time_minutes": 3
   },
-  "structure": {
-    "scenes": 5,
-    "main_locations": ["病房", "走廊", "楼梯", "走廊尽头", "病房"]
+
+  "dialogue_metrics": {
+    "total_lines": 172,
+    "dialogue_lines": 96,
+    "narration_lines": 76,
+    "dialogue_ratio": 0.558,
+    "speaker_distribution": {
+      "沈念": 53,
+      "徐晓": 41,
+      "narration": 78
+    }
   },
-  "pacing": {
-    "scene_count": 5,
-    "action_sections": 1,
-    "reflection_sections": 1,
-    "dialogue_sections": 1
+
+  "structure_metrics": {
+    "scene_count": 1,
+    "scene_locations": ["07-档案室"],
+    "time_period": "第二天早上",
+    "pov": "third_person_limited",
+    "pov_character": "沈念",
+    "structural_division": "单一场景，线性叙事"
   },
-  "characters": {
-    "point_of_view": "沈念",
-    "named_characters": 3,
-    "minor_characters": 0
+
+  "content_metrics": {
+    "action_scenes": 0,
+    "dialogue_scenes": 1,
+    "reflection_scenes": 0,
+    "transition_scenes": 0,
+    "emotional_peaks": 1,
+    "plot_revelations": 2
   },
-  "quality_indicators": {
-    "repeated_words": ["橙石", "光芒", "沈念", "杨娜"],
-    "repeated_phrases": []
+
+  "character_metrics": {
+    "named_characters_appearing": 3,
+    "named_characters": ["沈念", "徐晓", "林羽(提及)"],
+    "major_characters": ["沈念", "徐晓"],
+    "minor_characters": ["林羽(提及)"],
+    "character_appearances": {
+      "沈念": 172,
+      "徐晓": 65,
+      "林羽": 2
+    }
   },
-  "chapter_type": "冲突章节",
-  "genre_tags": ["悬疑", "都市", "奇幻"],
-  "estimated_reading_time_minutes": 2
+
+  "thematic_metrics": {
+    "primary_theme": "代价与选择",
+    "secondary_themes": ["信息不对称的代价", "主动vs被动", "情感与责任"],
+    "thematic_coherence_score": 0.95,
+    "symbolic_elements": ["橙色光芒", "沙漏", "铁门"]
+  },
+
+  "quality_metrics": {
+    "pacing_score": 0.72,
+    "dialogue_quality_score": 0.88,
+    "narrative_clarity_score": 0.92,
+    "emotional_depth_score": 0.78,
+    "character_development_score": 0.82,
+    "overall_score": 0.84
+  },
+
+  "genre_tags": ["都市奇幻", "成长", "代价", "友情", "世界观揭示"],
+
+  "comparative_metrics": {
+    "chapter_number": 20,
+    "position_in_book": "early_second_act",
+    "similar_to_chapter": 19,
+    "changes_from_previous": [
+      "从动作场景转向对话驱动",
+      "引入新的世界观规则(橙石代价机制)",
+      "深化角色关系(徐晓-沈念)"
+    ]
+  },
+
+  "flags": [
+    {
+      "flag": "single_scene",
+      "severity": "info",
+      "description": "本章全程在单一场景(档案室)展开"
+    },
+    {
+      "flag": "dialogue_heavy",
+      "severity": "info",
+      "description": "对话占比约56%，是典型的对话驱动章节"
+    },
+    {
+      "flag": "worldbuilding_heavy",
+      "severity": "info",
+      "description": "本章承担了大量世界观信息传递任务"
+    }
+  ]
 }
