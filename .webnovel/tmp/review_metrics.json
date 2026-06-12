@@ -1,63 +1,36 @@
 {
-  "chapter": 16,
-  "title": "现实与虚幻",
-  "review_date": "2026-06-12",
-  "source_file": "/Users/glenx/Documents/裂隙/正文/第16章.md",
-  "basic_stats": {
-    "total_lines": 146,
-    "total_characters": 6544,
-    "word_count_approx": 3200,
-    "paragraph_count": 52
+  "chapter": 17,
+  "title": "玉佩的价值",
+  "metrics": {
+    "word_count": 162,
+    "line_count": 162,
+    "character_count": 5601,
+    "avg_line_length": 34.5,
+    "dialogue_ratio": 0.45,
+    "narrative_ratio": 0.55
   },
-  "dialogue_stats": {
-    "dialogue_lines": 18,
-    "dialogue_ratio": 0.12,
-    "speaker_count": 2
+  "structure": {
+    "scenes": 3,
+    "setting_details": ["仓库外咖啡馆", "仓库内部"],
+    "main_locations": ["咖啡馆", "仓库"]
   },
   "pacing": {
-    "scene_count": 5,
-    "avg_scene_length_lines": 29.2,
-    "fastest_scene": "库房揭示真相（约20行叙述密集）",
-    "slowest_scene": "沈念独白与思考（第1-40行）"
+    "scene_count": 3,
+    "dialogue_heavy_sections": 1,
+    "action_sections": 1,
+    "reflection_sections": 1
   },
-  "character_presence": {
-    "沈念": {
-      "POV": true,
-      "scene_count": 5,
-      "dialogue_count": 10,
-      "inner_thought_lines": 35
-    },
-    "徐晓": {
-      "POV": false,
-      "scene_count": 2,
-      "dialogue_count": 8,
-      "first_appearance_line": 65
-    }
+  "characters": {
+    "point_of_view": "沈念",
+    "named_characters": 2,
+    "minor_characters": 0
   },
-  "concept_density": {
-    "new_terms_introduced": ["橙石库房"],
-    "new_terms_count": 1,
-    "callback_chapters": [14, 15],
-    "callback_rate": 2
+  "quality_indicators": {
+    "repeated_words": ["四十万", "橙", "仓库", "玉佩"],
+    "repeated_phrases": ["算是吧"],
+    "direct_duals": 0
   },
-  "structural_arc": {
-    "opening": "失眠与怀疑",
-    "rising_action": "梦境与晨醒验证",
-    "climax": "橙石库房揭示",
-    "falling_action": "回声系统的真相",
-    "resolution": "选择继续前进"
-  },
-  "repetition_check": {
-    "phrases_repeated_3plus": ["他必须验证", "这是真的吗", "橙石的光芒"],
-    "repetition_count": 5,
-    "note": "核心问题「这是真的吗」出现3次形成主题，但变化较少"
-  },
-  "progression_metrics": {
-    "chapter_in_sequence": 16,
-    "plot_progress_score": 6,
-    "character_development_score": 7,
-    "mystery_unfold_score": 7,
-    "overall_quality_score": 6.5
-  },
-  "notes": "章节以心理描写为主，对话比例偏低（12%）。主要功能是深化世界观（橙石库房、回声系统），同时确立沈念的主动验证姿态。徐晓角色延续第15章但形象仍较单薄。重复句式和核心问题反复使用强化主题但略显单调。库房场景是视觉亮点，悲伤情绪传达成功。"
+  "chapter_type": "转折点章节",
+  "genre_tags": ["悬疑", "都市", "奇幻"],
+  "estimated_reading_time_minutes": 3
 }
