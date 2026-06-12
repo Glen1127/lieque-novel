@@ -1,31 +1,32 @@
 {
-  "chapter": 18,
-  "title": "新的希望",
+  "chapter": 19,
+  "title": "冲突与抉择",
   "metrics": {
-    "word_count": 162,
-    "line_count": 146,
-    "character_count": 5803,
-    "avg_line_length": 39.7
+    "word_count": 107,
+    "line_count": 158,
+    "character_count": 5791,
+    "avg_line_length": 36.7
   },
   "structure": {
-    "scenes": 1,
-    "main_locations": ["医院花园"]
+    "scenes": 5,
+    "main_locations": ["病房", "走廊", "楼梯", "走廊尽头", "病房"]
   },
   "pacing": {
-    "scene_count": 1,
+    "scene_count": 5,
+    "action_sections": 1,
     "reflection_sections": 1,
     "dialogue_sections": 1
   },
   "characters": {
     "point_of_view": "沈念",
-    "named_characters": 2,
+    "named_characters": 3,
     "minor_characters": 0
   },
   "quality_indicators": {
-    "repeated_words": ["四十万", "希望", "一步一步", "玉佩"],
-    "repeated_phrases": ["边缘地带"]
+    "repeated_words": ["橙石", "光芒", "沈念", "杨娜"],
+    "repeated_phrases": []
   },
-  "chapter_type": "过渡章节",
+  "chapter_type": "冲突章节",
   "genre_tags": ["悬疑", "都市", "奇幻"],
-  "estimated_reading_time_minutes": 3
+  "estimated_reading_time_minutes": 2
 }
