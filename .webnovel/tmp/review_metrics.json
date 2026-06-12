@@ -1,45 +1,29 @@
 {
-  "chapter": "第10章",
-  "title": "逃亡计划",
-  "review_date": "2026-06-12",
-  "metrics": {
-    "word_count": 2917,
-    "paragraph_count": 107,
-    "dialogue_ratio": 0.18,
-    "narrative_ratio": 0.82,
-    "avg_sentence_length": 24.5,
-    "avg_paragraph_length": 27.3,
-    "pacing_markers": {
-      "tension_peaks": 3,
-      "climax_sentences": ["473。沈念心跳加速。这个数字像是一记重锤", "三十秒。沈念在心中默念", "他的脚步，没有停"]
-    },
-    "character_presence": {
-      "沈念": 89,
-      "周德清": 12,
-      "林姐": 15,
-      "白赛": 8,
-      "周晓彤": 4
-    },
-    "scene_count": 4,
-    "location_transitions": 2,
-    "emotional_tone": {
-      "tension": 72,
-      "resolve": 65,
-      "melancholy": 55,
-      "urgency": 60
-    },
-    "symbolic_elements": [
-      "拐杖声（倒计时）",
-      "钥匙温度（责任与体温）",
-      "柜门重量（抉择之重）",
-      "橙石光晕（希望/危险）",
-      "档案柜标签（被遗忘的名字）"
-    ],
-    "narrative_techniques": [
-      "门缝窃听（悬念营造）",
-      "数字重锤（473、30秒）",
-      "细节堆叠（环境沉默）",
-      "对比张力（群体vs个人）"
-    ]
-  }
+  "chapter": 11,
+  "start_chapter": 11,
+  "end_chapter": 11,
+  "overall_score": 100.0,
+  "dimension_scores": {
+    "continuity": 100.0,
+    "setting": 100.0,
+    "character": 100.0,
+    "timeline": 100.0,
+    "ai_flavor": 100.0,
+    "logic": 100.0,
+    "pacing": 100.0,
+    "other": 100.0
+  },
+  "severity_counts": {
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "low": 0
+  },
+  "critical_issues": [],
+  "report_file": null,
+  "notes": "0个问题：0个阻断，0个高优，0个中优 | issues=0 | blocking=0 | categories=[]",
+  "issues_count": 0,
+  "blocking_count": 0,
+  "categories": [],
+  "timestamp": "2026-06-12T10:35:00"
 }
