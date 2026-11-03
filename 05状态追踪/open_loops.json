@@ -63,6 +63,14 @@
       "status": "pending",
       "answer_ch": null,
       "answer": null
+    },
+    {
+      "id": "paper_ledger",
+      "question": "云台观的签、账纸、符为什么是同一处发下来的？发纸的是谁？",
+      "ch_created": 48,
+      "status": "pending",
+      "answer_ch": null,
+      "answer": null
     }
   ]
 }
