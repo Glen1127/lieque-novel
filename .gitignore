@@ -22,3 +22,14 @@ __pycache__/
 .webnovel/context_cache.json
 .webnovel/*.lock
 .webnovel/*.bak
+
+# 2026-11-03 审核去污染批次
+.webnovel/bak_*/
+.webnovel/*.bak_*
+.webnovel/ch46_rewrite_draft.md
+.webnovel/rewrite_spec/
+.webnovel/title_todo*.txt
+.webnovel/title_fix_list.txt
+.webnovel/_ch4*_metrics.json
+.webnovel/_review_ch4*.py
+lieque_reverse/04章节表/*.bak*
