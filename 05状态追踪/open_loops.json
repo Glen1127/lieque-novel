@@ -70,7 +70,17 @@
       "ch_created": 48,
       "status": "pending",
       "answer_ch": null,
-      "answer": null
+      "answer": "ch49 已验：签/账纸/符三样同出一处（帘纹竖直、间距均匀）；下一步不是追人，是去那家发纸的地方要一张有帘纹有红印的真纸",
+      "progress": "ch49 推进：锁定发纸处即收钱处，队伍东行赴米行街方向"
+    },
+    {
+      "id": "no_registry",
+      "question": "沈念身上的「无籍」究竟是什么——册管不着的人，为什么一次能销一千道愿？三年前那个空案跟他什么关系？",
+      "ch_created": 49,
+      "status": "pending",
+      "answer_ch": null,
+      "answer": null,
+      "progress": "ch49 守拙点破：册上认「沈念」二字，缺的是八字和籍贯；三年前无籍者自己上过坛，下去时是个「无」，回来时带一个空案"
     }
   ]
 }
